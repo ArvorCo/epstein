@@ -1,0 +1,11 @@
+# Ignorar tudo
+*
+
+# Exceto estas pastas/arquivos
+!docs/
+!docs/**
+!README.md
+!.gitignore
+
+# Exceto: manter PROMPTS_IMAGENS.md ignorado dentro de docs
+docs/PROMPTS_IMAGENS.md
