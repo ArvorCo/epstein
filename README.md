@@ -37,11 +37,18 @@ Esta investigacao utilizou as seguintes ferramentas para processar e analisar o 
 - Processamento de resultados
 - Geracao de estatisticas
 
+## Artigo Principal
+
+> **[Jeffrey Epstein: A Anatomia do Monstro](docs/artigo.md)**
+>
+> Artigo jornalistico narrativo que conta a historia completa de Jeffrey Epstein, desde sua infancia em Brooklyn ate sua morte em Manhattan. Uma investigacao baseada em 6 milhoes de documentos.
+
 ## Dossies Disponiveis
 
 | Arquivo | Descricao |
 |---------|-----------|
-| [INVESTIGACAO_EPSTEIN_COMPLETA.md](docs/INVESTIGACAO_EPSTEIN_COMPLETA.md) | Artigo investigativo principal |
+| [artigo.md](docs/artigo.md) | **Artigo narrativo principal** - Historia completa de Epstein |
+| [INVESTIGACAO_EPSTEIN_COMPLETA.md](docs/INVESTIGACAO_EPSTEIN_COMPLETA.md) | Laudo investigativo tecnico com grafos e estatisticas |
 | [dossie_brasil_rede_influencia.md](docs/dossie_brasil_rede_influencia.md) | Conexoes Brasil: rede financeira, politica e social |
 | [dossie_brasil_conexoes.md](docs/dossie_brasil_conexoes.md) | Conexoes Brasil: investigacao inicial |
 | [dossie_linguagem_codificada.md](docs/dossie_linguagem_codificada.md) | Investigacao de linguagem codificada (termos verificados) |
