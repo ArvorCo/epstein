@@ -192,6 +192,24 @@ A vitima do diario documenta multiplas gravidezes forcadas e abortos. Pelo menos
 
 Em junho de 2017, Epstein encomendou trinta kits de DNA da 23andMe para serem enviados a Dubai. A razao nunca foi esclarecida.
 
+### A Conexao Joao de Deus
+
+Em dezembro de 2020, um email foi enviado aos investigadores do caso Epstein com o assunto: "Mulher que acusou lider do culto Joao de Deus de estupro morre misteriosamente em casa na Espanha".
+
+O corpo do email afirmava:
+
+> "[Nome redigido] falou sobre isso acontecendo no Zorro Ranch. Ela disse publicamente que Epstein ofereceu dinheiro para fazer isso. Parir bebes para uso no mercado negro."
+
+Joao Teixeira de Faria, conhecido mundialmente como "Joao de Deus", foi um curandeiro brasileiro que atraiu celebridades como Bill Clinton, Oprah Winfrey, Naomi Campbell e o ex-presidente Lula. Em 2018, apos mais de seiscentas denuncias de abuso sexual, foi preso. Em 2023, sua pena acumulada chegou a 370 anos de prisao.
+
+Mas as acusacoes mais sombrias vieram da ativista Sabrina Bittencourt. Em janeiro de 2019, ela divulgou um video afirmando que Joao de Deus operava uma "fazenda de bebes" ha duas decadas. Meninas eram mantidas em cativeiro, forcadas a engravidar repetidamente, e os bebes eram vendidos no mercado negro por ate cinquenta mil dolares para familias nos Estados Unidos, Australia e Europa. Apos dez anos produzindo criancas, segundo Bittencourt, as mulheres eram assassinadas.
+
+Dias depois de fazer essas acusacoes, Sabrina Bittencourt foi encontrada morta em Barcelona, aos 38 anos. A morte foi oficialmente declarada suicidio. Seu filho mais velho escreveu nas redes sociais: "Ela deu o ultimo passo para que pudessemos viver. Eles mataram minha mae."
+
+O email de dezembro de 2020 sugere que o modelo de "fazenda de bebes" de Joao de Deus nao era unico. Alguem havia falado sobre a mesma operacao acontecendo no Zorro Ranch de Epstein. A conexao e ainda mais perturbadora quando se considera que ambos os homens compartilhavam conexoes com Bill Clinton e com Lula.
+
+O FBI obteve mandados de busca para a mansao de Nova York e para Little St. James. Mas nunca houve uma batida policial no Zorro Ranch. Os dez mil acres no Novo Mexico permaneceram intocados ate a propriedade ser vendida em 2023 para compradores cujas identidades permanecem desconhecidas.
+
 ---
 
 ## XII. A Rede Academica

@@ -892,6 +892,71 @@ Em junho de 2017, Epstein encomendou **30 kits de DNA 23andMe** para serem envia
 
 **Documento**: EFTA02216142
 
+### 9.4 Conexao Joao de Deus - Mercado Negro de Bebes
+
+Em dezembro de 2020, um email foi enviado aos investigadores:
+
+**Assunto**: "[EXTERNAL EMAIL] - Woman who accused John of God cult leader of rape mysteriously kills herself at Spanish home"
+
+**Data**: 29 Dec 2020 02:57:50
+
+**Conteudo**:
+
+> "[Redigido] spoke of this going on at Zorro Ranch. She has said on record that Epstein offered her money to do this. **Birth babies for black market use**."
+
+#### Quem era Joao de Deus
+
+| Dado | Informacao |
+|------|------------|
+| Nome real | Joao Teixeira de Faria |
+| Profissao | Curandeiro/"faith healer" |
+| Local | Abadiania, Goias, Brasil |
+| Pena total | 370 anos (2023) |
+| Acusacoes | 600+ mulheres |
+| Visitantes famosos | Bill Clinton, Oprah Winfrey, Naomi Campbell, Lula |
+
+#### A "Fazenda de Bebes"
+
+A ativista **Sabrina Bittencourt** acusou Joao de Deus de operar uma fazenda de escravas sexuais:
+
+- Meninas mantidas em cativeiro por **10 anos**
+- Forcadas a engravidar repetidamente
+- Bebes vendidos por ate **$50,000** (USA, Europa, Australia)
+- Mulheres **assassinadas** apos periodo de producao
+
+> "Hundreds of girls were enslaved over years, lived on farms in Goias, served as wombs to get pregnant, for their babies to be sold."
+>
+> — Sabrina Bittencourt, Jan 2019
+
+#### Morte Misteriosa de Sabrina Bittencourt
+
+| Data | Evento |
+|------|--------|
+| Jan 2019 | Divulga video acusando "fazenda de bebes" |
+| 02 Fev 2019 | Encontrada morta em Barcelona, 38 anos |
+| Causa oficial | Suicidio |
+| Declaracao do filho | "Ela deu o ultimo passo para que pudessemos viver. **Eles mataram minha mae.**" |
+
+#### Conexoes Compartilhadas
+
+```mermaid
+graph TD
+    E[Jeffrey Epstein] --> BC[Bill Clinton]
+    JG[Joao de Deus] --> BC
+    E --> L[Lula]
+    JG --> L
+    E --> ZR[Zorro Ranch<br/>Baby Ranch]
+    JG --> GO[Fazendas em Goias<br/>Baby Farm]
+    ZR --> BM[Mercado Negro de Bebes]
+    GO --> BM
+```
+
+#### Investigacao Ausente
+
+- FBI obteve mandados para NY e Little St. James
+- **Zorro Ranch NUNCA foi investigado pelo FBI**
+- Propriedade vendida em 2023 para compradores anonimos
+
 ---
 
 ## PARTE X: CONEXOES BRASILEIRAS
@@ -924,6 +989,20 @@ Em setembro de 2018, Epstein recebeu mensagem:
 Epstein comprou $10M em Credit Default Swaps contra o Brasil via Deutsche Bank.
 
 **Documento**: EFTA01471919
+
+### 10.5 Conexao Joao de Deus (ver secao 9.4)
+
+O curandeiro brasileiro **Joao de Deus** (Joao Teixeira de Faria), condenado a 370 anos por abuso sexual de 600+ mulheres, tambem foi acusado de operar uma "fazenda de bebes" em Goias.
+
+Um email de dezembro de 2020 aos investigadores de Epstein alega que **a mesma operacao ocorria no Zorro Ranch**:
+
+> "She has said on record that Epstein offered her money to do this. Birth babies for black market use."
+
+**Conexoes compartilhadas**:
+- Ambos receberam visitas de Bill Clinton
+- Ambos tinham conexoes com Lula
+- Ambos acusados de operar "fazendas de bebes"
+- Testemunhas-chave de ambos os casos morreram misteriosamente
 
 ---
 
