@@ -455,7 +455,7 @@ Os 40 nomes exclusivos da lista DOJ com maior presença nos documentos:
 | 35 | Ronald Reagan | 246 | Ronald Reagan | 15 |
 | 36 | Mitt Romney | 228 | Mitt Romney | 15 |
 | 37 | David Copperfield | 215 | David Copperfield | 15 |
-| 38 | Les Wexner | 215 | Les Wexner | 15 |
+| 38 | Les Wexner | 1.126† | †"Wexner"=1.126; "Leslie Wexner"=522; "Les Wexner"=215. COCONSPIRADOR; Wexner Foundation=40; Limited Brands=163 | 15 |
 | 39 | Marie Villafana | 213 | Marie Villafana | 15 |
 | 40 | Geoffrey Berman | 212 | Geoffrey Berman | 15 |
 
@@ -570,7 +570,7 @@ Esta seção apresenta a tabela mestra com **todos os 1368 nomes pesquisados** (
 | 73 | DuPont | 226 | - |  | X |  |  |  | 1 | DuPont |
 | 74 | Charles Napoléon | 218 | - |  | X |  |  |  | 1 | Napoléon |
 | 75 | David Copperfield | 215 | 15 | X |  |  |  |  | 1 | David Copperfield |
-| 76 | Les Wexner | 215 | 15 | X |  |  |  |  | 1 | Les Wexner |
+| 76 | Les Wexner | 1.126† | 15 | X |  |  |  |  | 1 | †"Wexner"=1.126; "Leslie Wexner"=522; COCONSPIRADOR |
 | 77 | Al Gore | 214 | - |  | X |  |  |  | 1 | Al Gore |
 | 78 | Hugh Fraser | 213 | - |  | X |  |  |  | 1 | Fraser |
 | 79 | Marie Villafana | 213 | 15 | X |  |  |  |  | 1 | Marie Villafana |

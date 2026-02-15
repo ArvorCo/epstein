@@ -125,32 +125,32 @@ A lista DOJ Bondi contém **307 nomes** considerados relevantes pelo Departament
 | 18 | **Steve Bannon** | 1.347 | iMessages: "Do u know Bernard Arnault" — "Very close mutual friends"; tentou marcar café da manhã |
 | 19 | **Bill Clinton** | 1.178 | Emails sobre "RE Bill Clinton" circulados internamente; Andy Kay encaminhou informação |
 | 20 | **Alan Dershowitz** | 1.135 | Honorários jurídicos: **$3.578.000** (Dershowitz Eiger $427K + outros $173K = **$4.178.462 total**) |
-| 21 | **Alexander Acosta** | 1.061 | Procurador que negociou o acordo de não-acusação de 2008 |
-| 22 | **Daniel Siad** | 1.056 | Mensagens Skype recorrentes: "Hello Jeffrey tell when you have time to speak"; "Sending warme[st]" |
-| 23 | **Jay Lefkowitz** | 928 | Contato coordenado por Rosa M. da Silva via Jes Staley (JPMorgan) |
-| 24 | **Hillary Clinton** | 611 | Contexto político e referências documentais |
-| 25 | **Elon Musk** | 599 | Mencionado em contexto de reportagens e comunicações |
-| 26 | **Barack Obama** | 581 | Referências contextuais; administração Obama conectada via Kathy Ruemmler e Susan Rice |
-| 27 | **Bill Richardson** | 538 | Ex-governador do Novo México (estado do Zorro Ranch) |
-| 28 | **George W. Bush** | 401 | Referências políticas e contextuais |
-| 29 | **Henry Jarecki** | 401 | Médico e investidor; contato direto documentado |
-| 30 | **Joe Biden** | 361 | Referências contextuais; Hunter Biden também com 99 hits |
-| 31 | **Richard Branson** | 340 | Proprietário de Necker Island; 340 menções nos documentos |
-| 32 | **Melinda Gates** | 338 | Mencionada em contexto conjunto com Bill Gates |
-| 33 | **David Boies** | 328 | Advogado de Epstein e depois das vítimas |
-| 34 | **Benjamin Netanyahu** | 321 | Primeiro-ministro de Israel; conexão via Ehud Barak |
-| 35 | **Robert Maxwell** | 298 | Pai de Ghislaine; conexões históricas Mossad |
-| 36 | **Gloria Allred** | 274 | Advogada de direitos civis |
-| 37 | **Marc Rowan** | 256 | CEO Apollo Global Management (sucessor de Leon Black) |
-| 38 | **John Kerry** | 249 | Ex-Secretário de Estado |
-| 39 | **Ronald Reagan** | 246 | Referências históricas |
-| 40 | **David Copperfield** | 215 | Tickets para show em Las Vegas coordenados por Melanie Spinella |
+| 21 | **Les Wexner** | 1.126† | †"Wexner"=1.126; "Leslie Wexner"=522; "Les Wexner"=215. **COCONSPIRADOR**: transferiu $200M+ a Epstein; poder notarial sobre fortuna; "Dybbuk"; Wexner Foundation=40; Limited Brands=163 |
+| 22 | **Alexander Acosta** | 1.061 | Procurador que negociou o acordo de não-acusação de 2008 |
+| 23 | **Daniel Siad** | 1.056 | Mensagens Skype recorrentes: "Hello Jeffrey tell when you have time to speak"; "Sending warme[st]" |
+| 24 | **Jay Lefkowitz** | 928 | Contato coordenado por Rosa M. da Silva via Jes Staley (JPMorgan) |
+| 25 | **Hillary Clinton** | 611 | Contexto político e referências documentais |
+| 26 | **Elon Musk** | 599 | Mencionado em contexto de reportagens e comunicações |
+| 27 | **Barack Obama** | 581 | Referências contextuais; administração Obama conectada via Kathy Ruemmler e Susan Rice |
+| 28 | **Bill Richardson** | 538 | Ex-governador do Novo México (estado do Zorro Ranch) |
+| 29 | **George W. Bush** | 401 | Referências políticas e contextuais |
+| 30 | **Henry Jarecki** | 401 | Médico e investidor; contato direto documentado |
+| 31 | **Joe Biden** | 361 | Referências contextuais; Hunter Biden também com 99 hits |
+| 32 | **Richard Branson** | 340 | Proprietário de Necker Island; 340 menções nos documentos |
+| 33 | **Melinda Gates** | 338 | Mencionada em contexto conjunto com Bill Gates |
+| 34 | **David Boies** | 328 | Advogado de Epstein e depois das vítimas |
+| 35 | **Benjamin Netanyahu** | 321 | Primeiro-ministro de Israel; conexão via Ehud Barak |
+| 36 | **Robert Maxwell** | 298 | Pai de Ghislaine; conexões históricas Mossad |
+| 37 | **Gloria Allred** | 274 | Advogada de direitos civis |
+| 38 | **Marc Rowan** | 256 | CEO Apollo Global Management (sucessor de Leon Black) |
+| 39 | **John Kerry** | 249 | Ex-Secretário de Estado |
+| 40 | **Ronald Reagan** | 246 | Referências históricas |
 
 ### 3.2 DOJ — Nomes Notáveis (41-80)
 
 | Nome | ES Hits | Nome | ES Hits |
 |------|---------|------|---------|
-| Les Wexner | 215 | Marie Villafana | 213 |
+| David Copperfield | 215 | Marie Villafana | 213 |
 | Geoffrey Berman | 212 | Sultan Ahmed bin Sulayem | 194 |
 | Michael Reiter | 181 | Damian Williams | 181 |
 | Tony Blair | 173 | Mark Zuckerberg | 171 |
@@ -468,7 +468,7 @@ Abaixo, nomes com **hits > 10** e busca confiável (excluídos falsos positivos 
 | John Kerry | 249 | X | | | | | John Kerry |
 | Ronald Reagan | 246 | X | | | | | Ronald Reagan |
 | Mitt Romney | 228 | X | | | | | Mitt Romney |
-| Les Wexner | 215 | X | | | | | Les Wexner |
+| Les Wexner | 1.126† | X | | | | | †"Wexner"=1.126; "Leslie Wexner"=522; "Les Wexner"=215. Coconspirador; Wexner Foundation=40; Limited Brands=163 |
 | David Copperfield | 215 | X | | | | | David Copperfield |
 | Al Gore | 214 | | X | | | | Al Gore |
 | Marie Villafana | 213 | X | | | | | Marie Villafana |
