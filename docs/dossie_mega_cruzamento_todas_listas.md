@@ -82,7 +82,7 @@ A lista de 2008 da Trilateral inclui outros nomes com presença nos documentos E
 | **Stanley Fischer** | C300+TC | **15** | Governador do Banco de Israel; email de "Marty Pere" para Epstein pedindo desculpas e mencionando Fischer |
 | **Richard Holbrooke** | C300+TC | **15** | Perseus LLC; listado no documento da Trilateral |
 | **Henry A. Kissinger** | BIL23+TC | **8** | "Lifetime Trustee" da Trilateral; Kissinger Associates com 31 hits |
-| **Eric E. Schmidt** | BIL23+BIL24+BIL25 | 389* | *Busca por sobrenome "Schmidt" — pode incluir outros resultados |
+| **Eric Schmidt** | BIL23+BIL24+BIL25 | 120 | Busca por frase "Eric Schmidt" (ex-CEO Google/Alphabet) |
 
 ### 2.4 Peter Thiel — Análise Aprofundada
 
@@ -317,7 +317,7 @@ A lista do Committee of 300 é a mais extensa (299 nomes em 2010, 349 em 1991) e
 | Nome | ES Hits | Termo | Lista |
 |------|---------|-------|-------|
 | **Andrew (Prince) – of York** | 1.660 | "Prince Andrew" | C300(2010) |
-| **Dominique Strauss-Kahn** | 48.855* | "Strauss-Kahn" | C300(2010) |
+| **Dominique Strauss-Kahn** | 50 | "Strauss-Kahn" | C300(2010) |
 | **Henry Kissinger** | 269 | "Kissinger" | C300(2010) |
 | **Warren Buffett** | 209 | "Buffett" | C300(2010) |
 | **Al Gore** | 214 | "Al Gore" | C300(2010) |
@@ -328,14 +328,14 @@ A lista do Committee of 300 é a mais extensa (299 nomes em 2010, 349 em 1991) e
 | **Roman Abramovich** | 44 | "Abramovich" | C300(2010) |
 | **Klaus Schwab** | 10 | "Klaus Schwab" | C300(2010) |
 
-*Nota: Strauss-Kahn com 48.855 hits é provavelmente inflacionado pela presença de "Strauss" como sobrenome comum nos documentos, mas o contexto DSK-Epstein (ambos envolvidos em escândalos sexuais com ligações a poder) merece investigação separada.
+*Nota: Busca por frase "Strauss-Kahn" retorna 50 hits (29 para "Dominique Strauss-Kahn"). O contexto DSK-Epstein (ambos envolvidos em escândalos sexuais com ligações a poder) merece investigação separada.*
 
 ### 6.4 Famílias e Linhagens C300
 
 As listas C300 incluem diversas famílias aristocráticas e dinásticas. Os resultados por sobrenome de família incluem (com cautela sobre falsos positivos):
 
 - **Rockefeller** (809 hits para sobrenome) — David Jr, David Sr, Nicholas
-- **Rothschild** (90+ hits) — Benjamin de, David René, Evelyn Robert, Leopold David
+- **Rothschild** (7.718 hits para sobrenome; 28 para "Jacob Rothschild", 9 para "Evelyn de Rothschild") — Benjamin de, David René, Evelyn Robert, Leopold David
 - **Bronfman** (95 hits para Charles Rosner; 31 para Edgar Jr)
 - **DuPont** (226 hits)
 - **Vanderbilt** (99 hits)
@@ -357,7 +357,7 @@ As 14 casas papais históricas (as famílias que controlaram o Vaticano por séc
 | **Medici** | 94 | Referências históricas e culturais |
 | **Massimo** | 42 | Pode incluir falsos positivos (nome próprio italiano) |
 | **Mattei** | 42 | Sobrenome italiano |
-| **Doria-Pamphili-Landi** | 33 | Mais específico; família nobre romana |
+| **Doria** | 12 | Parte do nome Doria-Pamphili-Landi; "Doria-Pamphili-Landi" completo = 0 hits |
 | **Borghese** | 27 | Família nobre romana |
 | **Colonna** | 18 | Família nobre romana |
 | **Orsini** | 16 | Família nobre romana |
@@ -367,21 +367,21 @@ As 14 casas papais históricas (as famílias que controlaram o Vaticano por séc
 | **Barberini** | 1 | Família nobre romana |
 | **Chigi** | 1 | Família nobre romana |
 
-**Sem resultados (0 hits)**: Aldobrandini, Braschi, Breakspear, Ruspoli, Altieri, Cybo, Torlonia, Pallavicini
+**Sem resultados (0 hits)**: Aldobrandini, Braschi, Breakspear, Doria-Pamphili-Landi (completo), Ruspoli, Altieri, Cybo, Torlonia, Pallavicini
 
 ### 7.2 Representantes Individuais
 
-| Nome | ES Hits | Casa |
-|------|---------|------|
-| **Jacob Rothschild** | 28 | Rothschild (associado) |
-| **Evelyn de Rothschild** | 9 | Rothschild (associado) |
-| **David Rothschild** | 2 | Rothschild (associado) |
-| **Nathan Rothschild** | 1 | Rothschild (associado) |
-| **Fabrizio Massimo** | 42 | Massimo |
-| **Scipione Borghese** | 27 | Borghese |
-| **Marcantonio Colonna** | 18 | Colonna |
-| **Domenico Orsini** | 16 | Orsini |
-| **Giancarlo Orsini** | 16 | Orsini |
+| Nome | ES Hits (frase) | Casa | Nota |
+|------|-----------------|------|------|
+| **Jacob Rothschild** | 28 | Rothschild (associado) | Correspondência pessoal documentada |
+| **Evelyn de Rothschild** | 9 | Rothschild (associado) | Socialização em River House |
+| **David Rothschild** | 2 | Rothschild (associado) | Epstein queria "beat David Rothschild" |
+| **Nathan Rothschild** | 1 | Rothschild (associado) | Referência histórica sobre Waterloo |
+| **Fabrizio Massimo** | 0 | Massimo | "Massimo" isolado = 42 hits (sobrenome genérico) |
+| **Scipione Borghese** | 0 | Borghese | "Borghese" isolado = 27 hits |
+| **Marcantonio Colonna** | 0 | Colonna | "Colonna" isolado = 18 hits |
+| **Domenico Orsini** | 0 | Orsini | "Orsini" isolado = 16 hits |
+| **Giancarlo Orsini** | 0 | Orsini | Idem |
 
 ### 7.3 Conexão Rothschild–Aldobrandini: O Casamento que Une Duas Dinastias
 
@@ -403,11 +403,11 @@ A ambição de Epstein de "superar David Rothschild" e criar fundos rivais sob o
 
 ### 7.4 Análise Geral
 
-A presença de sobrenomes papais nos documentos é em grande parte contextual e não indica necessariamente conexão direta com Epstein. As exceções são:
+A presença de sobrenomes papais nos documentos é em grande parte contextual. Nenhum representante individual das casas papais (exceto Rothschilds) aparece com busca por nome completo. As exceções são:
 
-1. **Rothschilds** (28+ hits) — Conexão documentada e substancial. Jacob, Evelyn e David aparecem em emails diretos. Epstein aspirava competir financeiramente com David de Rothschild, que por casamento é Aldobrandini
-2. **Doria-Pamphili-Landi** (33 hits) — Suficientemente específico para merecer análise contextual dos documentos
-3. **Conti** (257 hits) — Volume alto mas possivelmente contaminado por sobrenome comum
+1. **Rothschilds** (28 hits para "Jacob Rothschild", 9 para "Evelyn de Rothschild", 2 para "David Rothschild") — Conexão documentada e substancial. Jacob, Evelyn e David aparecem em emails diretos. Epstein aspirava competir financeiramente com David de Rothschild, que por casamento é Aldobrandini
+2. **Conti** (257 hits) — Volume alto mas possivelmente contaminado por sobrenome comum italiano
+3. **Medici** (94 hits) — Provavelmente referências históricas/culturais, não à família atual
 
 ---
 
@@ -535,7 +535,7 @@ Abaixo, nomes com **hits > 10** e busca confiável (excluídos falsos positivos 
 | Rupert Murdoch | 62 | X | X | | | | Rupert Murdoch |
 | John Scarola | 62 | X | | | | | John Scarola |
 | Adam Schiff | 62 | X | | | | | Adam Schiff |
-| Philipp Hildebrand | 61 | | X | | | | Hildebrand |
+| Philipp Hildebrand | 0* | | X | | | | Hildebrand (61 hits sobrenome, 0 nome completo) |
 | Silvio Berlusconi | 60 | | X | | | | Berlusconi |
 | Julian Assange | 60 | X | | | | | Julian Assange |
 | Ron Desantis | 60 | X | | | | | Ron Desantis |
@@ -555,7 +555,7 @@ Abaixo, nomes com **hits > 10** e busca confiável (excluídos falsos positivos 
 | Jeff Sessions | 53 | X | | | | | Jeff Sessions |
 | Pam Bondi | 52 | X | | | | | Pam Bondi |
 | Ron Wyden | 52 | X | | | | | Ron Wyden |
-| Leonard Blavatnik | 52 | | X | | | | Blavatnik |
+| Leonard Blavatnik | 52* | | X | | | | Blavatnik (sobrenome único; "Friend of Ghislaine" documentado) |
 | John Brennan | 51 | X | | | | | John Brennan |
 | George Clooney | 50 | X | | | | | George Clooney |
 | Michael Horowitz | 50 | X | | | | | Michael Horowitz |
@@ -585,7 +585,7 @@ Abaixo, nomes com **hits > 10** e busca confiável (excluídos falsos positivos 
 | Alexandria Ocasio Cortez | 34 | X | | | | | Alexandria Ocasio Cortez |
 | Abigail Wexner | 34 | X | | | | | Abigail Wexner |
 | Daniel Parker | 34 | X | | | | | Daniel Parker |
-| Doria-Pamphili-Landi | 33 | | | | | X | Doria-Pamphili-Landi |
+| Doria (Pamphili-Landi) | 12 | | | | | X | Doria |
 | Lee Plourde | 33 | X | | | | | Lee Plourde |
 | Tucker Carlson | 32 | X | | | | | Tucker Carlson |
 | Bruce Springsteen | 32 | X | | | | | Bruce Springsteen |
@@ -632,7 +632,7 @@ Abaixo, nomes com **hits > 10** e busca confiável (excluídos falsos positivos 
 | Howard Lorber | 22 | X | | | | | Howard Lorber |
 | Keir Starmer | 22 | X | | | | | Keir Starmer |
 | Mervyn King | 22 | | X | | | | Mervyn King |
-| Lakshmi Mittal | 22 | | X | | | | Mittal |
+| Lakshmi Mittal | 0* | | X | | | | Mittal (22 hits sobrenome, 0 nome completo) |
 | Mario Monti | 21 | | | X | | | Mario Monti |
 | Anne-Marie Slaughter | 21 | | | | X | | Anne-Marie Slaughter |
 | Jon Kyl | 21 | X | | | | | Jon Kyl |
@@ -801,10 +801,10 @@ Ehud Barak (2.209 hits) com iMessages sobre hotel em São Petersburgo; Benjamin 
 3. **Lawrence Summers e o Banco do Cazaquistão** — Email sobre "arranjos" com o Deputy Governor sugere intermediação financeira
 4. **Peter Thiel: "suéteres" ou algo mais?** — A coordenação de endereços de figuras de elite por Epstein merece investigação
 5. **Daniel Siad (1.056 hits)** — Comunicações Skype regulares em 2019; identidade e papel não claros
-6. **Dominique Strauss-Kahn (48.855 hits)** — Volume altíssimo; separar contexto DSK real vs. sobrenome "Strauss"
+6. **Dominique Strauss-Kahn (50 hits para "Strauss-Kahn", 29 para nome completo)** — Contexto DSK-Epstein merece investigação separada
 7. **Christian Sewing / Deutsche Bank** — CEO atual no Bilderberg enquanto banco ainda sob investigação por facilitação Epstein
 8. **Martin Schlaff (105 hits)** — Oligarca austríaco com conexões a Israel e tráfico de influência
-9. **Doria-Pamphili-Landi (33 hits papal)** — Família nobre romana nos documentos; contexto a determinar
+9. **Doria-Pamphili-Landi** — Nome completo = 0 hits; "Doria" isolado = 12 hits; contexto a determinar
 10. **A sobreposição C300 + Trilateral**: 6 nomes aparecem em ambas as listas E nos documentos Epstein (Rockefeller, Brzezinski, Fischer, Holbrooke, Rice, Bergsten) — investigar se existe um sub-grupo que facilitou a entrada de Epstein
 
 ---

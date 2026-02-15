@@ -392,7 +392,7 @@ Casado com **Olimpia Aldobrandini** (família papal italiana) desde 1974 — uni
 
 Dos 305 nomes DOJ nos nossos resultados, **294 são exclusivos** — não aparecem em nenhuma das listas de elite pesquisadas (Bilderberg, Trilateral Commission, Committee of 300, Papal Bloodlines). Apenas 11 nomes DOJ cruzam com outras listas.
 
-Isso revela que a lista DOJ e as listas de elite cobrem universos quase completamente separados, com apenas **3,6% de sobreposição**. A lista DOJ é predominantemente composta por figuras políticas americanas, celebridades, advogados do caso e pessoas diretamente envolvidas na operação de Epstein — um universo distinto das elites financeiras e geopolíticas que dominam as listas Bilderberg, Trilateral e Committee of 300.
+Isso revela que a lista DOJ e as listas de elite cobrem universos quase completamente separados, com apenas **3.6% de sobreposição**. A lista DOJ é predominantemente composta por figuras políticas americanas, celebridades, advogados do caso e pessoas diretamente envolvidas na operação de Epstein — um universo distinto das elites financeiras e geopolíticas que dominam as listas Bilderberg, Trilateral e Committee of 300.
 
 ### 7.2 Os 11 Nomes DOJ que Cruzam com Outras Listas
 
@@ -408,9 +408,9 @@ Isso revela que a lista DOJ e as listas de elite cobrem universos quase completa
 | 8 | Rupert Murdoch | 62 | C300_2010 | 15 |
 | 9 | Jens Stoltenberg | 19 | BIL_2023, BIL_2024, BIL_2025 | 14 |
 | 10 | Timothy Geithner | 12 | C300_2010 | 14 |
-| 11 | Elizabeth *(falso positivo)* | 1,583 *(FP)* | C300_1991 | - |
+| 11 | Elizabeth *(falso positivo)* | 0 *(FP)* | C300_1991 | - |
 
-**Observação**: Dos 11 cruzamentos, 7 são com o Committee of 300 (2010), 2 com Bilderberg (Peter Thiel e Jens Stoltenberg, ambos em 3 edições), 1 com Trilateral Commission (Jeffrey Epstein) e 1 com Trilateral + C300 (Susan Rice). O único falso positivo é "Elizabeth" (busca genérica que captura múltiplos contextos).
+**Observação**: Dos 11 cruzamentos, 8 são com o Committee of 300, 2 com Bilderberg (Peter Thiel e Jens Stoltenberg, ambos em 3 edições), 2 com Trilateral Commission (Jeffrey Epstein) e 1 com Trilateral + C300 (Susan Rice). O único falso positivo é "Elizabeth" (busca genérica que captura múltiplos contextos).
 
 ### 7.3 Top 40 DOJ-Only por Hits
 
@@ -441,33 +441,40 @@ Os 40 nomes exclusivos da lista DOJ com maior presença nos documentos:
 | 21 | Elon Musk | 599 | Elon Musk | - |
 | 22 | Barack Obama | 581 | Barack Obama | - |
 | 23 | Bill Richardson | 538 | Bill Richardson | - |
-| 24 | Bono | 499 | Bono | 15 |
-| 25 | Rony Hawk | 432 | Hawk | 15 |
-| 26 | George W. Bush | 401 | George W. Bush | 15 |
-| 27 | Henry Jarecki | 401 | Henry Jarecki | 15 |
-| 28 | Cher | 369 | Cher | 15 |
-| 29 | Joe Biden | 361 | Joe Biden | 15 |
-| 30 | Richard Branson | 340 | Richard Branson | 15 |
-| 31 | Melinda Gates | 338 | Melinda Gates | 15 |
-| 32 | David Boies | 328 | David Boies | 15 |
-| 33 | Benjamin Netanyahu | 321 | Benjamin Netanyahu | 15 |
-| 34 | Robert Maxwell | 298 | Robert Maxwell | 15 |
-| 35 | Gloria Allred | 274 | Gloria Allred | 15 |
-| 36 | Marc Rowan | 256 | Marc Rowan | 15 |
-| 37 | John Kerry | 249 | John Kerry | 15 |
-| 38 | Ronald Reagan | 246 | Ronald Reagan | 15 |
-| 39 | Mitt Romney | 228 | Mitt Romney | 15 |
-| 40 | David Copperfield | 215 | David Copperfield | 15 |
+| 24 | George W. Bush | 401 | George W. Bush | 15 |
+| 25 | Henry Jarecki | 401 | Henry Jarecki | 15 |
+| 26 | Joe Biden | 361 | Joe Biden | 15 |
+| 27 | Richard Branson | 340 | Richard Branson | 15 |
+| 28 | Melinda Gates | 338 | Melinda Gates | 15 |
+| 29 | David Boies | 328 | David Boies | 15 |
+| 30 | Benjamin Netanyahu | 321 | Benjamin Netanyahu | 15 |
+| 31 | Robert Maxwell | 298 | Robert Maxwell | 15 |
+| 32 | Gloria Allred | 274 | Gloria Allred | 15 |
+| 33 | Marc Rowan | 256 | Marc Rowan | 15 |
+| 34 | John Kerry | 249 | John Kerry | 15 |
+| 35 | Ronald Reagan | 246 | Ronald Reagan | 15 |
+| 36 | Mitt Romney | 228 | Mitt Romney | 15 |
+| 37 | David Copperfield | 215 | David Copperfield | 15 |
+| 38 | Les Wexner | 215 | Les Wexner | 15 |
+| 39 | Marie Villafana | 213 | Marie Villafana | 15 |
+| 40 | Geoffrey Berman | 212 | Geoffrey Berman | 15 |
 
 ### 7.4 DOJ-Only com 0 Hits
 
-Três nomes aparecem na lista DOJ mas não têm **nenhuma menção** nos ~580.000 documentos judiciais:
+10 nomes aparecem na lista DOJ mas não têm **nenhuma menção** nos ~580.000 documentos judiciais:
 
 | Nome | Hits | Observação |
 |------|------|-----------|
+| **Bono** | 0 | Nome genérico — busca corrigida retorna 0 com termo exato |
+| **Cher** | 0 | Nome genérico — busca corrigida retorna 0 com termo exato |
+| **Germann Erben** | 0 | Nenhum documento encontrado |
+| **Janis Schenberg** | 0 | Nenhum documento encontrado |
 | **Joshua Harrish** | 0 | Nenhum documento encontrado |
 | **Nathan Milikowski** | 0 | Nenhum documento encontrado |
-| **Janis Schenberg** | 0 | Nenhum documento encontrado |
+| **Philip** | 0 | Nome genérico — busca corrigida retorna 0 com termo exato |
+| **Rony Hawk** | 0 | Busca corrigida — nome não encontrado nos documentos |
+| **of Sussex Harry** | 0 | Busca pelo formato invertido retorna 0 (versão correta já contabilizada) |
+| **of Wales Diana** | 0 | Busca pelo formato invertido retorna 0 (versão correta já contabilizada) |
 
 Isso levanta a questão: se estes nomes não aparecem nos documentos públicos, por que foram incluídos na lista DOJ? Ou a base documental pública está incompleta, ou estes nomes foram adicionados por razões não divulgadas.
 
@@ -475,1215 +482,1061 @@ Isso levanta a questão: se estes nomes não aparecem nos documentos públicos, 
 
 ## 8. Tabela Mestra Completa: Todos os 1.381 Nomes
 
-Esta seção apresenta a tabela mestra com **todos os 1.381 nomes pesquisados**, organizados por número de hits nos documentos Elasticsearch. Foram excluídos **58 falsos positivos** (buscas genéricas como "Elizabeth", "August", "France" que retornam resultados não relacionados à pessoa pesquisada), resultando em **1.323 entradas válidas**.
+Esta seção apresenta a tabela mestra com **todos os 1368 nomes pesquisados** (excluídos 13 "Family Designate" com 0 hits), organizados por número de hits nos documentos Elasticsearch.
 
 **Legenda das colunas:**
-- **ES Hits**: Número de documentos com menção ao nome no Elasticsearch
+- **ES Hits**: Número de documentos com menção ao nome no Elasticsearch (valores **corrigidos** por busca exata)
 - **Neo4j**: Conexões no grafo Neo4j (entidades + documentos compartilhados). "-" = sem dados
 - **DOJ/C300/BIL/TC/PAP**: Presença nas listas (X = presente, X² = 2 edições Bilderberg, X³ = 3 edições)
 - **Listas**: Número total de listas em que o nome aparece
 - **Termo**: Termo de busca utilizado no Elasticsearch
 
-### 8.1 Nomes com Hits > 100 (313 nomes)
+### 8.1 Nomes com Hits > 100 (140 nomes)
 
 | # | Nome | ES Hits | Neo4j | DOJ | C300 | BIL | TC | PAP | Listas | Termo |
 |---|------|---------|-------|-----|------|-----|----|-----|--------|-------|
 | 1 | Jeffrey Epstein | 281,756 | - | X |  |  | X |  | 2 | Jeffrey Epstein |
-| 2 | Alain De Gunzberg | 50,013 | - |  | X |  |  |  | 1 | De Gunzberg |
-| 3 | Rimmer De Vries | 50,013 | - |  | X |  |  |  | 1 | De Vries |
-| 4 | Jean De Menil | 50,011 | - |  | X |  |  |  | 1 | De Menil |
-| 5 | Carlo de Benneditti | 50,009 | - |  | X |  |  |  | 1 | de Benneditti |
-| 6 | Dirk De Bruyne | 50,009 | - |  | X |  |  |  | 1 | De Bruyne |
-| 7 | Major Walter De Lamater | 50,009 | - |  | X |  |  |  | 1 | De Lamater |
-| 8 | Philip de Zulueta | 50,009 | - |  | X |  |  |  | 1 | de Zulueta |
-| 9 | Dominique Strauss-Kahn | 48,855 | - |  | X |  |  |  | 1 | Strauss-Kahn |
-| 10 | Alec Douglas-Home | 42,176 | - |  | X |  |  |  | 1 | Douglas-Home |
-| 11 | Guitierez di Spadaforas | 12,233 | - |  | X |  |  |  | 1 | di Spadaforas |
-| 12 | Ghislaine Maxwell | 11,322 | - | X |  |  |  |  | 1 | Ghislaine Maxwell |
-| 13 | Chris Gibson-Smith | 8,916 | - |  | X |  |  |  | 1 | Gibson-Smith |
-| 14 | H Van Den Broek | 6,243 | - |  | X |  |  |  | 1 | Van Den Broek |
-| 15 | Jean Saint Gouers | 6,096 | - |  | X |  |  |  | 1 | Saint Gouers |
-| 16 | Jan Du Plessis | 5,517 | - |  | X |  |  |  | 1 | Du Plessis |
-| 17 | Leon Black | 5,252 | - | X |  |  |  |  | 1 | Leon Black |
-| 18 | Abby Joseph Cohen | 4,742 | - |  | X |  |  |  | 1 | Cohen |
-| 19 | Kathy Ruemmler | 4,710 | - | X |  |  |  |  | 1 | Kathy Ruemmler |
-| 20 | Keith Joseph | 4,482 | - |  | X |  |  |  | 1 | Joseph |
-| 21 | Herman Van Rompuy | 4,423 | - |  | X |  |  |  | 1 | Van Rompuy |
-| 22 | Javier Echevarría Rodríguez | 4,394 | - |  | X |  |  |  | 1 | Rodríguez |
-| 23 | Hans-Adam II – of Liechtenstein | 4,369 | - |  | X |  |  |  | 1 | Hans-Adam |
-| 24 | Ernest Stern | 4,205 | - |  | X |  |  |  | 1 | Stern |
-| 25 | Peter Vickers Hall | 4,179 | - |  | X |  |  |  | 1 | Hall |
-| 26 | Jean-Pierre Roth | 4,162 | - |  | X |  |  |  | 1 | Roth |
-| 27 | Max Von Thurn und Taxis | 4,018 | - |  | X |  |  |  | 1 | Von Thurn und Taxis |
-| 28 | William Henry III Gates | 3,931 | - |  | X |  |  |  | 1 | Gates |
-| 29 | Michael Bloomberg | 3,389 | - |  | X |  |  |  | 1 | Bloomberg |
-| 30 | Woody Allen | 3,386 | - | X |  |  |  |  | 1 | Woody Allen |
-| 31 | Peter Benjamin Mandelson | 3,336 | - |  | X |  |  |  | 1 | Mandelson |
-| 32 | Peter Mandelson | 3,177 | - | X |  |  |  |  | 1 | Peter Mandelson |
-| 33 | Michael Wolff | 3,173 | - | X |  |  |  |  | 1 | Michael Wolff |
-| 34 | August von Finck | 2,966 | - |  | X |  |  |  | 1 | von Finck |
-| 35 | House of Orange Constanti | 2,850 | - |  | X |  |  |  | 1 | Alexander |
-| 36 | Larry Summers | 2,823 | - | X |  |  |  |  | 1 | Larry Summers |
-| 37 | Jean Luc Brunel | 2,723 | - | X |  |  |  |  | 1 | Jean Luc Brunel |
-| 38 | Noam Chomsky | 2,518 | - | X |  |  |  |  | 1 | Noam Chomsky |
-| 39 | Mabel (Princess) of Orange-Nassau | 2,218 | - |  | X |  |  |  | 1 | Orange |
-| 40 | Ehud Barak | 2,209 | - | X |  |  |  |  | 1 | Ehud Barak |
-| 41 | Brian Edward Mountain | 2,103 | - |  | X |  |  |  | 1 | Mountain |
-| 42 | Dennis Mountain | 2,103 | - |  | X |  |  |  | 1 | Mountain |
-| 43 | Rowan Williams | 2,020 | - |  | X |  |  |  | 1 | Williams |
-| 44 | Sarah Wu | 1,931 | - |  | X |  |  |  | 1 | Wu |
-| 45 | Gérard Louis-Dreyfus | 1,857 | - |  | X |  |  |  | 1 | Louis-Dreyfus |
-| 46 | Paul Austin | 1,835 | - |  | X |  |  |  | 1 | Austin |
-| 47 | Terje Rod-Larsen | 1,705 | - | X |  |  |  |  | 1 | Terje Rod-Larsen |
-| 48 | Kimberly | 1,699 | - |  | X |  |  |  | 1 | Kimberly |
-| 49 | Andrew (Prince) – of York | 1,660 | - |  | X |  |  |  | 1 | Prince Andrew |
-| 50 | Malcolm Knight | 1,536 | - |  | X |  |  |  | 1 | Knight |
-| 51 | Maria Luís Albuquerque | 1,520 | - |  |  | X |  |  | 1 | Albuquerque |
-| 52 | Reid Hoffman | 1,510 | - | X |  |  |  |  | 1 | Reid Hoffman |
-| 53 | Bill Gates | 1,487 | - | X | X |  |  |  | 2 | Bill Gates |
-| 54 | Jack Chambers | 1,486 | - |  |  | X |  |  | 1 | Chambers |
-| 55 | John Brockman | 1,469 | - | X |  |  |  |  | 1 | John Brockman |
-| 56 | Peter Thiel | 1,436 | - | X |  | X³ |  |  | 4 | Peter Thiel |
-| 57 | Victor Farmer | 1,428 | - |  | X |  |  |  | 1 | Farmer |
-| 58 | Kenneth Keith | 1,422 | - |  | X |  |  |  | 1 | Keith |
-| 59 | Peter J Grace | 1,407 | - |  | X |  |  |  | 1 | Grace |
-| 60 | Timothy Garton Ash | 1,396 | - |  | X |  |  |  | 1 | Ash |
-| 61 | Ronald [REDACTED] | 1,395 | - |  |  |  | X |  | 1 | [REDACTED] |
-| 62 | Donald Trump | 1,382 | - | X |  |  |  |  | 1 | Donald Trump |
-| 63 | Steve Bannon | 1,347 | - | X |  |  |  |  | 1 | Steve Bannon |
-| 64 | Beatrix (Queen) | 1,312 | - |  | X |  |  |  | 1 | (Queen) |
-| 65 | Carla Anderson Hills | 1,301 | - |  | X |  |  |  | 1 | Hills |
-| 66 | Norman Chan | 1,295 | - |  | X |  |  |  | 1 | Chan |
-| 67 | Lewis Lehrman | 1,243 | - |  | X |  |  |  | 1 | Lehrman |
-| 68 | Kwan Cheng, Wang | 1,237 | - |  | X |  |  |  | 1 | Wang |
-| 69 | Rawleigh Warner | 1,235 | - |  | X |  |  |  | 1 | Warner |
-| 70 | Andrew Mellon | 1,223 | - |  | X |  |  |  | 1 | Mellon |
-| 71 | Charles A Anderson | 1,223 | - |  | X |  |  |  | 1 | Anderson |
-| 72 | Robert O Anderson | 1,223 | - |  | X |  |  |  | 1 | Anderson |
-| 73 | James H. Baker | 1,207 | - |  |  | X |  |  | 1 | Baker |
-| 74 | Bill Clinton | 1,178 | - | X | X |  |  |  | 2 | Bill Clinton |
-| 75 | Cyril Hamilton | 1,149 | - |  | X |  |  |  | 1 | Hamilton |
-| 76 | Alan Dershowitz | 1,135 | - | X |  |  |  |  | 1 | Alan Dershowitz |
-| 77 | Constantine II Greece | 1,109 | - |  | X |  |  |  | 1 | Greece |
-| 78 | Sydney Webb | 1,091 | - |  | X |  |  |  | 1 | Webb |
-| 79 | Harald V Norway | 1,071 | - |  | X |  |  |  | 1 | Norway |
-| 80 | Alexander Acosta | 1,061 | - | X |  |  |  |  | 1 | Alexander Acosta |
-| 81 | David Alan Walker | 1,058 | - |  | X |  |  |  | 1 | Walker |
-| 82 | Jonathan Ward | 1,058 | - |  |  | X |  |  | 1 | Ward |
-| 83 | Daniel Siad | 1,056 | - | X |  |  |  |  | 1 | Daniel Siad |
-| 84 | Richard T Pease | 971 | - |  | X |  |  |  | 1 | Pease |
-| 85 | Howard Clark | 951 | - |  | X |  |  |  | 1 | Clark |
-| 86 | Jay Lefkowitz | 928 | - | X |  |  |  |  | 1 | Jay Lefkowitz |
-| 87 | Mark Thompson | 925 | - |  | X |  |  |  | 1 | Thompson |
-| 88 | Thompson | 925 | - |  | X |  |  |  | 1 | Thompson |
-| 89 | William Boyce Thompson | 925 | - |  | X |  |  |  | 1 | Thompson |
-| 90 | Gareth Penny | 915 | - |  | X |  |  |  | 1 | Penny |
-| 91 | Edward Carter | 870 | - |  | X |  |  |  | 1 | Carter |
-| 92 | John Forbes Kerry | 865 | - |  | X |  |  |  | 1 | Forbes |
-| 93 | John M Forbes | 865 | - |  | X |  |  |  | 1 | Forbes |
-| 94 | Richard H. Phillips | 857 | - |  |  | X |  |  | 1 | Phillips |
-| 95 | Adolfo Nicolás | 840 | - |  | X |  |  |  | 1 | Nicolás |
-| 96 | Martin H. Wolf | 839 | - |  |  | X |  |  | 1 | Wolf |
-| 97 | H.M. the of the Netherlands | 824 | - |  |  | X² |  |  | 2 | Netherlands |
-| 98 | John R Petty | 811 | - |  | X |  |  |  | 1 | Petty |
-| 99 | David Jr Rockefeller | 809 | - |  | X |  |  |  | 1 | Rockefeller |
-| 100 | David Sr Rockefeller | 809 | - |  | X |  |  |  | 1 | Rockefeller |
-| 101 | Nicholas Rockefeller | 809 | - |  | X |  |  |  | 1 | Rockefeller |
-| 102 | Michael – Levy Levy | 789 | - |  | X |  |  |  | 1 | Levy |
-| 103 | Montague Norman | 763 | - |  | X |  |  |  | 1 | Norman |
-| 104 | Filipe Silva | 761 | - |  |  | X |  |  | 1 | Silva |
-| 105 | John Parker | 755 | - |  | X |  |  |  | 1 | Parker |
-| 106 | Percy Cox | 753 | - |  | X |  |  |  | 1 | Cox |
-| 107 | David Ormsby Gore | 734 | - |  | X |  |  |  | 1 | Gore |
-| 108 | Juliana | 713 | - |  | X |  |  |  | 1 | Juliana |
-| 109 | Mark Turner | 680 | - |  | X |  |  |  | 1 | Turner |
-| 110 | Ted Turner | 680 | - |  | X |  |  |  | 1 | Turner |
-| 111 | Amory Cleveland | 669 | - |  | X |  |  |  | 1 | Cleveland |
-| 112 | Lionel Curtis | 663 | - |  | X |  |  |  | 1 | Curtis |
-| 113 | Richard Gardner | 661 | - |  | X |  |  |  | 1 | Gardner |
-| 114 | Robert Beck | 661 | - |  | X |  |  |  | 1 | Beck |
-| 115 | Mark Leonard | 650 | - |  | X |  |  |  | 1 | Leonard |
-| 116 | Guillermo Ortiz Martínez | 633 | - |  | X |  |  |  | 1 | Martínez |
-| 117 | Hillary Clinton | 611 | - | X |  |  |  |  | 1 | Hillary Clinton |
-| 118 | Elon Musk | 599 | - | X |  |  |  |  | 1 | Elon Musk |
-| 119 | Barack Obama | 581 | - | X |  |  |  |  | 1 | Barack Obama |
-| 120 | Dr. James A Thomson | 578 | - |  | X |  |  |  | 1 | Thomson |
-| 121 | Peter G Peterson | 574 | - |  | X |  |  |  | 1 | Peterson |
-| 122 | Rudolph Peterson | 574 | - |  | X |  |  |  | 1 | Peterson |
-| 123 | Thieman Hugo | 570 | - |  | X |  |  |  | 1 | Hugo |
-| 124 | Alistair Darling | 568 | - |  | X |  |  |  | 1 | Darling |
-| 125 | Kristina Hammer | 565 | - |  |  | X |  |  | 1 | Hammer |
-| 126 | Ildefonso Castro | 551 | - |  |  | X |  |  | 1 | Castro |
-| 127 | Mary Robinson | 540 | - |  | X |  |  |  | 1 | Robinson |
-| 128 | Thomas H Hughes | 539 | - |  | X |  |  |  | 1 | Hughes |
-| 129 | Bill Richardson | 538 | - | X |  |  |  |  | 1 | Bill Richardson |
-| 130 | William Holland | 532 | - |  | X |  |  |  | 1 | Holland |
-| 131 | Pablo Isla | 527 | - |  |  | X |  |  | 1 | Isla |
-| 132 | Alej. Junco de la Vega | 526 | - |  |  |  | X |  | 1 | Vega |
-| 133 | Kenneth M Jacobs | 526 | - |  | X |  |  |  | 1 | Jacobs |
-| 134 | Marcus Samuel | 522 | - |  | X |  |  |  | 1 | Samuel |
-| 135 | Margrethe II Denmark | 519 | - |  | X |  |  |  | 1 | Denmark |
-| 136 | House of Braganza | 508 | - |  | X |  |  |  | 1 | Pio |
-| 137 | Grayson L Kirk | 502 | - |  | X |  |  |  | 1 | Kirk |
-| 138 | Bono | 499 | 15 | X |  |  |  |  | 1 | Bono |
-| 139 | Stephen Harper | 496 | - |  | X |  |  |  | 1 | Harper |
-| 140 | V. F Chang | 487 | - |  | X |  |  |  | 1 | Chang |
-| 141 | Yuan Yang | 463 | 15 |  |  | X |  |  | 1 | Yang |
-| 142 | Niall FitzGerald | 452 | - |  | X |  |  |  | 1 | FitzGerald |
-| 143 | Paul Volcker | 448 | - |  | X |  |  |  | 1 | Volcker |
-| 144 | Matthew Pottinger | 447 | 15 |  |  | X |  |  | 1 | Pottinger |
-| 145 | Edmund Peek | 444 | - |  | X |  |  |  | 1 | Peek |
-| 146 | Howard Davies | 442 | - |  | X |  |  |  | 1 | Davies |
-| 147 | Rony Hawk | 432 | 15 | X |  |  |  |  | 1 | Hawk |
-| 148 | Wendy R. Sherman | 432 | 15 |  |  | X |  |  | 1 | Sherman |
-| 149 | Camilla – Duchess of Cornwall | 429 | - |  | X |  |  |  | 1 | Camilla |
-| 150 | Maria – Grand Duchess of Russia Vladimirovna | 429 | - |  | X |  |  |  | 1 | Camilla |
-| 151 | Walter Sheridan | 417 | - |  | X |  |  |  | 1 | Sheridan |
-| 152 | Nicholas Elliott | 413 | - |  | X |  |  |  | 1 | Elliott |
-| 153 | William Yandel Elliott | 413 | - |  | X |  |  |  | 1 | Elliott |
-| 154 | Nils Bernstein | 408 | 15 |  | X |  |  |  | 1 | Bernstein |
-| 155 | Straight Whitney | 407 | - |  | X |  |  |  | 1 | Whitney |
-| 156 | Milton Katz | 405 | - |  | X |  |  |  | 1 | Katz |
-| 157 | George W. Bush | 401 | 15 | X |  |  |  |  | 1 | George W. Bush |
-| 158 | Henry Jarecki | 401 | 15 | X |  |  |  |  | 1 | Henry Jarecki |
-| 159 | David Geoffrey Manning | 398 | - |  | X |  |  |  | 1 | Manning |
-| 160 | Harold Lever | 398 | - |  | X |  |  |  | 1 | Lever |
-| 161 | Abdullah II of Jordan | 397 | - |  | X |  |  |  | 1 | Abdullah |
-| 162 | Albert II of Belgium | 397 | - |  | X |  |  |  | 1 | Abdullah |
-| 163 | David Gergen | 393 | 15 |  |  |  | X |  | 1 | David Gergen |
-| 164 | Eric E. Schmidt | 389 | 15 |  |  | X³ |  |  | 3 | Schmidt |
-| 165 | Wolfgang Schmidt | 389 | 15 |  |  | X³ |  |  | 3 | Schmidt |
-| 166 | David Weill | 378 | - |  | X |  |  |  | 1 | Weill |
-| 167 | Dr. Andrew Weill | 378 | - |  | X |  |  |  | 1 | Weill |
-| 168 | Michael David Weill | 378 | - |  | X |  |  |  | 1 | Weill |
-| 169 | Gary D Cohn | 377 | - |  | X |  |  |  | 1 | Cohn |
-| 170 | John Walsh | 372 | - |  | X |  |  |  | 1 | Walsh |
-| 171 | Cher | 369 | 15 | X |  |  |  |  | 1 | Cher |
-| 172 | Wilfred Blunt | 365 | 15 |  | X |  |  |  | 1 | Blunt |
-| 173 | Sidney Shapiro | 362 | - |  | X |  |  |  | 1 | Shapiro |
-| 174 | Joe Biden | 361 | 15 | X |  |  |  |  | 1 | Joe Biden |
-| 175 | Ian Livingston | 347 | - |  | X |  |  |  | 1 | Livingston |
-| 176 | Earnest, and successor, Harry Oppenheimer | 344 | - |  | X |  |  |  | 1 | Oppenheimer |
-| 177 | David Rubenstein | 342 | - |  | X |  |  |  | 1 | Rubenstein |
-| 178 | Richard Branson | 340 | 15 | X |  |  |  |  | 1 | Richard Branson |
-| 179 | Melinda Gates | 338 | 15 | X |  |  |  |  | 1 | Melinda Gates |
-| 180 | Joseph Martin Fischer | 334 | 15 |  | X |  |  |  | 1 | Fischer |
-| 181 | David Boies | 328 | 15 | X |  |  |  |  | 1 | David Boies |
-| 182 | of Alba | 325 | - |  | X |  |  |  | 1 | Alba |
-| 183 | Benjamin Netanyahu | 321 | 15 | X |  |  |  |  | 1 | Benjamin Netanyahu |
-| 184 | Clark Clifford | 312 | - |  | X |  |  |  | 1 | Clifford |
-| 185 | Frank Meyer | 310 | - |  | X |  |  |  | 1 | Meyer |
-| 186 | Alfred P Sloan | 309 | - |  | X |  |  |  | 1 | Sloan |
-| 187 | of Bavaria Franz | 299 | - |  | X |  |  |  | 1 | Franz |
-| 188 | Dolf van den Brink | 298 | 15 |  |  | X |  |  | 1 | Brink |
-| 189 | Robert Maxwell | 298 | 15 | X |  |  |  |  | 1 | Robert Maxwell |
-| 190 | Mortimer B. Zuckerman | 295 | 15 |  |  |  | X |  | 1 | Mortimer B. Zuckerman |
-| 191 | Peter A Sands | 293 | - |  | X |  |  |  | 1 | Sands |
-| 192 | Jack Straw | 290 | - |  | X |  |  |  | 1 | Straw |
-| 193 | Thomas Byrne | 290 | 15 |  |  | X |  |  | 1 | Byrne |
-| 194 | Michael McGrath | 289 | 15 |  |  | X |  |  | 1 | McGrath |
-| 195 | Vincent Nichols | 288 | - |  | X |  |  |  | 1 | Nichols |
-| 196 | Stephen S Roach | 285 | - |  | X |  |  |  | 1 | Roach |
-| 197 | George Schultz | 282 | - |  | X |  |  |  | 1 | Schultz |
-| 198 | John Rawlings Rees | 282 | - |  | X |  |  |  | 1 | Rees |
-| 199 | John Rees | 282 | - |  | X |  |  |  | 1 | Rees |
-| 200 | Charles Pratt | 276 | - |  | X |  |  |  | 1 | Pratt |
-| 201 | Kenneth Griffin | 276 | 15 |  |  | X |  |  | 1 | Griffin |
-| 202 | Geoffrey Vickers | 274 | - |  | X |  |  |  | 1 | Vickers |
-| 203 | Gloria Allred | 274 | 15 | X |  |  |  |  | 1 | Gloria Allred |
-| 204 | Kristian Jensen | 272 | 15 |  |  | X |  |  | 1 | Jensen |
-| 205 | Lawrence H. Summers | 271 | 15 |  |  |  | X |  | 1 | Lawrence H. Summers |
-| 206 | Stewart Mott | 271 | - |  | X |  |  |  | 1 | Mott |
-| 207 | Henry Kissinger | 269 | - |  | X |  |  |  | 2 | Kissinger |
-| 208 | Timothy James Hamilton Laurence | 267 | - |  | X |  |  |  | 1 | Laurence |
-| 209 | DeAnne Julius | 263 | - |  | X |  |  |  | 1 | Julius |
-| 210 | Nelson Perkins | 262 | - |  | X |  |  |  | 1 | Perkins |
-| 211 | Nicolas Roche | 258 | 15 |  |  | X |  |  | 1 | Roche |
-| 212 | Conti | 257 | 15 |  |  |  |  | X | 1 | Conti |
-| 213 | Marc Rowan | 256 | 15 | X |  |  |  |  | 1 | Marc Rowan |
-| 214 | Geoffrey Howe | 252 | - |  | X |  |  |  | 1 | Howe |
-| 215 | John Kerry | 249 | 15 | X |  |  |  |  | 1 | John Kerry |
-| 216 | Dennis Arthur Greenhill | 247 | - |  | X |  |  |  | 1 | Greenhill |
-| 217 | Dennis Greenhill | 247 | - |  | X |  |  |  | 1 | Greenhill |
-| 218 | Ronald Reagan | 246 | 15 | X |  |  |  |  | 1 | Ronald Reagan |
-| 219 | Pierre Lambert | 241 | 15 |  | X |  |  |  | 1 | Lambert |
-| 220 | Richard Lambert | 241 | - |  | X |  |  |  | 1 | Lambert |
-| 221 | Dwayne Andreas | 239 | - |  | X |  |  |  | 1 | Andreas |
-| 222 | Esteban Gonzáles Pons | 235 | 15 |  |  | X |  |  | 1 | Pons |
-| 223 | of Norway Haakon | 231 | - |  | X |  |  |  | 1 | Haakon |
-| 224 | Designate Price Waterhouse | 230 | - |  | X |  |  |  | 1 | PwC |
-| 225 | Mitt Romney | 228 | 15 | X |  |  |  |  | 1 | Mitt Romney |
-| 226 | Shaul Eisenberg | 227 | - |  | X |  |  |  | 1 | Eisenberg |
-| 227 | DuPont | 226 | - |  | X |  |  |  | 1 | DuPont |
-| 228 | John W Bennet | 225 | - |  | X |  |  |  | 1 | Bennet |
-| 229 | Winston Churchill | 224 | - |  | X |  |  |  | 1 | Churchill |
-| 230 | Brian Cowen | 218 | 15 |  | X |  |  |  | 1 | Cowen |
-| 231 | Charles Napoléon | 218 | - |  | X |  |  |  | 1 | Napoléon |
-| 232 | David Copperfield | 215 | 15 | X |  |  |  |  | 1 | David Copperfield |
-| 233 | Les Wexner | 215 | 15 | X |  |  |  |  | 1 | Les Wexner |
-| 234 | Al Gore | 214 | - |  | X |  |  |  | 1 | Al Gore |
-| 235 | Hugh Fraser | 213 | - |  | X |  |  |  | 1 | Fraser |
-| 236 | Marie Villafana | 213 | 15 | X |  |  |  |  | 1 | Marie Villafana |
-| 237 | Geoffrey Berman | 212 | 15 | X |  |  |  |  | 1 | Geoffrey Berman |
-| 238 | Warren Buffett | 209 | - |  | X |  |  |  | 2 | Buffett |
-| 239 | Isaac Wolfson | 199 | - |  | X |  |  |  | 1 | Wolfson |
-| 240 | José Juan Ruiz | 199 | 15 |  |  | X |  |  | 1 | Ruiz |
-| 241 | Baring | 198 | 15 |  | X |  |  |  | 1 | Baring |
-| 242 | Moises Safra | 198 | 15 |  | X |  |  |  | 1 | Safra |
-| 243 | de Robert Gascoigne Cecil Salisbury | 197 | - |  | X |  |  |  | 1 | Cecil |
-| 244 | Asher Kaufman | 196 | - |  | X |  |  |  | 1 | Kaufman |
-| 245 | Roger C. Altman | 195 | 15 |  |  | X |  |  | 1 | Altman |
-| 246 | Joe Lieberman | 194 | - |  | X |  |  |  | 1 | Lieberman |
-| 247 | Sultan Ahmed bin Sulayem | 194 | 15 | X |  |  |  |  | 1 | Sultan Ahmed bin Sulayem |
-| 248 | Fabrizio (Prince) – Massimo-Brancaccio | 193 | - |  | X |  |  |  | 1 | Fabrizio |
-| 249 | Jonathan Finer | 186 | 15 |  |  | X |  |  | 1 | Finer |
-| 250 | Nicolas Sarkozy | 182 | - |  | X |  |  |  | 1 | Sarkozy |
-| 251 | Damian Williams | 181 | 15 | X |  |  |  |  | 1 | Damian Williams |
-| 252 | Michael Reiter | 181 | 15 | X |  |  |  |  | 1 | Michael Reiter |
-| 253 | Mary Tanner | 178 | - |  | X |  |  |  | 1 | Tanner |
-| 254 | William C Verity | 178 | - |  | X |  |  |  | 1 | Verity |
-| 255 | Giuliano Amato | 177 | 15 |  | X |  |  |  | 1 | Amato |
-| 256 | James Leigh-Pemberton | 177 | - |  | X |  |  |  | 1 | Leigh-Pemberton |
-| 257 | Jean-Pierre Landau | 176 | - |  | X |  |  |  | 1 | Landau |
-| 258 | Tony Blair | 173 | 15 | X | X |  |  |  | 2 | Tony Blair |
-| 259 | George Bush | 173 | - |  | X |  |  |  | 1 | George Bush |
-| 260 | George HW Bush | 173 | - |  | X |  |  |  | 1 | George Bush |
-| 261 | Eric Drake | 172 | - |  | X |  |  |  | 1 | Drake |
-| 262 | Mark Zuckerberg | 171 | 15 | X |  |  |  |  | 1 | Mark Zuckerberg |
-| 263 | William Barr | 168 | 15 | X |  |  |  |  | 1 | William Barr |
-| 264 | Sally Benson | 163 | 15 |  |  | X |  |  | 1 | Benson |
-| 265 | Thomas Pritzker | 163 | 15 | X |  |  |  |  | 1 | Thomas Pritzker |
-| 266 | Samuel Montague | 162 | - |  | X |  |  |  | 1 | Montague |
-| 267 | Carl XVI of Sweden Gustaf | 160 | - |  | X |  |  |  | 1 | Gustaf |
-| 268 | Irene B. Rosenfeld | 160 | 15 |  |  |  | X |  | 1 | Rosenfeld |
-| 269 | Kenneth Starr | 160 | 15 | X |  |  |  |  | 1 | Kenneth Starr |
-| 270 | Stephen A Schwarzman | 160 | - |  | X |  |  |  | 1 | Schwarzman |
-| 271 | Sutherland | 159 | 15 |  | X |  |  |  | 1 | Sutherland |
-| 272 | John Jacob Raskob | 155 | - |  | X |  |  |  | 1 | Astor |
-| 273 | John Jacob and successor, Waldorf Astor | 155 | - |  | X |  |  |  | 1 | Astor |
-| 274 | William Waldorf – 4th Viscount Astor Astor | 155 | - |  | X |  |  |  | 1 | Astor |
-| 275 | Averell Harriman | 153 | - |  | X |  |  |  | 1 | Harriman |
-| 276 | Doug Band | 153 | 15 | X |  |  |  |  | 1 | Doug Band |
-| 277 | Martina Salomon | 149 | 15 |  |  | X |  |  | 1 | Salomon |
-| 278 | Pedro J. Ramírez | 146 | - |  |  | X |  |  | 1 | Ramírez |
-| 279 | Kevin Harrington | 144 | 15 |  |  | X² |  |  | 2 | Harrington |
-| 280 | Jamie Dimon | 144 | 15 |  |  |  | X |  | 1 | Jamie Dimon |
-| 281 | Michael Jackson | 139 | 15 | X |  |  |  |  | 1 | Michael Jackson |
-| 282 | Alfred Milner | 137 | 15 |  | X |  |  |  | 1 | Milner |
-| 283 | Sammy Ofer | 137 | 15 |  | X |  |  |  | 1 | Ofer |
-| 284 | the William Sloane Coffin | 135 | - |  | X |  |  |  | 1 | Coffin |
-| 285 | Marco Rubio | 134 | 15 | X |  |  |  |  | 1 | Marco Rubio |
-| 286 | Kevin Spacey | 133 | 15 | X |  |  |  |  | 1 | Kevin Spacey |
-| 287 | Martin Stuart "Marty" Feldstein | 131 | - |  | X |  |  |  | 1 | Feldstein |
-| 288 | Jeff Bezos | 130 | 15 | X |  |  |  |  | 1 | Jeff Bezos |
-| 289 | Paul Krugman | 130 | - |  | X |  |  |  | 1 | Krugman |
-| 290 | John McCain | 129 | 15 | X |  |  |  |  | 1 | John McCain |
-| 291 | Morton Rosenthal | 129 | - |  | X |  |  |  | 1 | Rosenthal |
-| 292 | Pyotr Aven | 129 | 15 |  | X |  |  |  | 1 | Aven |
-| 293 | Lanna Belohlavek | 128 | 15 | X |  |  |  |  | 1 | Lanna Belohlavek |
-| 294 | Nancy Pelosi | 127 | 15 | X |  |  |  |  | 1 | Nancy Pelosi |
-| 295 | William R. "Bill" Rhodes | 127 | 15 |  | X |  |  |  | 1 | Rhodes |
-| 296 | Jacques Nasser | 123 | - |  | X |  |  |  | 1 | Nasser |
-| 297 | Rudy Giuliani | 123 | 15 | X |  |  |  |  | 1 | Rudy Giuliani |
-| 298 | Lindsey Graham | 122 | 15 | X |  |  |  |  | 1 | Lindsey Graham |
-| 299 | Stacey Plaskett | 119 | 15 | X |  |  |  |  | 1 | Stacey Plaskett |
-| 300 | Hugh Mackay-Tallack | 117 | - |  | X |  |  |  | 1 | Mackay-Tallack |
-| 301 | Lord, of Clasfern Mackay | 117 | - |  | X |  |  |  | 1 | Mackay |
-| 302 | Paul G Hoffman | 116 | - |  | X |  |  |  | 1 | Paul Hoffman |
-| 303 | Ben Bernanke | 111 | - |  | X |  |  |  | 1 | Bernanke |
-| 304 | Michael Cohen | 108 | 15 | X |  |  |  |  | 1 | Michael Cohen |
-| 305 | Simeon of Saxe-Coburg and Gotha | 108 | - |  | X |  |  |  | 1 | Hesse |
-| 306 | Michael Flynn | 107 | 15 | X |  |  |  |  | 1 | Michael Flynn |
-| 307 | Jared Kushner | 106 | 15 | X |  |  |  |  | 1 | Jared Kushner |
-| 308 | Martin Schlaff | 105 | 14 | X |  |  |  |  | 1 | Martin Schlaff |
-| 309 | Mike Pompeo | 105 | 15 | X |  |  |  |  | 1 | Mike Pompeo |
-| 310 | Pascal Lamy | 105 | - |  | X |  |  |  | 1 | Lamy |
-| 311 | William S Paley | 103 | - |  | X |  |  |  | 1 | Paley |
-| 312 | James Comey | 102 | 15 | X |  |  |  |  | 1 | James Comey |
-| 313 | Sarah Ferguson | 101 | 15 | X |  |  |  |  | 1 | Sarah Ferguson |
+| 2 | Ghislaine Maxwell | 11,322 | - | X |  |  |  |  | 1 | Ghislaine Maxwell |
+| 3 | Leon Black | 5,252 | - | X |  |  |  |  | 1 | Leon Black |
+| 4 | Kathy Ruemmler | 4,710 | - | X |  |  |  |  | 1 | Kathy Ruemmler |
+| 5 | Woody Allen | 3,386 | - | X |  |  |  |  | 1 | Woody Allen |
+| 6 | Peter Benjamin Mandelson | 3,177 | - |  | X |  |  |  | 1 | Peter Mandelson |
+| 7 | Peter Mandelson | 3,177 | - | X |  |  |  |  | 1 | Peter Mandelson |
+| 8 | Michael Wolff | 3,173 | - | X |  |  |  |  | 1 | Michael Wolff |
+| 9 | Larry Summers | 2,823 | - | X |  |  |  |  | 1 | Larry Summers |
+| 10 | Jean Luc Brunel | 2,723 | - | X |  |  |  |  | 1 | Jean Luc Brunel |
+| 11 | Noam Chomsky | 2,518 | - | X |  |  |  |  | 1 | Noam Chomsky |
+| 12 | Ehud Barak | 2,209 | - | X |  |  |  |  | 1 | Ehud Barak |
+| 13 | Terje Rod-Larsen | 1,705 | - | X |  |  |  |  | 1 | Terje Rod-Larsen |
+| 14 | Andrew (Prince) – of York | 1,660 | - |  | X |  |  |  | 1 | Prince Andrew |
+| 15 | Reid Hoffman | 1,510 | - | X |  |  |  |  | 1 | Reid Hoffman |
+| 16 | Bill Gates | 1,487 | - | X | X |  |  |  | 2 | Bill Gates |
+| 17 | John Brockman | 1,469 | - | X |  |  |  |  | 1 | John Brockman |
+| 18 | Peter Thiel | 1,436 | - | X |  | X³ |  |  | 4 | Peter Thiel |
+| 19 | Donald Trump | 1,382 | - | X |  |  |  |  | 1 | Donald Trump |
+| 20 | Steve Bannon | 1,347 | - | X |  |  |  |  | 1 | Steve Bannon |
+| 21 | Bill Clinton | 1,178 | - | X | X |  |  |  | 2 | Bill Clinton |
+| 22 | Alan Dershowitz | 1,135 | - | X |  |  |  |  | 1 | Alan Dershowitz |
+| 23 | Alexander Acosta | 1,061 | - | X |  |  |  |  | 1 | Alexander Acosta |
+| 24 | Daniel Siad | 1,056 | - | X |  |  |  |  | 1 | Daniel Siad |
+| 25 | Jay Lefkowitz | 928 | - | X |  |  |  |  | 1 | Jay Lefkowitz |
+| 26 | Hillary Clinton | 611 | - | X |  |  |  |  | 1 | Hillary Clinton |
+| 27 | Elon Musk | 599 | - | X |  |  |  |  | 1 | Elon Musk |
+| 28 | Barack Obama | 581 | - | X |  |  |  |  | 1 | Barack Obama |
+| 29 | Bill Richardson | 538 | - | X |  |  |  |  | 1 | Bill Richardson |
+| 30 | Matthew Pottinger | 447 | 15 |  |  | X |  |  | 1 | Pottinger |
+| 31 | Walter Sheridan | 417 | - |  | X |  |  |  | 1 | Sheridan |
+| 32 | Nicholas Elliott | 413 | - |  | X |  |  |  | 1 | Elliott |
+| 33 | Nils Bernstein | 408 | 15 |  | X |  |  |  | 1 | Bernstein |
+| 34 | Straight Whitney | 407 | - |  | X |  |  |  | 1 | Whitney |
+| 35 | George W. Bush | 401 | 15 | X |  |  |  |  | 1 | George W. Bush |
+| 36 | Henry Jarecki | 401 | 15 | X |  |  |  |  | 1 | Henry Jarecki |
+| 37 | David Gergen | 393 | 15 |  |  |  | X |  | 1 | David Gergen |
+| 38 | Wolfgang Schmidt | 389 | 15 |  |  | X³ |  |  | 3 | Schmidt |
+| 39 | Francesco – 10th of Cerveteri Ruspoli | 376 | - |  | X |  |  |  | 1 | Francesco |
+| 40 | Sidney Shapiro | 362 | - |  | X |  |  |  | 1 | Shapiro |
+| 41 | Joe Biden | 361 | 15 | X |  |  |  |  | 1 | Joe Biden |
+| 42 | Chris Gibson-Smith | 347 | - |  | X |  |  |  | 1 | Gibson |
+| 43 | Ian Livingston | 347 | - |  | X |  |  |  | 1 | Livingston |
+| 44 | Richard Branson | 340 | 15 | X |  |  |  |  | 1 | Richard Branson |
+| 45 | Melinda Gates | 338 | 15 | X |  |  |  |  | 1 | Melinda Gates |
+| 46 | David Boies | 328 | 15 | X |  |  |  |  | 1 | David Boies |
+| 47 | Benjamin Netanyahu | 321 | 15 | X |  |  |  |  | 1 | Benjamin Netanyahu |
+| 48 | Robert Maxwell | 298 | 15 | X |  |  |  |  | 1 | Robert Maxwell |
+| 49 | Mortimer B. Zuckerman | 295 | 15 |  |  |  | X |  | 1 | Mortimer B. Zuckerman |
+| 50 | Michael McGrath | 289 | 15 |  |  | X |  |  | 1 | McGrath |
+| 51 | Vincent Nichols | 288 | - |  | X |  |  |  | 1 | Nichols |
+| 52 | Kenneth Griffin | 276 | 15 |  |  | X |  |  | 1 | Griffin |
+| 53 | Geoffrey Vickers | 274 | - |  | X |  |  |  | 1 | Vickers |
+| 54 | Gloria Allred | 274 | 15 | X |  |  |  |  | 1 | Gloria Allred |
+| 55 | Kristian Jensen | 272 | 15 |  |  | X |  |  | 1 | Jensen |
+| 56 | Lawrence H. Summers | 271 | 15 |  |  |  | X |  | 1 | Lawrence H. Summers |
+| 57 | Timothy James Hamilton Laurence | 267 | - |  | X |  |  |  | 1 | Laurence |
+| 58 | DeAnne Julius | 263 | - |  | X |  |  |  | 1 | Julius |
+| 59 | Nelson Perkins | 262 | - |  | X |  |  |  | 1 | Perkins |
+| 60 | Sigismund (Archduke) – Grand of Tuscany | 259 | - |  | X |  |  |  | 1 | Sigismund |
+| 61 | Conti | 257 | 15 |  |  |  |  | X | 1 | Conti |
+| 62 | Marc Rowan | 256 | 15 | X |  |  |  |  | 1 | Marc Rowan |
+| 63 | John Forbes Kerry | 249 | - |  | X |  |  |  | 1 | John Kerry |
+| 64 | John Kerry | 249 | 15 | X |  |  |  |  | 1 | John Kerry |
+| 65 | Dennis Arthur Greenhill | 247 | - |  | X |  |  |  | 1 | Greenhill |
+| 66 | Dennis Greenhill | 247 | - |  | X |  |  |  | 1 | Greenhill |
+| 67 | Ronald Reagan | 246 | 15 | X |  |  |  |  | 1 | Ronald Reagan |
+| 68 | Pierre Lambert | 241 | 15 |  | X |  |  |  | 1 | Lambert |
+| 69 | Dwayne Andreas | 239 | - |  | X |  |  |  | 1 | Andreas |
+| 70 | of Norway Haakon | 231 | - |  | X |  |  |  | 1 | Haakon |
+| 71 | Mitt Romney | 228 | 15 | X |  |  |  |  | 1 | Mitt Romney |
+| 72 | Shaul Eisenberg | 227 | - |  | X |  |  |  | 1 | Eisenberg |
+| 73 | DuPont | 226 | - |  | X |  |  |  | 1 | DuPont |
+| 74 | Charles Napoléon | 218 | - |  | X |  |  |  | 1 | Napoléon |
+| 75 | David Copperfield | 215 | 15 | X |  |  |  |  | 1 | David Copperfield |
+| 76 | Les Wexner | 215 | 15 | X |  |  |  |  | 1 | Les Wexner |
+| 77 | Al Gore | 214 | - |  | X |  |  |  | 1 | Al Gore |
+| 78 | Hugh Fraser | 213 | - |  | X |  |  |  | 1 | Fraser |
+| 79 | Marie Villafana | 213 | 15 | X |  |  |  |  | 1 | Marie Villafana |
+| 80 | Geoffrey Berman | 212 | 15 | X |  |  |  |  | 1 | Geoffrey Berman |
+| 81 | Isaac Wolfson | 199 | - |  | X |  |  |  | 1 | Wolfson |
+| 82 | Baring | 198 | 15 |  | X |  |  |  | 1 | Baring |
+| 83 | Asher Kaufman | 196 | - |  | X |  |  |  | 1 | Kaufman |
+| 84 | Sultan Ahmed bin Sulayem | 194 | 15 | X |  |  |  |  | 1 | Sultan Ahmed bin Sulayem |
+| 85 | Fabrizio (Prince) – Massimo-Brancaccio | 0* | - |  | X |  |  |  | 1 | *"Fabrizio" genérico=193, nome completo=0 |
+| 86 | Damian Williams | 181 | 15 | X |  |  |  |  | 1 | Damian Williams |
+| 87 | Michael Reiter | 181 | 15 | X |  |  |  |  | 1 | Michael Reiter |
+| 88 | Mary Tanner | 178 | - |  | X |  |  |  | 1 | Tanner |
+| 89 | William C Verity | 178 | - |  | X |  |  |  | 1 | Verity |
+| 90 | Tony Blair | 173 | 15 | X | X |  |  |  | 2 | Tony Blair |
+| 91 | George Bush | 173 | - |  | X |  |  |  | 1 | George Bush |
+| 92 | George HW Bush | 173 | - |  | X |  |  |  | 1 | George Bush |
+| 93 | Mark Zuckerberg | 171 | 15 | X |  |  |  |  | 1 | Mark Zuckerberg |
+| 94 | William Waldorf – 4th Viscount Astor Astor | 171 | - |  | X |  |  |  | 1 | Waldorf |
+| 95 | William Barr | 168 | 15 | X |  |  |  |  | 1 | William Barr |
+| 96 | Sally Benson | 163 | 15 |  |  | X |  |  | 1 | Benson |
+| 97 | Thomas Pritzker | 163 | 15 | X |  |  |  |  | 1 | Thomas Pritzker |
+| 98 | Samuel Montague | 162 | - |  | X |  |  |  | 1 | Montague |
+| 99 | Carl XVI of Sweden Gustaf | 160 | - |  | X |  |  |  | 1 | Gustaf |
+| 100 | Irene B. Rosenfeld | 160 | 15 |  |  |  | X |  | 1 | Rosenfeld |
+| 101 | Kenneth Starr | 160 | 15 | X |  |  |  |  | 1 | Kenneth Starr |
+| 102 | Sutherland | 159 | 15 |  | X |  |  |  | 1 | Sutherland |
+| 103 | Doug Band | 153 | 15 | X |  |  |  |  | 1 | Doug Band |
+| 104 | Martina Salomon | 149 | 15 |  |  | X |  |  | 1 | Salomon |
+| 105 | William Johnston, or Keswick, H.N.L Keswick | 148 | - |  | X |  |  |  | 1 | Johnston |
+| 106 | Pedro J. Ramírez | 146 | - |  |  | X |  |  | 1 | Ramírez |
+| 107 | Kevin Harrington | 144 | 15 |  |  | X² |  |  | 2 | Harrington |
+| 108 | Jamie Dimon | 144 | 15 |  |  |  | X |  | 1 | Jamie Dimon |
+| 109 | Stefano – of Roccasecca Massimo | 0* | - |  | X |  |  |  | 1 | *"Stefano" genérico=142, nome completo=0 |
+| 110 | Michael Jackson | 139 | 15 | X |  |  |  |  | 1 | Michael Jackson |
+| 111 | Alfred Milner | 137 | 15 |  | X |  |  |  | 1 | Milner |
+| 112 | Warren Buffett | 134 | - |  | X |  |  |  | 2 | Warren Buffett |
+| 113 | Marco Rubio | 134 | 15 | X |  |  |  |  | 1 | Marco Rubio |
+| 114 | Kevin Spacey | 133 | 15 | X |  |  |  |  | 1 | Kevin Spacey |
+| 115 | Shirley – Baroness Williams of Crosby Williams | 133 | - |  | X |  |  |  | 1 | Shirley |
+| 116 | Jeff Bezos | 130 | 15 | X |  |  |  |  | 1 | Jeff Bezos |
+| 117 | John McCain | 129 | 15 | X |  |  |  |  | 1 | John McCain |
+| 118 | Morton Rosenthal | 129 | - |  | X |  |  |  | 1 | Rosenthal |
+| 119 | Lanna Belohlavek | 128 | 15 | X |  |  |  |  | 1 | Lanna Belohlavek |
+| 120 | Nancy Pelosi | 127 | 15 | X |  |  |  |  | 1 | Nancy Pelosi |
+| 121 | William R. "Bill" Rhodes | 127 | 15 |  | X |  |  |  | 1 | Rhodes |
+| 122 | Jacques Nasser | 123 | - |  | X |  |  |  | 1 | Nasser |
+| 123 | Rudy Giuliani | 123 | 15 | X |  |  |  |  | 1 | Rudy Giuliani |
+| 124 | Lindsey Graham | 122 | 15 | X |  |  |  |  | 1 | Lindsey Graham |
+| 125 | Eric E. Schmidt | 120 | 15 |  |  | X³ |  |  | 3 | Eric Schmidt |
+| 126 | Stacey Plaskett | 119 | 15 | X |  |  |  |  | 1 | Stacey Plaskett |
+| 127 | Hugh Mackay-Tallack | 117 | - |  | X |  |  |  | 1 | Mackay |
+| 128 | Paul G Hoffman | 116 | - |  | X |  |  |  | 1 | Paul Hoffman |
+| 129 | David Rubenstein | 114 | - |  | X |  |  |  | 1 | David Rubenstein |
+| 130 | Michael Cohen | 108 | 15 | X |  |  |  |  | 1 | Michael Cohen |
+| 131 | Michael Flynn | 107 | 15 | X |  |  |  |  | 1 | Michael Flynn |
+| 132 | Jared Kushner | 106 | 15 | X |  |  |  |  | 1 | Jared Kushner |
+| 133 | Michael Bloomberg | 106 | - |  | X |  |  |  | 1 | Michael Bloomberg |
+| 134 | Henry Kissinger | 105 | - |  | X |  |  |  | 2 | Henry Kissinger |
+| 135 | Martin Schlaff | 105 | 14 | X |  |  |  |  | 1 | Martin Schlaff |
+| 136 | Mike Pompeo | 105 | 15 | X |  |  |  |  | 1 | Mike Pompeo |
+| 137 | Moritz – and Landgrave of Hesse-Kassel | 104 | - |  | X |  |  |  | 1 | Moritz |
+| 138 | James Comey | 102 | 15 | X |  |  |  |  | 1 | James Comey |
+| 139 | Paul Krugman | 101 | - |  | X |  |  |  | 1 | Paul Krugman |
+| 140 | Sarah Ferguson | 101 | 15 | X |  |  |  |  | 1 | Sarah Ferguson |
 
-### 8.2 Nomes com Hits 10–100 (375 nomes)
+### 8.2 Nomes com Hits 10–100 (346 nomes)
 
 | # | Nome | ES Hits | Neo4j | DOJ | C300 | BIL | TC | PAP | Listas | Termo |
 |---|------|---------|-------|-----|------|-----|----|-----|--------|-------|
 | 1 | George Soros | 100 | 15 | X | X |  |  |  | 2 | George Soros |
-| 2 | Robert M Hutchins | 100 | - |  | X |  |  |  | 1 | Hutchins |
-| 3 | David William Donald Cameron | 99 | - |  | X |  |  |  | 1 | David Cameron |
-| 4 | Hunter Biden | 99 | 15 | X |  |  |  |  | 1 | Hunter Biden |
-| 5 | Vanderbilt | 99 | - |  | X |  |  |  | 1 | Vanderbilt |
-| 6 | Jan Smuts | 98 | - |  | X |  |  |  | 1 | Smuts |
-| 7 | Dr. Kurt Lewin | 97 | - |  | X |  |  |  | 1 | Lewin |
-| 8 | Harold MacMillan | 97 | - |  | X |  |  |  | 1 | MacMillan |
-| 9 | Brian Colleran | 96 | 15 | X |  |  |  |  | 1 | Brian Colleran |
-| 10 | Paul Ryan | 96 | 15 | X |  |  |  |  | 1 | Paul Ryan |
-| 11 | Charles Rosner Bronfman | 95 | 15 |  | X |  |  |  | 1 | Bronfman |
-| 12 | Glen Moreno | 94 | - |  | X |  |  |  | 1 | Moreno |
-| 13 | Medici | 94 | 15 |  |  |  |  | X | 1 | Medici |
-| 14 | Howard Lutnick | 93 | 15 | X |  |  |  |  | 1 | Howard Lutnick |
-| 15 | Mario Draghi | 93 | - |  | X |  |  |  | 1 | Draghi |
-| 16 | Chris Tucker | 91 | 15 | X |  |  |  |  | 1 | Chris Tucker |
-| 17 | Jardine Matheson | 90 | - |  | X |  |  |  | 1 | Matheson |
-| 18 | Marina von Neumann Whitman | 89 | - |  | X |  |  |  | 1 | Whitman |
-| 19 | Mustafa Aydin | 89 | 15 |  |  | X |  |  | 1 | Aydin |
-| 20 | Lawrence Summers | 86 | 15 |  |  | X |  |  | 1 | Lawrence Summers |
-| 21 | Mike Pence | 86 | 15 | X |  |  |  |  | 1 | Mike Pence |
-| 22 | Ivanka Trump | 85 | 15 | X |  |  |  |  | 1 | Ivanka Trump |
-| 23 | Jay Clayton | 84 | 15 | X |  |  |  |  | 1 | Jay Clayton |
-| 24 | Joseph Recarey | 84 | 15 | X |  |  |  |  | 1 | Joseph Recarey |
-| 25 | Fareed Zakaria | 81 | 15 |  |  | X² | X |  | 3 | Fareed Zakaria |
-| 26 | Bill Cosby | 80 | 15 | X |  |  |  |  | 1 | Bill Cosby |
-| 27 | Kamala Harris | 79 | 15 | X |  |  |  |  | 1 | Kamala Harris |
-| 28 | David van Weel | 78 | 15 |  |  | X |  |  | 1 | Weel |
-| 29 | Thornton Bradshaw | 77 | - |  | X |  |  |  | 1 | Bradshaw |
-| 30 | Eric Holder | 76 | 15 | X |  |  |  |  | 1 | Eric Holder |
-| 31 | Gladstone | 75 | 15 |  | X |  |  |  | 1 | Gladstone |
-| 32 | Harold McMillan | 75 | - |  | X |  |  |  | 1 | McMillan |
-| 33 | Lloyd Blankfein | 75 | - |  | X |  |  |  | 1 | Blankfein |
-| 34 | Beyonce | 74 | 14 | X |  |  |  |  | 1 | Beyonce |
-| 35 | Jean Duroc Danner | 74 | - |  | X |  |  |  | 1 | Danner |
-| 36 | John Paul | 74 | 15 | X |  |  |  |  | 1 | John Paul |
-| 37 | Susan Rice | 73 | 15 | X | X |  | X |  | 3 | Susan Rice |
-| 38 | Michael Milken | 73 | 15 | X |  |  |  |  | 1 | Michael Milken |
-| 39 | Deborah Orida | 72 | 15 |  |  | X |  |  | 1 | Orida |
-| 40 | Ben Sasse | 71 | 15 | X |  |  |  |  | 1 | Ben Sasse |
-| 41 | Steve Ballmer | 70 | - |  | X |  |  |  | 1 | Ballmer |
-| 42 | Strauss Audrey | 70 | 15 | X |  |  |  |  | 1 | Strauss Audrey |
-| 43 | Donat Catlin | 69 | - |  | X |  |  |  | 1 | Catlin |
-| 44 | Alan Greenspan | 68 | - |  | X |  |  |  | 1 | Greenspan |
-| 45 | Kash Patel | 68 | 15 | X |  |  |  |  | 1 | Kash Patel |
-| 46 | Mark Meadows | 67 | 15 | X |  |  |  |  | 1 | Mark Meadows |
-| 47 | Shimon Peres | 67 | - |  | X |  |  |  | 1 | Shimon Peres |
-| 48 | Harry – Woolf Woolf | 66 | - |  | X |  |  |  | 1 | Woolf |
-| 49 | Arthur H Hartman | 65 | - |  | X |  |  |  | 1 | Hartman |
-| 50 | Schroeder | 64 | 15 |  | X |  |  |  | 1 | Schroeder |
-| 51 | Eliot Spitzer | 63 | 15 | X |  |  |  |  | 1 | Eliot Spitzer |
-| 52 | Kingman Brewster | 63 | - |  | X |  |  |  | 1 | Brewster |
-| 53 | Rupert Murdoch | 62 | 15 | X | X |  |  |  | 2 | Rupert Murdoch |
-| 54 | Adam Schiff | 62 | 15 | X |  |  |  |  | 1 | Adam Schiff |
-| 55 | Caspar Weinberger | 62 | - |  | X |  |  |  | 1 | Weinberger |
-| 56 | Houston Stewart Chamberlain | 62 | - |  | X |  |  |  | 1 | Chamberlain |
-| 57 | John Scarola | 62 | 15 | X |  |  |  |  | 1 | John Scarola |
-| 58 | Robert Sarnoff | 62 | - |  | X |  |  |  | 1 | Sarnoff |
-| 59 | Chris Patten | 61 | - |  | X |  |  |  | 1 | Patten |
-| 60 | James David Wolfensohn | 61 | - |  | X |  |  |  | 1 | Wolfensohn |
-| 61 | Philipp Hildebrand | 61 | - |  | X |  |  |  | 1 | Hildebrand |
-| 62 | Houghton Amory | 60 | - |  | X |  |  |  | 1 | Amory |
-| 63 | Jay Z | 60 | - | X |  |  |  |  | 1 | Jay Z |
-| 64 | Julian Assange | 60 | 15 | X |  |  |  |  | 1 | Julian Assange |
-| 65 | Ron Desantis | 60 | 15 | X |  |  |  |  | 1 | Ron Desantis |
-| 66 | Silvio Berlusconi | 60 | - |  | X |  |  |  | 1 | Berlusconi |
-| 67 | Alison Moe | 59 | - | X |  |  |  |  | 1 | Alison Moe |
-| 68 | Chuck Schumer | 59 | 15 | X |  |  |  |  | 1 | Chuck Schumer |
-| 69 | Dick Cheney | 59 | 15 | X |  |  |  |  | 1 | Dick Cheney |
-| 70 | Lazar | 59 | - |  | X |  |  |  | 1 | Lazar |
-| 71 | Merrick Garland | 59 | 15 | X |  |  |  |  | 1 | Merrick Garland |
-| 72 | Bruce Lockhart | 58 | - |  | X |  |  |  | 1 | Lockhart |
-| 73 | Edward Snowden | 58 | 15 | X |  |  |  |  | 1 | Edward Snowden |
-| 74 | Max Warburg | 58 | 11 |  | X |  |  |  | 1 | Warburg |
-| 75 | S. C Warburg | 58 | 11 |  | X |  |  |  | 1 | Warburg |
-| 76 | Donald Berwick | 57 | - |  | X |  |  |  | 1 | Berwick |
-| 77 | Michael Dobson | 57 | 15 |  | X |  |  |  | 1 | Dobson |
-| 78 | Mick Jagger | 57 | 15 | X |  |  |  |  | 1 | Mick Jagger |
-| 79 | William Hague | 57 | - |  | X |  |  |  | 1 | William Hague |
-| 80 | Børge Brende | 56 | 15 |  |  | X² |  |  | 2 | Børge Brende |
-| 81 | Cory Booker | 56 | 15 | X |  |  |  |  | 1 | Cory Booker |
-| 82 | Gerald – 6th of Westminster Grosvenor | 56 | - |  | X |  |  |  | 1 | Grosvenor |
-| 83 | Alec Baldwin | 55 | 15 | X |  |  |  |  | 1 | Alec Baldwin |
-| 84 | Mikhail Gorbachev | 55 | - |  | X |  |  |  | 1 | Gorbachev |
-| 85 | Monica Lewinsky | 55 | 13 | X |  |  |  |  | 1 | Monica Lewinsky |
-| 86 | Anders Fogh Rasmussen | 54 | - |  | X |  |  |  | 1 | Rasmussen |
-| 87 | Dennis Ross | 54 | 15 |  |  |  | X |  | 1 | Dennis Ross |
-| 88 | John Maynard Keynes | 54 | - |  | X |  |  |  | 1 | Keynes |
-| 89 | Anna Borg | 53 | 15 |  |  | X |  |  | 1 | Borg |
-| 90 | Jeff Sessions | 53 | 15 | X |  |  |  |  | 1 | Jeff Sessions |
-| 91 | Salisbury | 53 | 15 |  | X |  |  |  | 1 | Salisbury |
-| 92 | Thomas L. Friedman | 53 | 15 |  |  | X |  |  | 1 | Thomas L. Friedman |
-| 93 | Bernard Looney | 52 | 15 |  |  | X |  |  | 1 | Looney |
-| 94 | Leonard Blavatnik | 52 | - |  | X |  |  |  | 1 | Blavatnik |
-| 95 | Pam Bondi | 52 | 15 | X |  |  |  |  | 1 | Pam Bondi |
-| 96 | Ron Wyden | 52 | 15 | X |  |  |  |  | 1 | Ron Wyden |
-| 97 | Lilli Gruber | 51 | 15 |  |  | X² |  |  | 2 | Gruber |
-| 98 | Alfred Beit | 51 | - |  | X |  |  |  | 1 | Beit |
-| 99 | John Brennan | 51 | 15 | X |  |  |  |  | 1 | John Brennan |
-| 100 | Kenneth Saul "Ken" Rogoff | 51 | - |  | X |  |  |  | 1 | Rogoff |
-| 101 | Robert Milton Worcester | 51 | - |  | X |  |  |  | 1 | Worcester |
-| 102 | Charles – of Wales | 50 | - |  | X |  |  |  | 1 | Prince Charles |
-| 103 | Ebba Busch | 50 | 15 |  |  | X |  |  | 1 | Busch |
-| 104 | George Clooney | 50 | 15 | X |  |  |  |  | 1 | George Clooney |
-| 105 | Michael Horowitz | 50 | 15 | X |  |  |  |  | 1 | Michael Horowitz |
-| 106 | The of Gloucester | 50 | - |  | X |  |  |  | 1 | Gloucester |
-| 107 | William (Prince) of Wales | 50 | - |  | X |  |  |  | 1 | Prince Charles |
-| 108 | Barry Diller | 49 | 15 | X |  |  |  |  | 1 | Barry Diller |
-| 109 | Cyrus Vance | 49 | - |  | X |  |  |  | 1 | Cyrus Vance |
-| 110 | John Roth | 48 | 15 | X |  |  |  |  | 1 | John Roth |
-| 111 | Walter Isaacson | 46 | - |  | X |  |  |  | 1 | Isaacson |
-| 112 | William Wiseman | 46 | - |  | X |  |  |  | 1 | Wiseman |
-| 113 | Brett Ratner | 45 | 15 | X |  |  |  |  | 1 | Brett Ratner |
-| 114 | Gavin Newsom | 45 | 15 | X |  |  |  |  | 1 | Gavin Newsom |
-| 115 | John Craven | 45 | 15 |  | X |  |  |  | 1 | Craven |
-| 116 | Robert De Niro | 45 | 15 | X |  |  |  |  | 1 | Robert De Niro |
-| 117 | Roman Arkadyevich Abramovich | 44 | - |  | X |  |  |  | 1 | Abramovich |
-| 118 | Barry Krisher | 43 | 15 | X |  |  |  |  | 1 | Barry Krisher |
-| 119 | Elvis Presley | 43 | 15 | X |  |  |  |  | 1 | Elvis Presley |
-| 120 | Fabrizio Massimo | 42 | 15 |  |  |  |  | X | 1 | Massimo |
-| 121 | Jeb Bush | 42 | 15 | X |  |  |  |  | 1 | Jeb Bush |
-| 122 | John Bolton | 42 | 15 | X |  |  |  |  | 1 | John Bolton |
-| 123 | Massimo | 42 | 15 |  |  |  |  | X | 1 | Massimo |
-| 124 | Mattei | 42 | 15 |  |  |  |  | X | 1 | Mattei |
-| 125 | Fidel Castro | 41 | 15 | X |  |  |  |  | 1 | Fidel Castro |
-| 126 | Mark Filip | 41 | 15 | X |  |  |  |  | 1 | Mark Filip |
-| 127 | Rod Rosenstein | 41 | 15 | X |  |  |  |  | 1 | Rod Rosenstein |
-| 128 | Peter – Levene of Portsoken Levene | 40 | - |  | X |  |  |  | 1 | Levene |
-| 129 | Robert S. Mueller | 40 | 15 | X |  |  |  |  | 1 | Robert S. Mueller |
-| 130 | Anthony Wedgewood Benn | 39 | - |  | X |  |  |  | 1 | Benn |
-| 131 | Colin Powell | 39 | - |  | X |  |  |  | 1 | Colin Powell |
-| 132 | Gordon Smith | 39 | 15 |  |  |  | X |  | 1 | Gordon Smith |
-| 133 | Avril D. Haines | 38 | 15 |  |  | X |  |  | 1 | Haines |
-| 134 | Dianne Feinstein | 38 | 15 |  |  |  | X |  | 1 | Dianne Feinstein |
-| 135 | Karl Rove | 38 | 15 | X |  |  |  |  | 1 | Karl Rove |
-| 136 | Margaret Thatcher | 38 | 15 | X |  |  |  |  | 1 | Margaret Thatcher |
-| 137 | Micael Johansson | 38 | 15 |  |  | X |  |  | 1 | Johansson |
-| 138 | Miguel Aleman | 38 | - |  | X |  |  |  | 1 | Aleman |
-| 139 | Ylva Johansson | 38 | 15 |  |  | X |  |  | 1 | Johansson |
-| 140 | Mehmet Fatih Ceylan | 37 | 15 |  |  | X |  |  | 1 | Ceylan |
-| 141 | William Joseph McDonough | 37 | - |  | X |  |  |  | 1 | McDonough |
-| 142 | Archduke Otto, House of Habsburg-Lorraine von Habsburg | 36 | - |  | X |  |  |  | 1 | Habsburg |
-| 143 | Clare Iveagh | 36 | 4 | X |  |  |  |  | 1 | Clare Iveagh |
-| 144 | M. G Sandberg | 36 | - |  | X |  |  |  | 1 | Sandberg |
-| 145 | Mansfield Cumming | 36 | - |  | X |  |  |  | 1 | Cumming |
-| 146 | Otto Von Habsburg | 36 | - |  | X |  |  |  | 1 | Habsburg |
-| 147 | William Bundy | 36 | 15 |  | X |  |  |  | 1 | Bundy |
-| 148 | David Rockefeller | 35 | 15 |  | X |  | X |  | 2 | David Rockefeller |
-| 149 | Christopher Donahue | 35 | 15 |  |  | X |  |  | 1 | Donahue |
-| 150 | William Bingham | 35 | - |  | X |  |  |  | 1 | Bingham |
-| 151 | Abigail Wexner | 34 | 15 | X |  |  |  |  | 1 | Abigail Wexner |
-| 152 | Alexandria Ocasio Cortez | 34 | 15 | X |  |  |  |  | 1 | Alexandria Ocasio Cortez |
-| 153 | Daniel Parker | 34 | 15 | X |  |  |  |  | 1 | Daniel Parker |
-| 154 | Halifax | 34 | 15 |  | X |  |  |  | 1 | Halifax |
-| 155 | Karl Otto Pöhl | 34 | - |  | X |  |  |  | 1 | Pöhl |
-| 156 | Michael Fribourg | 34 | - |  | X |  |  |  | 1 | Fribourg |
-| 157 | Arthur Mensch | 33 | 15 |  |  | X² |  |  | 2 | Mensch |
-| 158 | Doria-Pamphili-Landi | 33 | - |  |  |  |  | X | 1 | Doria-Pamphili-Landi |
-| 159 | Lee Plourde | 33 | 15 | X |  |  |  |  | 1 | Lee Plourde |
-| 160 | Bruce Springsteen | 32 | 13 | X |  |  |  |  | 1 | Bruce Springsteen |
-| 161 | Craig J. Mundie | 32 | 13 |  |  | X |  |  | 1 | Mundie |
-| 162 | J. K Swire | 32 | - |  | X |  |  |  | 1 | Swire |
-| 163 | Tucker Carlson | 32 | 15 | X |  |  |  |  | 1 | Tucker Carlson |
-| 164 | Niall Ferguson | 31 | 15 |  |  | X² |  |  | 2 | Niall Ferguson |
-| 165 | Andrew Schoenberg | 31 | - |  | X |  |  |  | 1 | Schoenberg |
-| 166 | Arthur Balfour | 31 | - |  | X |  |  |  | 1 | Balfour |
-| 167 | Chad Readler | 31 | 12 | X |  |  |  |  | 1 | Chad Readler |
-| 168 | Edgar Jr Bronfman | 31 | - |  | X |  |  |  | 1 | Edgar Bronfman |
-| 169 | Howard Rubenstein | 31 | 15 | X |  |  |  |  | 1 | Howard Rubenstein |
-| 170 | John Cadman | 31 | - |  | X |  |  |  | 1 | Cadman |
-| 171 | John Ratcliffe | 31 | 15 | X |  |  |  |  | 1 | John Ratcliffe |
-| 172 | Melania Trump | 31 | 15 | X |  |  |  |  | 1 | Melania Trump |
-| 173 | Ron Paul | 31 | 15 | X |  |  |  |  | 1 | Ron Paul |
-| 174 | Spellman | 31 | 15 |  | X |  |  |  | 1 | Spellman |
-| 175 | Carrington | 30 | 14 |  | X |  |  |  | 1 | Carrington |
-| 176 | Mark Yung | 30 | 15 | X |  |  |  |  | 1 | Mark Yung |
-| 177 | Miguel Stilwell de Andrade | 30 | 15 |  |  | X |  |  | 1 | Andrade |
-| 178 | Richard Burdon Haldane | 30 | 15 |  | X |  |  |  | 1 | Haldane |
-| 179 | Crown of Albania Leka | 29 | - |  | X |  |  |  | 1 | Emanuele |
-| 180 | Dan Bongino | 29 | 14 | X |  |  |  |  | 1 | Dan Bongino |
-| 181 | David Miliband | 29 | - |  | X |  |  |  | 1 | David Miliband |
-| 182 | George Osborne | 29 | - |  | X |  |  |  | 1 | George Osborne |
-| 183 | Ken Jamieson | 29 | - |  | X |  |  |  | 1 | Jamieson |
-| 184 | Antony Blinken | 28 | 15 | X |  |  |  |  | 1 | Antony Blinken |
-| 185 | Charlene de Carvalho | 28 | 15 |  |  | X |  |  | 1 | Carvalho |
-| 186 | Howard Heiss | 28 | 15 | X |  |  |  |  | 1 | Howard Heiss |
-| 187 | Jacob Rothschild | 28 | 15 |  |  |  |  | X | 1 | Jacob Rothschild |
-| 188 | Jacob – 4th Rothschild Rothschild | 28 | - |  | X |  |  |  | 1 | Jacob Rothschild |
-| 189 | Joseph E Stiglitz | 28 | - |  | X |  |  |  | 1 | Stiglitz |
-| 190 | Marilyn Monroe | 28 | 15 | X |  |  |  |  | 1 | Marilyn Monroe |
-| 191 | Ranier | 28 | 15 |  | X |  |  |  | 1 | Ranier |
-| 192 | Sebag or Bishop Hugh Montefiore | 28 | - |  | X |  |  |  | 1 | Montefiore |
-| 193 | Stephanie Avakian | 28 | 14 | X |  |  |  |  | 1 | Stephanie Avakian |
-| 194 | Álvaro Uribe Vélez | 28 | - |  | X |  |  |  | 1 | Vélez |
-| 195 | Borghese | 27 | 9 |  |  |  |  | X | 1 | Borghese |
-| 196 | Dennis Gabor | 27 | - |  | X |  |  |  | 1 | Gabor |
-| 197 | John Chipman | 27 | - |  | X |  |  |  | 1 | Chipman |
-| 198 | Michelle Obama | 27 | 15 | X |  |  |  |  | 1 | Michelle Obama |
-| 199 | Robert Menendez | 27 | 15 | X |  |  |  |  | 1 | Robert Menendez |
-| 200 | Russell Capone | 27 | 15 | X |  |  |  |  | 1 | Russell Capone |
-| 201 | Scipione Borghese | 27 | 9 |  |  |  |  | X | 1 | Borghese |
-| 202 | William H. II Koon | 27 | - |  | X |  |  |  | 1 | Koon |
-| 203 | Edward Friedland | 26 | 15 | X |  |  |  |  | 1 | Edward Friedland |
-| 204 | Mick Mulvaney | 26 | 15 | X |  |  |  |  | 1 | Mick Mulvaney |
-| 205 | Michael O'Leary | 25 | 11 |  |  | X³ |  |  | 3 | O'Leary |
-| 206 | Zbigniew Brzezinski | 25 | 15 |  | X |  | X |  | 2 | Zbigniew Brzezinski |
-| 207 | Chelsea Clinton | 25 | 15 | X |  |  |  |  | 1 | Chelsea Clinton |
-| 208 | James Margolin | 25 | 15 | X |  |  |  |  | 1 | James Margolin |
-| 209 | John Rennie | 25 | - |  | X |  |  |  | 1 | Rennie |
-| 210 | Lazard Freres | 25 | - |  | X |  |  |  | 1 | Freres |
-| 211 | Nicole McFarland | 25 | 15 | X |  |  |  |  | 1 | Nicole McFarland |
-| 212 | Samantha Power | 25 | 15 | X |  |  |  |  | 1 | Samantha Power |
-| 213 | Steny Hoyer | 25 | 13 | X |  |  |  |  | 1 | Steny Hoyer |
-| 214 | Larry Kudlow | 24 | 15 | X |  |  |  |  | 1 | Larry Kudlow |
-| 215 | Nicolas Roos | 24 | 15 | X |  |  |  |  | 1 | Nicolas Roos |
-| 216 | Oleg Deripaska | 24 | - |  | X |  |  |  | 1 | Deripaska |
-| 217 | Stephen Feinberg | 24 | 15 | X |  |  |  |  | 1 | Stephen Feinberg |
-| 218 | Stephen Schwarzman | 24 | 15 | X |  |  |  |  | 1 | Stephen Schwarzman |
-| 219 | Strobe Talbott | 24 | 14 |  |  |  | X |  | 1 | Strobe Talbott |
-| 220 | Theresa May | 24 | - | X |  |  |  |  | 1 | Theresa May |
-| 221 | Victor C. W. of Devonshire Cavendish | 24 | - |  | X |  |  |  | 1 | Cavendish |
-| 222 | Christian Sewing | 23 | 6 |  |  | X² |  |  | 2 | Christian Sewing |
-| 223 | Bernard Émié | 23 | - |  |  | X |  |  | 1 | Émié |
-| 224 | David Reuben | 23 | - |  | X |  |  |  | 1 | David Reuben |
-| 225 | Isaac S.D Sassoon | 23 | 15 |  | X |  |  |  | 1 | Sassoon |
-| 226 | James Meyer – Sassoon Sassoon | 23 | 15 |  | X |  |  |  | 1 | Sassoon |
-| 227 | Jean-Claude Trichet | 23 | - |  | X |  |  |  | 1 | Trichet |
-| 228 | Larry Nassar | 23 | 15 | X |  |  |  |  | 1 | Larry Nassar |
-| 229 | Stormont Bancroft | 23 | - |  | X |  |  |  | 1 | Bancroft |
-| 230 | Ajay Agrawal | 22 | 15 |  |  | X |  |  | 1 | Agrawal |
-| 231 | Carl Kline | 22 | 15 | X |  |  |  |  | 1 | Carl Kline |
-| 232 | Howard Lorber | 22 | 15 | X |  |  |  |  | 1 | Howard Lorber |
-| 233 | Jill Biden | 22 | 15 | X |  |  |  |  | 1 | Jill Biden |
-| 234 | John Bruton | 22 | 11 |  | X |  |  |  | 1 | Bruton |
-| 235 | Keir Starmer | 22 | 15 | X |  |  |  |  | 1 | Keir Starmer |
-| 236 | Lakshmi Mittal | 22 | 15 |  | X |  |  |  | 1 | Mittal |
-| 237 | Mervyn King | 22 | 15 |  | X |  |  |  | 1 | Mervyn King |
-| 238 | Xavier Becerra | 22 | 15 | X |  |  |  |  | 1 | Xavier Becerra |
-| 239 | Mario Monti | 21 | 15 |  |  | X² |  |  | 2 | Mario Monti |
-| 240 | Agnès Pannier-Runacher | 21 | - |  |  | X |  |  | 1 | Pannier-Runacher |
-| 241 | Anne-Marie Slaughter | 21 | 15 |  |  |  | X |  | 1 | Anne-Marie Slaughter |
-| 242 | Jeffrey Rosen | 21 | 15 | X |  |  |  |  | 1 | Jeffrey Rosen |
-| 243 | Jon Kyl | 21 | - | X |  |  |  |  | 1 | Jon Kyl |
-| 244 | Robert Rubin | 21 | - |  | X |  |  |  | 1 | Robert Rubin |
-| 245 | Victoria Hervey | 21 | 15 | X |  |  |  |  | 1 | Victoria Hervey |
-| 246 | Eric Swalwell | 20 | 15 | X |  |  |  |  | 1 | Eric Swalwell |
-| 247 | Francis Fukuyama | 20 | 15 |  |  |  | X |  | 1 | Francis Fukuyama |
-| 248 | George Economou | 20 | 14 | X |  |  |  |  | 1 | George Economou |
-| 249 | Jamie Raskin | 20 | 15 | X |  |  |  |  | 1 | Jamie Raskin |
-| 250 | Jerry Nadler | 20 | 15 | X |  |  |  |  | 1 | Jerry Nadler |
-| 251 | Margaret Chan | 20 | - |  | X |  |  |  | 1 | Margaret Chan |
-| 252 | Mike Huckabee | 20 | 15 | X |  |  |  |  | 1 | Mike Huckabee |
-| 253 | Mikhail Prokhorov | 20 | - |  | X |  |  |  | 1 | Prokhorov |
-| 254 | Olof Palme | 20 | 15 |  | X |  |  |  | 1 | Palme |
-| 255 | Robert Bruce Zoellick | 20 | - |  | X |  |  |  | 1 | Zoellick |
-| 256 | Tim Scott | 20 | 15 | X |  |  |  |  | 1 | Tim Scott |
-| 257 | Todd Bistricer | 20 | 15 | X |  |  |  |  | 1 | Bistricer |
-| 258 | Jens Stoltenberg | 19 | 14 | X |  | X³ |  |  | 4 | Jens Stoltenberg |
-| 259 | Demis Hassabis | 19 | 13 |  |  | X³ |  |  | 3 | Demis Hassabis |
-| 260 | David Bistricer | 19 | 15 | X |  |  |  |  | 1 | David Bistricer |
-| 261 | Kenneth Rogoff | 19 | 15 |  |  |  | X |  | 1 | Kenneth Rogoff |
-| 262 | Mark Carney | 19 | 15 |  |  | X |  |  | 1 | Mark Carney |
-| 263 | Mark J Carney | 19 | - |  | X |  |  |  | 1 | Mark Carney |
-| 264 | Nikki Haley | 19 | 15 | X |  |  |  |  | 1 | Nikki Haley |
-| 265 | William Heseltine | 19 | - |  | X |  |  |  | 1 | Heseltine |
-| 266 | Beatrix | 18 | 9 |  | X |  |  |  | 1 | Beatrix |
-| 267 | Colonna | 18 | 15 |  |  |  |  | X | 1 | Colonna |
-| 268 | Marc Bistricer | 18 | 15 | X |  |  |  |  | 1 | Marc Bistricer |
-| 269 | Marcantonio Colonna | 18 | 15 |  |  |  |  | X | 1 | Colonna |
-| 270 | Marcantonio di Paliano Colonna | 18 | - |  | X |  |  |  | 1 | Colonna |
-| 271 | Patrick Byrne | 18 | 15 | X |  |  |  |  | 1 | Patrick Byrne |
-| 272 | Rebekah Donaleski | 18 | 15 | X |  |  |  |  | 1 | Rebekah Donaleski |
-| 273 | Ric Bradshaw | 18 | 15 | X |  |  |  |  | 1 | Ric Bradshaw |
-| 274 | Vittorio Cini | 18 | - |  | X |  |  |  | 1 | Cini |
-| 275 | Gideon Rachman | 17 | 15 |  |  | X³ |  |  | 3 | Gideon Rachman |
-| 276 | Paschal Donohoe | 17 | 15 |  |  | X³ |  |  | 3 | Donohoe |
-| 277 | Clément Beaune | 17 | 14 |  |  | X |  |  | 1 | Beaune |
-| 278 | Graham Allison | 17 | 15 |  |  |  | X |  | 1 | Graham Allison |
-| 279 | JD Vance | 17 | 15 | X |  |  |  |  | 1 | JD Vance |
-| 280 | Jean-Claude Juncker | 17 | - |  | X |  |  |  | 1 | Juncker |
-| 281 | John Loudon | 17 | - |  | X |  |  |  | 1 | Loudon |
-| 282 | Morris Oldfield | 17 | - |  | X |  |  |  | 1 | Morris Oldfield |
-| 283 | Palmer Luckey | 17 | 12 |  |  | X |  |  | 1 | Luckey |
-| 284 | Robert Kagan | 17 | 15 |  |  |  | X |  | 1 | Robert Kagan |
-| 285 | Tyron | 17 | 15 |  | X |  |  |  | 1 | Tyron |
-| 286 | Bertrand Russell | 16 | - |  | X |  |  |  | 1 | Bertrand Russell |
-| 287 | Domenico Orsini | 16 | 15 |  |  |  |  | X | 1 | Orsini |
-| 288 | Florence Hutner | 16 | 14 | X |  |  |  |  | 1 | Florence Hutner |
-| 289 | Franco Bonacassi Orsini | 16 | - |  | X |  |  |  | 1 | Orsini |
-| 290 | Franco Orsini Bonacassi | 16 | - |  | X |  |  |  | 1 | Orsini |
-| 291 | Giancarlo Orsini | 16 | 15 |  |  |  |  | X | 1 | Orsini |
-| 292 | Hakeem Jeffries | 16 | 15 | X |  |  |  |  | 1 | Hakeem Jeffries |
-| 293 | Joseph Pecorino | 16 | 15 | X |  |  |  |  | 1 | Joseph Pecorino |
-| 294 | Orsini | 16 | 15 |  |  |  |  | X | 1 | Orsini |
-| 295 | R. James Jr Woolsey | 16 | - |  | X |  |  |  | 1 | Woolsey |
-| 296 | Robert May | 16 | - | X |  |  |  |  | 1 | Robert May |
-| 297 | William K d'Arcy | 16 | - |  | X |  |  |  | 1 | d'Arcy |
-| 298 | Winfried Franz Wilhen "Win" Bischoff | 16 | - |  | X |  |  |  | 1 | Bischoff |
-| 299 | Gabriel Attal | 15 | 15 |  |  | X² |  |  | 2 | Attal |
-| 300 | Richard Holbrooke | 15 | 15 |  | X |  | X |  | 2 | Richard Holbrooke |
-| 301 | Stanley Fischer | 15 | 15 |  | X |  | X |  | 2 | Stanley Fischer |
-| 302 | Auckland Geddes | 15 | - |  | X |  |  |  | 1 | Geddes |
-| 303 | Bret Stephens | 15 | 15 |  |  | X |  |  | 1 | Bret Stephens |
-| 304 | Christian Noyer | 15 | - |  | X |  |  |  | 1 | Noyer |
-| 305 | Dennis Healey | 15 | - |  | X |  |  |  | 1 | Healey |
-| 306 | Ed Miliband | 15 | - |  | X |  |  |  | 1 | Ed Miliband |
-| 307 | Patrick Honohan | 15 | - |  | X |  |  |  | 1 | Honohan |
-| 308 | Peter Lee | 15 | - |  |  | X |  |  | 1 | Peter Lee |
-| 309 | Philip (Prince) – of Edinburgh | 15 | - |  | X |  |  |  | 1 | Prince Philip |
-| 310 | Phillip Frost | 15 | 15 | X |  |  |  |  | 1 | Phillip Frost |
-| 311 | Prince, of Edinburgh Philip | 15 | - |  | X |  |  |  | 1 | Prince Philip |
-| 312 | Reay Geddes | 15 | - |  | X |  |  |  | 1 | Geddes |
-| 313 | Ro Khanna | 15 | 15 | X |  |  |  |  | 1 | Ro Khanna |
-| 314 | Rosie O'Donnell | 15 | 15 | X |  |  |  |  | 1 | Rosie O'Donnell |
-| 315 | Alex Jones | 14 | 15 | X |  |  |  |  | 1 | Alex Jones |
-| 316 | Andrew Crockett | 14 | - |  | X |  |  |  | 1 | Crockett |
-| 317 | John D Gilmer | 14 | - |  | X |  |  |  | 1 | Gilmer |
-| 318 | Lisa Monaco | 14 | 15 | X |  |  |  |  | 1 | Lisa Monaco |
-| 319 | Marcus Ambrose Paul Agius | 14 | - |  | X |  |  |  | 1 | Agius |
-| 320 | Nick Clegg | 14 | - |  | X |  |  |  | 1 | Nick Clegg |
-| 321 | Søren Pind | 14 | 15 |  |  | X |  |  | 1 | Pind |
-| 322 | Todd Blanche | 14 | 15 | X |  |  |  |  | 1 | Todd Blanche |
-| 323 | Tony Higgins | 14 | 15 | X |  |  |  |  | 1 | Tony Higgins |
-| 324 | Angus Ogilvie | 13 | - |  | X |  |  |  | 1 | Ogilvie |
-| 325 | Ettore Gotti Tedeschi | 13 | - |  | X |  |  |  | 1 | Tedeschi |
-| 326 | Jay Sekulow | 13 | 13 | X |  |  |  |  | 1 | Jay Sekulow |
-| 327 | John D. Rockefeller | 13 | 15 |  |  |  | X |  | 1 | John D. Rockefeller |
-| 328 | Loretta Lynch | 13 | 15 | X |  |  |  |  | 1 | Loretta Lynch |
-| 329 | Steve Mnuchin | 13 | 15 | X |  |  |  |  | 1 | Steve Mnuchin |
-| 330 | Valentino Valentini | 13 | 1 |  |  | X |  |  | 1 | Valentini |
-| 331 | of Schleswig-Holstein Christoph | 13 | - |  | X |  |  |  | 1 | Schleswig-Holstein |
-| 332 | Timothy Geithner | 12 | 14 | X | X |  |  |  | 2 | Timothy Geithner |
-| 333 | Alexandra (Princess) – Ogilvy | 12 | - |  | X |  |  |  | 1 | Ogilvy |
-| 334 | Andrew Rohrbach | 12 | 15 | X |  |  |  |  | 1 | Andrew Rohrbach |
-| 335 | Brian Deese | 12 | 15 |  |  | X |  |  | 1 | Brian Deese |
-| 336 | Carol Thomas-Jacobs | 12 | 12 | X |  |  |  |  | 1 | Carol Thomas-Jacobs |
-| 337 | David Bowdich | 12 | 14 | X |  |  |  |  | 1 | David Bowdich |
-| 338 | Ed Markey | 12 | 15 | X |  |  |  |  | 1 | Ed Markey |
-| 339 | Jack Lew | 12 | - | X |  |  |  |  | 1 | Jack Lew |
-| 340 | Janis Joplin | 12 | 15 | X |  |  |  |  | 1 | Janis Joplin |
-| 341 | Jean Monnet | 12 | - |  | X |  |  |  | 1 | Jean Monnet |
-| 342 | Kathleen Dupont | 12 | 15 | X |  |  |  |  | 1 | Kathleen Dupont |
-| 343 | Keith Ellison | 12 | 15 | X |  |  |  |  | 1 | Keith Ellison |
-| 344 | Matthew Rogers | 12 | 15 | X |  |  |  |  | 1 | Matthew Rogers |
-| 345 | Paul M. Achleitner | 12 | 15 |  |  | X |  |  | 1 | Achleitner |
-| 346 | Wesley Kanne Sr. Clark | 12 | - |  | X |  |  |  | 1 | Wesley Clark |
-| 347 | Mark Rutte | 11 | 15 |  |  | X³ |  |  | 3 | Mark Rutte |
-| 348 | Amy Schumer | 11 | 15 | X |  |  |  |  | 1 | Amy Schumer |
-| 349 | Carl Bildt | 11 | - |  | X |  |  |  | 1 | Carl Bildt |
-| 350 | Dean Acheson | 11 | - |  | X |  |  |  | 1 | Dean Acheson |
-| 351 | Diana Ross | 11 | 15 | X |  |  |  |  | 1 | Diana Ross |
-| 352 | Harold Anthony Caccia | 11 | - |  | X |  |  |  | 1 | Caccia |
-| 353 | James Moore | 11 | 15 |  |  |  | X |  | 1 | James Moore |
-| 354 | John Elkann | 11 | - |  | X |  |  |  | 1 | John Elkann |
-| 355 | Lisa Marie Presley | 11 | 15 | X |  |  |  |  | 1 | Lisa Marie Presley |
-| 356 | Louis Mountbatten | 11 | - |  | X |  |  |  | 1 | Mountbatten |
-| 357 | Ranulph Baco | 11 | - |  | X |  |  |  | 1 | Baco |
-| 358 | Sophia Papapetru | 11 | 14 | X |  |  |  |  | 1 | Sophia Papapetru |
-| 359 | Thomas Massie | 11 | 15 | X |  |  |  |  | 1 | Thomas Massie |
-| 360 | Yitzhak Shamir | 11 | 15 | X |  |  |  |  | 1 | Yitzhak Shamir |
-| 361 | Stacey Abrams | 10 | 15 |  |  | X³ |  |  | 3 | Stacey Abrams |
-| 362 | Øyvind Eriksen | 10 | 15 |  |  | X³ |  |  | 3 | Eriksen |
-| 363 | Charles B. Rangel | 10 | 15 |  |  |  | X |  | 1 | Charles B. Rangel |
-| 364 | Diogo Salvi | 10 | 15 |  |  | X |  |  | 1 | Salvi |
-| 365 | Eric S. Lander | 10 | 15 |  |  | X |  |  | 1 | Eric S. Lander |
-| 366 | George Conway | 10 | 15 | X |  |  |  |  | 1 | George Conway |
-| 367 | Hans Heinrich Thyssen-Bornemisza | 10 | - |  | X |  |  |  | 1 | Thyssen-Bornemisza |
-| 368 | Jeff Zucker | 10 | 15 | X |  |  |  |  | 1 | Jeff Zucker |
-| 369 | John Kasich | 10 | 13 | X |  |  |  |  | 1 | John Kasich |
-| 370 | Klaus Schwab | 10 | - |  | X |  |  |  | 1 | Klaus Schwab |
-| 371 | Marius Fortelni | 10 | 11 | X |  |  |  |  | 1 | Marius Fortelni |
-| 372 | Omar Daza | 10 | 15 | X |  |  |  |  | 1 | Omar Daza |
-| 373 | Paul A. Volcker | 10 | 15 |  |  |  | X |  | 1 | Paul A. Volcker |
-| 374 | Pramila Jayapal | 10 | 12 | X |  |  |  |  | 1 | Pramila Jayapal |
-| 375 | Richard Chartres | 10 | - |  | X |  |  |  | 1 | Chartres |
+| 2 | David William Donald Cameron | 99 | - |  | X |  |  |  | 1 | David Cameron |
+| 3 | Hunter Biden | 99 | 15 | X |  |  |  |  | 1 | Hunter Biden |
+| 4 | Vanderbilt | 99 | - |  | X |  |  |  | 1 | Vanderbilt |
+| 5 | Margherita – Archduchess of Austria-Este | 98 | - |  | X |  |  |  | 1 | Margherita |
+| 6 | Brian Colleran | 96 | 15 | X |  |  |  |  | 1 | Brian Colleran |
+| 7 | Paul Ryan | 96 | 15 | X |  |  |  |  | 1 | Paul Ryan |
+| 8 | Charles Rosner Bronfman | 95 | 15 |  | X |  |  |  | 1 | Bronfman |
+| 9 | Glen Moreno | 94 | - |  | X |  |  |  | 1 | Moreno |
+| 10 | Medici | 94 | 15 |  |  |  |  | X | 1 | Medici |
+| 11 | Howard Lutnick | 93 | 15 | X |  |  |  |  | 1 | Howard Lutnick |
+| 12 | Chris Tucker | 91 | 15 | X |  |  |  |  | 1 | Chris Tucker |
+| 13 | Benjamin De Rothschild | 90 | - |  | X |  |  |  | 1 | Benjamin de Rothschild |
+| 14 | Elie de or Edmond de and/or Rothschild Rothschild | 90 | - |  | X |  |  |  | 1 | Benjamin de Rothschild |
+| 15 | Marina von Neumann Whitman | 89 | - |  | X |  |  |  | 1 | Whitman |
+| 16 | Lawrence Summers | 86 | 15 |  |  | X |  |  | 1 | Lawrence Summers |
+| 17 | Mike Pence | 86 | 15 | X |  |  |  |  | 1 | Mike Pence |
+| 18 | Ivanka Trump | 85 | 15 | X |  |  |  |  | 1 | Ivanka Trump |
+| 19 | Jay Clayton | 84 | 15 | X |  |  |  |  | 1 | Jay Clayton |
+| 20 | Joseph Recarey | 84 | 15 | X |  |  |  |  | 1 | Joseph Recarey |
+| 21 | Fareed Zakaria | 81 | 15 |  |  | X² | X |  | 3 | Fareed Zakaria |
+| 22 | Bill Cosby | 80 | 15 | X |  |  |  |  | 1 | Bill Cosby |
+| 23 | Kamala Harris | 79 | 15 | X |  |  |  |  | 1 | Kamala Harris |
+| 24 | Thornton Bradshaw | 77 | - |  | X |  |  |  | 1 | Bradshaw |
+| 25 | Eric Holder | 76 | 15 | X |  |  |  |  | 1 | Eric Holder |
+| 26 | Gladstone | 75 | 15 |  | X |  |  |  | 1 | Gladstone |
+| 27 | Harold McMillan | 75 | - |  | X |  |  |  | 1 | McMillan |
+| 28 | Beyonce | 74 | 14 | X |  |  |  |  | 1 | Beyonce |
+| 29 | Jean Duroc Danner | 74 | - |  | X |  |  |  | 1 | Danner |
+| 30 | John Paul | 74 | 15 | X |  |  |  |  | 1 | John Paul |
+| 31 | Susan Rice | 73 | 15 | X | X |  | X |  | 3 | Susan Rice |
+| 32 | Michael Milken | 73 | 15 | X |  |  |  |  | 1 | Michael Milken |
+| 33 | Ben Sasse | 71 | 15 | X |  |  |  |  | 1 | Ben Sasse |
+| 34 | Strauss Audrey | 70 | 15 | X |  |  |  |  | 1 | Strauss Audrey |
+| 35 | Donat Catlin | 69 | - |  | X |  |  |  | 1 | Catlin |
+| 36 | Kash Patel | 68 | 15 | X |  |  |  |  | 1 | Kash Patel |
+| 37 | Mark Meadows | 67 | 15 | X |  |  |  |  | 1 | Mark Meadows |
+| 38 | Shimon Peres | 67 | - |  | X |  |  |  | 1 | Shimon Peres |
+| 39 | Arthur H Hartman | 65 | - |  | X |  |  |  | 1 | Hartman |
+| 40 | Schroeder | 64 | 15 |  | X |  |  |  | 1 | Schroeder |
+| 41 | Eliot Spitzer | 63 | 15 | X |  |  |  |  | 1 | Eliot Spitzer |
+| 42 | Kingman Brewster | 63 | - |  | X |  |  |  | 1 | Brewster |
+| 43 | Rupert Murdoch | 62 | 15 | X | X |  |  |  | 2 | Rupert Murdoch |
+| 44 | Adam Schiff | 62 | 15 | X |  |  |  |  | 1 | Adam Schiff |
+| 45 | Houston Stewart Chamberlain | 62 | - |  | X |  |  |  | 1 | Chamberlain |
+| 46 | John Scarola | 62 | 15 | X |  |  |  |  | 1 | John Scarola |
+| 47 | Robert Sarnoff | 62 | - |  | X |  |  |  | 1 | Sarnoff |
+| 48 | James David Wolfensohn | 61 | - |  | X |  |  |  | 1 | Wolfensohn |
+| 49 | Philipp Hildebrand | 61 | - |  | X |  |  |  | 1 | Hildebrand |
+| 50 | Jay Z | 60 | - | X |  |  |  |  | 1 | Jay Z |
+| 51 | Julian Assange | 60 | 15 | X |  |  |  |  | 1 | Julian Assange |
+| 52 | Ron Desantis | 60 | 15 | X |  |  |  |  | 1 | Ron Desantis |
+| 53 | Alison Moe | 59 | - | X |  |  |  |  | 1 | Alison Moe |
+| 54 | Chuck Schumer | 59 | 15 | X |  |  |  |  | 1 | Chuck Schumer |
+| 55 | Dick Cheney | 59 | 15 | X |  |  |  |  | 1 | Dick Cheney |
+| 56 | Merrick Garland | 59 | 15 | X |  |  |  |  | 1 | Merrick Garland |
+| 57 | Bruce Lockhart | 58 | - |  | X |  |  |  | 1 | Lockhart |
+| 58 | Edward Snowden | 58 | 15 | X |  |  |  |  | 1 | Edward Snowden |
+| 59 | Gordon Lockhart | 58 | - |  | X |  |  |  | 1 | Lockhart |
+| 60 | Max Warburg | 58 | 11 |  | X |  |  |  | 1 | Warburg |
+| 61 | S. C Warburg | 58 | 11 |  | X |  |  |  | 1 | Warburg |
+| 62 | Donald Berwick | 57 | - |  | X |  |  |  | 1 | Berwick |
+| 63 | Lloyd Blankfein | 57 | - |  | X |  |  |  | 1 | Lloyd Blankfein |
+| 64 | Michael Dobson | 57 | 15 |  | X |  |  |  | 1 | Dobson |
+| 65 | Mick Jagger | 57 | 15 | X |  |  |  |  | 1 | Mick Jagger |
+| 66 | Nicolas Sarkozy | 57 | - |  | X |  |  |  | 1 | Nicolas Sarkozy |
+| 67 | William Hague | 57 | - |  | X |  |  |  | 1 | William Hague |
+| 68 | Børge Brende | 56 | 15 |  |  | X² |  |  | 2 | Børge Brende |
+| 69 | Cory Booker | 56 | 15 | X |  |  |  |  | 1 | Cory Booker |
+| 70 | Alec Baldwin | 55 | 15 | X |  |  |  |  | 1 | Alec Baldwin |
+| 71 | Monica Lewinsky | 55 | 13 | X |  |  |  |  | 1 | Monica Lewinsky |
+| 72 | Dennis Ross | 54 | 15 |  |  |  | X |  | 1 | Dennis Ross |
+| 73 | Jeff Sessions | 53 | 15 | X |  |  |  |  | 1 | Jeff Sessions |
+| 74 | Salisbury | 53 | 15 |  | X |  |  |  | 1 | Salisbury |
+| 75 | Thomas L. Friedman | 53 | 15 |  |  | X |  |  | 1 | Thomas L. Friedman |
+| 76 | de Robert Gascoigne Cecil Salisbury | 53 | - |  | X |  |  |  | 1 | Salisbury |
+| 77 | Bernard Looney | 52 | 15 |  |  | X |  |  | 1 | Looney |
+| 78 | Leonard Blavatnik | 52 | - |  | X |  |  |  | 1 | Blavatnik |
+| 79 | Pam Bondi | 52 | 15 | X |  |  |  |  | 1 | Pam Bondi |
+| 80 | Ron Wyden | 52 | 15 | X |  |  |  |  | 1 | Ron Wyden |
+| 81 | Lilli Gruber | 51 | 15 |  |  | X² |  |  | 2 | Gruber |
+| 82 | John Brennan | 51 | 15 | X |  |  |  |  | 1 | John Brennan |
+| 83 | Robert Milton Worcester | 51 | - |  | X |  |  |  | 1 | Worcester |
+| 84 | Winston Churchill | 51 | - |  | X |  |  |  | 1 | Winston Churchill |
+| 85 | Charles – of Wales | 50 | - |  | X |  |  |  | 1 | Prince Charles |
+| 86 | George Clooney | 50 | 15 | X |  |  |  |  | 1 | George Clooney |
+| 87 | Michael Horowitz | 50 | 15 | X |  |  |  |  | 1 | Michael Horowitz |
+| 88 | William (Prince) of Wales | 50 | - |  | X |  |  |  | 1 | Prince Charles |
+| 89 | Barry Diller | 49 | 15 | X |  |  |  |  | 1 | Barry Diller |
+| 90 | Cyrus Vance | 49 | - |  | X |  |  |  | 1 | Cyrus Vance |
+| 91 | Designate Price Waterhouse | 48 | - |  | X |  |  |  | 1 | Waterhouse |
+| 92 | John Roth | 48 | 15 | X |  |  |  |  | 1 | John Roth |
+| 93 | John. Family Designate Jay | 47 | - |  | X |  |  |  | 1 | John. Jay |
+| 94 | William Wiseman | 46 | - |  | X |  |  |  | 1 | Wiseman |
+| 95 | Brett Ratner | 45 | 15 | X |  |  |  |  | 1 | Brett Ratner |
+| 96 | Gavin Newsom | 45 | 15 | X |  |  |  |  | 1 | Gavin Newsom |
+| 97 | John Craven | 45 | 15 |  | X |  |  |  | 1 | Craven |
+| 98 | Robert De Niro | 45 | 15 | X |  |  |  |  | 1 | Robert De Niro |
+| 99 | Barry Krisher | 43 | 15 | X |  |  |  |  | 1 | Barry Krisher |
+| 100 | Elvis Presley | 43 | 15 | X |  |  |  |  | 1 | Elvis Presley |
+| 101 | Fabrizio Massimo | 0* | 15 |  |  |  |  | X | 1 | *"Fabrizio Massimo"=0; "Massimo"=42 |
+| 102 | Jeb Bush | 42 | 15 | X |  |  |  |  | 1 | Jeb Bush |
+| 103 | John Bolton | 42 | 15 | X |  |  |  |  | 1 | John Bolton |
+| 104 | Massimo | 42 | 15 |  |  |  |  | X | 1 | Massimo |
+| 105 | Mattei | 42 | 15 |  |  |  |  | X | 1 | Mattei |
+| 106 | Paul Volcker | 42 | - |  | X |  |  |  | 1 | Paul Volcker |
+| 107 | Fidel Castro | 41 | 15 | X |  |  |  |  | 1 | Fidel Castro |
+| 108 | Mark Filip | 41 | 15 | X |  |  |  |  | 1 | Mark Filip |
+| 109 | Rod Rosenstein | 41 | 15 | X |  |  |  |  | 1 | Rod Rosenstein |
+| 110 | Robert S. Mueller | 40 | 15 | X |  |  |  |  | 1 | Robert S. Mueller |
+| 111 | Colin Powell | 39 | - |  | X |  |  |  | 1 | Colin Powell |
+| 112 | Gordon Smith | 39 | 15 |  |  |  | X |  | 1 | Gordon Smith |
+| 113 | Dianne Feinstein | 38 | 15 |  |  |  | X |  | 1 | Dianne Feinstein |
+| 114 | Karl Rove | 38 | 15 | X |  |  |  |  | 1 | Karl Rove |
+| 115 | Margaret Thatcher | 38 | 15 | X |  |  |  |  | 1 | Margaret Thatcher |
+| 116 | Micael Johansson | 38 | 15 |  |  | X |  |  | 1 | Johansson |
+| 117 | Miguel Aleman | 38 | - |  | X |  |  |  | 1 | Aleman |
+| 118 | Ylva Johansson | 38 | 15 |  |  | X |  |  | 1 | Johansson |
+| 119 | Mehmet Fatih Ceylan | 37 | 15 |  |  | X |  |  | 1 | Ceylan |
+| 120 | Ben Bernanke | 36 | - |  | X |  |  |  | 1 | Ben Bernanke |
+| 121 | Clare Iveagh | 36 | 4 | X |  |  |  |  | 1 | Clare Iveagh |
+| 122 | M. G Sandberg | 36 | - |  | X |  |  |  | 1 | Sandberg |
+| 123 | Mansfield Cumming | 36 | - |  | X |  |  |  | 1 | Cumming |
+| 124 | Otto Von Habsburg | 36 | - |  | X |  |  |  | 1 | Habsburg |
+| 125 | David Rockefeller | 35 | 15 |  | X |  | X |  | 2 | David Rockefeller |
+| 126 | Christopher Donahue | 35 | 15 |  |  | X |  |  | 1 | Donahue |
+| 127 | David Alan Walker | 35 | - |  | X |  |  |  | 1 | David Walker |
+| 128 | David Jr Rockefeller | 35 | - |  | X |  |  |  | 1 | David Rockefeller |
+| 129 | David Sr Rockefeller | 35 | - |  | X |  |  |  | 1 | David Rockefeller |
+| 130 | William Bingham | 35 | - |  | X |  |  |  | 1 | Bingham |
+| 131 | Abigail Wexner | 34 | 15 | X |  |  |  |  | 1 | Abigail Wexner |
+| 132 | Alexandria Ocasio Cortez | 34 | 15 | X |  |  |  |  | 1 | Alexandria Ocasio Cortez |
+| 133 | Daniel Parker | 34 | 15 | X |  |  |  |  | 1 | Daniel Parker |
+| 134 | Halifax | 34 | 15 |  | X |  |  |  | 1 | Halifax |
+| 135 | Michael Fribourg | 34 | - |  | X |  |  |  | 1 | Fribourg |
+| 136 | Arthur Mensch | 0* | 15 |  |  | X² |  |  | 2 | *"Arthur Mensch"=0; "Mensch"=33 |
+| 137 | Doria-Pamphili-Landi | 0* | - |  |  |  |  | X | 1 | *Nome hifenizado=0; "Doria" isolado=12 |
+| 138 | Lee Plourde | 33 | 15 | X |  |  |  |  | 1 | Lee Plourde |
+| 139 | the William Sloane Coffin | 33 | - |  | X |  |  |  | 1 | the Coffin |
+| 140 | Bruce Springsteen | 32 | 13 | X |  |  |  |  | 1 | Bruce Springsteen |
+| 141 | Mikhail Gorbachev | 32 | - |  | X |  |  |  | 1 | Mikhail Gorbachev |
+| 142 | Tucker Carlson | 32 | 15 | X |  |  |  |  | 1 | Tucker Carlson |
+| 143 | Niall Ferguson | 31 | 15 |  |  | X² |  |  | 2 | Niall Ferguson |
+| 144 | Andrew Schoenberg | 31 | - |  | X |  |  |  | 1 | Schoenberg |
+| 145 | Chad Readler | 31 | 12 | X |  |  |  |  | 1 | Chad Readler |
+| 146 | Dom Duarte – of Braganza Pio | 31 | - |  | X |  |  |  | 1 | Duarte |
+| 147 | Edgar Jr Bronfman | 31 | - |  | X |  |  |  | 1 | Edgar Bronfman |
+| 148 | Howard Rubenstein | 31 | 15 | X |  |  |  |  | 1 | Howard Rubenstein |
+| 149 | John Cadman | 31 | - |  | X |  |  |  | 1 | Cadman |
+| 150 | John Ratcliffe | 31 | 15 | X |  |  |  |  | 1 | John Ratcliffe |
+| 151 | Melania Trump | 31 | 15 | X |  |  |  |  | 1 | Melania Trump |
+| 152 | Ron Paul | 31 | 15 | X |  |  |  |  | 1 | Ron Paul |
+| 153 | Spellman | 31 | 15 |  | X |  |  |  | 1 | Spellman |
+| 154 | Carrington | 30 | 14 |  | X |  |  |  | 1 | Carrington |
+| 155 | James H. Baker | 30 | - |  |  | X |  |  | 1 | James Baker |
+| 156 | Mark Yung | 30 | 15 | X |  |  |  |  | 1 | Mark Yung |
+| 157 | Miguel Stilwell de Andrade | 0* | 15 |  |  | X |  |  | 1 | *Nome completo=0; "Andrade"=30 |
+| 158 | Richard Burdon Haldane | 30 | 15 |  | X |  |  |  | 1 | Haldane |
+| 159 | Dan Bongino | 29 | 14 | X |  |  |  |  | 1 | Dan Bongino |
+| 160 | David Miliband | 29 | - |  | X |  |  |  | 1 | David Miliband |
+| 161 | Dominique Strauss-Kahn | 29 | - |  | X |  |  |  | 1 | Dominique Strauss-Kahn |
+| 162 | George Osborne | 29 | - |  | X |  |  |  | 1 | George Osborne |
+| 163 | Ken Jamieson | 29 | - |  | X |  |  |  | 1 | Jamieson |
+| 164 | Mario Draghi | 29 | - |  | X |  |  |  | 1 | Mario Draghi |
+| 165 | Antony Blinken | 28 | 15 | X |  |  |  |  | 1 | Antony Blinken |
+| 166 | Charlene de Carvalho | 28 | 15 |  |  | X |  |  | 1 | Carvalho |
+| 167 | Craig J. Mundie | 28 | 13 |  |  | X |  |  | 1 | Craig Mundie |
+| 168 | Howard Heiss | 28 | 15 | X |  |  |  |  | 1 | Howard Heiss |
+| 169 | Jacob Rothschild | 28 | 15 |  |  |  |  | X | 1 | Jacob Rothschild |
+| 170 | Jacob – 4th Rothschild Rothschild | 28 | - |  | X |  |  |  | 1 | Jacob Rothschild |
+| 171 | Marilyn Monroe | 28 | 15 | X |  |  |  |  | 1 | Marilyn Monroe |
+| 172 | Ranier | 28 | 15 |  | X |  |  |  | 1 | Ranier |
+| 173 | Stephanie Avakian | 28 | 14 | X |  |  |  |  | 1 | Stephanie Avakian |
+| 174 | Walter Isaacson | 28 | - |  | X |  |  |  | 1 | Walter Isaacson |
+| 175 | Alan Greenspan | 27 | - |  | X |  |  |  | 1 | Alan Greenspan |
+| 176 | Borghese | 27 | 9 |  |  |  |  | X | 1 | Borghese |
+| 177 | Michelle Obama | 27 | 15 | X |  |  |  |  | 1 | Michelle Obama |
+| 178 | Robert Menendez | 27 | 15 | X |  |  |  |  | 1 | Robert Menendez |
+| 179 | Russell Capone | 27 | 15 | X |  |  |  |  | 1 | Russell Capone |
+| 180 | Scipione Borghese | 0* | 9 |  |  |  |  | X | 1 | *"Scipione Borghese"=0; "Borghese"=27 |
+| 181 | Edward Friedland | 26 | 15 | X |  |  |  |  | 1 | Edward Friedland |
+| 182 | Mick Mulvaney | 26 | 15 | X |  |  |  |  | 1 | Mick Mulvaney |
+| 183 | Michael O'Leary | 25 | 11 |  |  | X³ |  |  | 3 | O'Leary |
+| 184 | Zbigniew Brzezinski | 25 | 15 |  | X |  | X |  | 2 | Zbigniew Brzezinski |
+| 185 | Chelsea Clinton | 25 | 15 | X |  |  |  |  | 1 | Chelsea Clinton |
+| 186 | James Margolin | 25 | 15 | X |  |  |  |  | 1 | James Margolin |
+| 187 | John Rennie | 25 | - |  | X |  |  |  | 1 | Rennie |
+| 188 | Nicole McFarland | 25 | 15 | X |  |  |  |  | 1 | Nicole McFarland |
+| 189 | Samantha Power | 25 | 15 | X |  |  |  |  | 1 | Samantha Power |
+| 190 | Steny Hoyer | 25 | 13 | X |  |  |  |  | 1 | Steny Hoyer |
+| 191 | Larry Kudlow | 24 | 15 | X |  |  |  |  | 1 | Larry Kudlow |
+| 192 | Nicolas Roos | 24 | 15 | X |  |  |  |  | 1 | Nicolas Roos |
+| 193 | Stephen Feinberg | 24 | 15 | X |  |  |  |  | 1 | Stephen Feinberg |
+| 194 | Stephen Schwarzman | 24 | 15 | X |  |  |  |  | 1 | Stephen Schwarzman |
+| 195 | Strobe Talbott | 24 | 14 |  |  |  | X |  | 1 | Strobe Talbott |
+| 196 | Theresa May | 24 | - | X |  |  |  |  | 1 | Theresa May |
+| 197 | Victor C. W. of Devonshire Cavendish | 24 | - |  | X |  |  |  | 1 | Cavendish |
+| 198 | Christian Sewing | 23 | 6 |  |  | X² |  |  | 2 | Christian Sewing |
+| 199 | David Reuben | 23 | - |  | X |  |  |  | 1 | David Reuben |
+| 200 | Isaac S.D Sassoon | 23 | 15 |  | X |  |  |  | 1 | Sassoon |
+| 201 | Larry Nassar | 23 | 15 | X |  |  |  |  | 1 | Larry Nassar |
+| 202 | Steve Ballmer | 23 | - |  | X |  |  |  | 1 | Steve Ballmer |
+| 203 | Stormont Bancroft | 23 | - |  | X |  |  |  | 1 | Bancroft |
+| 204 | Ajay Agrawal | 22 | 15 |  |  | X |  |  | 1 | Agrawal |
+| 205 | Carl Kline | 22 | 15 | X |  |  |  |  | 1 | Carl Kline |
+| 206 | Howard Lorber | 22 | 15 | X |  |  |  |  | 1 | Howard Lorber |
+| 207 | Jill Biden | 22 | 15 | X |  |  |  |  | 1 | Jill Biden |
+| 208 | John Bruton | 22 | 11 |  | X |  |  |  | 1 | Bruton |
+| 209 | Keir Starmer | 22 | 15 | X |  |  |  |  | 1 | Keir Starmer |
+| 210 | Lakshmi Mittal | 22 | 15 |  | X |  |  |  | 1 | Mittal |
+| 211 | Mervyn King | 22 | 15 |  | X |  |  |  | 1 | Mervyn King |
+| 212 | Xavier Becerra | 22 | 15 | X |  |  |  |  | 1 | Xavier Becerra |
+| 213 | Mario Monti | 21 | 15 |  |  | X² |  |  | 2 | Mario Monti |
+| 214 | Agnès Pannier-Runacher | 21 | - |  |  | X |  |  | 1 | Pannier |
+| 215 | Anne-Marie Slaughter | 21 | 15 |  |  |  | X |  | 1 | Anne-Marie Slaughter |
+| 216 | Jeffrey Rosen | 21 | 15 | X |  |  |  |  | 1 | Jeffrey Rosen |
+| 217 | John Maynard Keynes | 21 | - |  | X |  |  |  | 1 | John Maynard Keynes |
+| 218 | Jon Kyl | 21 | - | X |  |  |  |  | 1 | Jon Kyl |
+| 219 | Robert Rubin | 21 | - |  | X |  |  |  | 1 | Robert Rubin |
+| 220 | Roman Arkadyevich Abramovich | 21 | - |  | X |  |  |  | 1 | Roman Abramovich |
+| 221 | Victoria Hervey | 21 | 15 | X |  |  |  |  | 1 | Victoria Hervey |
+| 222 | Eric Swalwell | 20 | 15 | X |  |  |  |  | 1 | Eric Swalwell |
+| 223 | Francis Fukuyama | 20 | 15 |  |  |  | X |  | 1 | Francis Fukuyama |
+| 224 | George Economou | 20 | 14 | X |  |  |  |  | 1 | George Economou |
+| 225 | Jamie Raskin | 20 | 15 | X |  |  |  |  | 1 | Jamie Raskin |
+| 226 | Jerry Nadler | 20 | 15 | X |  |  |  |  | 1 | Jerry Nadler |
+| 227 | Margaret Chan | 20 | - |  | X |  |  |  | 1 | Margaret Chan |
+| 228 | Mike Huckabee | 20 | 15 | X |  |  |  |  | 1 | Mike Huckabee |
+| 229 | Silvio Berlusconi | 20 | - |  | X |  |  |  | 1 | Silvio Berlusconi |
+| 230 | Tim Scott | 20 | 15 | X |  |  |  |  | 1 | Tim Scott |
+| 231 | Todd Bistricer | 20 | 15 | X |  |  |  |  | 1 | Bistricer |
+| 232 | Jens Stoltenberg | 19 | 14 | X |  | X³ |  |  | 4 | Jens Stoltenberg |
+| 233 | Demis Hassabis | 19 | 13 |  |  | X³ |  |  | 3 | Demis Hassabis |
+| 234 | David Bistricer | 19 | 15 | X |  |  |  |  | 1 | David Bistricer |
+| 235 | Joe Lieberman | 19 | - |  | X |  |  |  | 1 | Joe Lieberman |
+| 236 | Kenneth Rogoff | 19 | 15 |  |  |  | X |  | 1 | Kenneth Rogoff |
+| 237 | Kenneth Saul "Ken" Rogoff | 19 | - |  | X |  |  |  | 1 | Kenneth Rogoff |
+| 238 | Mark Carney | 19 | 15 |  |  | X |  |  | 1 | Mark Carney |
+| 239 | Mark J Carney | 19 | - |  | X |  |  |  | 1 | Mark Carney |
+| 240 | Nikki Haley | 19 | 15 | X |  |  |  |  | 1 | Nikki Haley |
+| 241 | William Heseltine | 19 | - |  | X |  |  |  | 1 | Heseltine |
+| 242 | Beatrix | 18 | 9 |  | X |  |  |  | 1 | Beatrix |
+| 243 | Colonna | 18 | 15 |  |  |  |  | X | 1 | Colonna |
+| 244 | Marc Bistricer | 18 | 15 | X |  |  |  |  | 1 | Marc Bistricer |
+| 245 | Marcantonio Colonna | 0* | 15 |  |  |  |  | X | 1 | *"Marcantonio Colonna"=0; "Colonna"=18 |
+| 246 | Marcantonio di Paliano Colonna | 0* | - |  | X |  |  |  | 1 | *Nome completo=0; "Colonna"=18 |
+| 247 | Patrick Byrne | 18 | 15 | X |  |  |  |  | 1 | Patrick Byrne |
+| 248 | Rebekah Donaleski | 18 | 15 | X |  |  |  |  | 1 | Rebekah Donaleski |
+| 249 | Ric Bradshaw | 18 | 15 | X |  |  |  |  | 1 | Ric Bradshaw |
+| 250 | Gideon Rachman | 17 | 15 |  |  | X³ |  |  | 3 | Gideon Rachman |
+| 251 | Paschal Donohoe | 17 | 15 |  |  | X³ |  |  | 3 | Donohoe |
+| 252 | Clément Beaune | 17 | 14 |  |  | X |  |  | 1 | Beaune |
+| 253 | Graham Allison | 17 | 15 |  |  |  | X |  | 1 | Graham Allison |
+| 254 | JD Vance | 17 | 15 | X |  |  |  |  | 1 | JD Vance |
+| 255 | John Loudon | 17 | - |  | X |  |  |  | 1 | Loudon |
+| 256 | Morris Oldfield | 17 | - |  | X |  |  |  | 1 | Morris Oldfield |
+| 257 | Palmer Luckey | 17 | 12 |  |  | X |  |  | 1 | Luckey |
+| 258 | Robert Kagan | 17 | 15 |  |  |  | X |  | 1 | Robert Kagan |
+| 259 | Avril D. Haines | 16 | 15 |  |  | X |  |  | 1 | Avril Haines |
+| 260 | Bertrand Russell | 16 | - |  | X |  |  |  | 1 | Bertrand Russell |
+| 261 | Domenico Orsini | 0* | 15 |  |  |  |  | X | 1 | *"Domenico Orsini"=0; "Orsini"=16 |
+| 262 | Florence Hutner | 16 | 14 | X |  |  |  |  | 1 | Florence Hutner |
+| 263 | Franco Bonacassi Orsini | 0* | - |  | X |  |  |  | 1 | *Nome completo=0; "Orsini"=16 |
+| 264 | Giancarlo Orsini | 0* | 15 |  |  |  |  | X | 1 | *"Giancarlo Orsini"=0; "Orsini"=16 |
+| 265 | Hakeem Jeffries | 16 | 15 | X |  |  |  |  | 1 | Hakeem Jeffries |
+| 266 | Joseph Pecorino | 16 | 15 | X |  |  |  |  | 1 | Joseph Pecorino |
+| 267 | Martin H. Wolf | 16 | - |  |  | X |  |  | 1 | Martin Wolf |
+| 268 | Orsini | 16 | 15 |  |  |  |  | X | 1 | Orsini |
+| 269 | R. James Jr Woolsey | 16 | - |  | X |  |  |  | 1 | Woolsey |
+| 270 | Robert May | 16 | - | X |  |  |  |  | 1 | Robert May |
+| 271 | William K d'Arcy | 16 | - |  | X |  |  |  | 1 | d'Arcy |
+| 272 | Winfried Franz Wilhen "Win" Bischoff | 16 | - |  | X |  |  |  | 1 | Bischoff |
+| 273 | Richard Holbrooke | 15 | 15 |  | X |  | X |  | 2 | Richard Holbrooke |
+| 274 | Stanley Fischer | 15 | 15 |  | X |  | X |  | 2 | Stanley Fischer |
+| 275 | Auckland Geddes | 15 | - |  | X |  |  |  | 1 | Geddes |
+| 276 | Bret Stephens | 15 | 15 |  |  | X |  |  | 1 | Bret Stephens |
+| 277 | Dennis Healey | 15 | - |  | X |  |  |  | 1 | Healey |
+| 278 | Ed Miliband | 15 | - |  | X |  |  |  | 1 | Ed Miliband |
+| 279 | Oleg Deripaska | 15 | - |  | X |  |  |  | 1 | Oleg Deripaska |
+| 280 | Peter Lee | 15 | - |  |  | X |  |  | 1 | Peter Lee |
+| 281 | Philip (Prince) – of Edinburgh | 15 | - |  | X |  |  |  | 1 | Prince Philip |
+| 282 | Phillip Frost | 15 | 15 | X |  |  |  |  | 1 | Phillip Frost |
+| 283 | Prince, of Edinburgh Philip | 15 | - |  | X |  |  |  | 1 | Prince Philip |
+| 284 | Reay Geddes | 15 | - |  | X |  |  |  | 1 | Geddes |
+| 285 | Ro Khanna | 15 | 15 | X |  |  |  |  | 1 | Ro Khanna |
+| 286 | Rosie O'Donnell | 15 | 15 | X |  |  |  |  | 1 | Rosie O'Donnell |
+| 287 | Alex Jones | 14 | 15 | X |  |  |  |  | 1 | Alex Jones |
+| 288 | Andrew Crockett | 14 | - |  | X |  |  |  | 1 | Crockett |
+| 289 | John D Gilmer | 14 | - |  | X |  |  |  | 1 | Gilmer |
+| 290 | Lisa Monaco | 14 | 15 | X |  |  |  |  | 1 | Lisa Monaco |
+| 291 | Nick Clegg | 14 | - |  | X |  |  |  | 1 | Nick Clegg |
+| 292 | Patrick Honohan | 14 | - |  | X |  |  |  | 1 | Patrick Honohan |
+| 293 | Todd Blanche | 14 | 15 | X |  |  |  |  | 1 | Todd Blanche |
+| 294 | Tony Higgins | 14 | 15 | X |  |  |  |  | 1 | Tony Higgins |
+| 295 | Angus Ogilvie | 13 | - |  | X |  |  |  | 1 | Ogilvie |
+| 296 | Ettore Gotti Tedeschi | 13 | - |  | X |  |  |  | 1 | Tedeschi |
+| 297 | Jay Sekulow | 13 | 13 | X |  |  |  |  | 1 | Jay Sekulow |
+| 298 | John D. Rockefeller | 13 | 15 |  |  |  | X |  | 1 | John D. Rockefeller |
+| 299 | Loretta Lynch | 13 | 15 | X |  |  |  |  | 1 | Loretta Lynch |
+| 300 | Steve Mnuchin | 13 | 15 | X |  |  |  |  | 1 | Steve Mnuchin |
+| 301 | Timothy Garton Ash | 13 | - |  | X |  |  |  | 1 | Timothy Garton Ash |
+| 302 | Valentino Valentini | 13 | 1 |  |  | X |  |  | 1 | Valentini |
+| 303 | Timothy Geithner | 12 | 14 | X | X |  |  |  | 2 | Timothy Geithner |
+| 304 | Andrew Rohrbach | 12 | 15 | X |  |  |  |  | 1 | Andrew Rohrbach |
+| 305 | Brian Deese | 12 | 15 |  |  | X |  |  | 1 | Brian Deese |
+| 306 | Carol Thomas-Jacobs | 12 | 12 | X |  |  |  |  | 1 | Carol Thomas-Jacobs |
+| 307 | David Bowdich | 12 | 14 | X |  |  |  |  | 1 | David Bowdich |
+| 308 | Ed Markey | 12 | 15 | X |  |  |  |  | 1 | Ed Markey |
+| 309 | Jack Lew | 12 | - | X |  |  |  |  | 1 | Jack Lew |
+| 310 | Janis Joplin | 12 | 15 | X |  |  |  |  | 1 | Janis Joplin |
+| 311 | Jean Monnet | 12 | - |  | X |  |  |  | 1 | Jean Monnet |
+| 312 | Kathleen Dupont | 12 | 15 | X |  |  |  |  | 1 | Kathleen Dupont |
+| 313 | Keith Ellison | 12 | 15 | X |  |  |  |  | 1 | Keith Ellison |
+| 314 | Matthew Rogers | 12 | 15 | X |  |  |  |  | 1 | Matthew Rogers |
+| 315 | Paul M. Achleitner | 12 | 15 |  |  | X |  |  | 1 | Paul Achleitner |
+| 316 | Peter A Sands | 12 | - |  | X |  |  |  | 1 | Peter Sands |
+| 317 | Wendy R. Sherman | 12 | 15 |  |  | X |  |  | 1 | Wendy Sherman |
+| 318 | Wesley Kanne Sr. Clark | 12 | - |  | X |  |  |  | 1 | Wesley Clark |
+| 319 | Mark Rutte | 11 | 15 |  |  | X³ |  |  | 3 | Mark Rutte |
+| 320 | Amy Schumer | 11 | 15 | X |  |  |  |  | 1 | Amy Schumer |
+| 321 | Carl Bildt | 11 | - |  | X |  |  |  | 1 | Carl Bildt |
+| 322 | Dean Acheson | 11 | - |  | X |  |  |  | 1 | Dean Acheson |
+| 323 | Diana Ross | 11 | 15 | X |  |  |  |  | 1 | Diana Ross |
+| 324 | Harold Anthony Caccia | 11 | - |  | X |  |  |  | 1 | Caccia |
+| 325 | Jack Straw | 11 | - |  | X |  |  |  | 1 | Jack Straw |
+| 326 | James Moore | 11 | 15 |  |  |  | X |  | 1 | James Moore |
+| 327 | John Elkann | 11 | - |  | X |  |  |  | 1 | John Elkann |
+| 328 | Lisa Marie Presley | 11 | 15 | X |  |  |  |  | 1 | Lisa Marie Presley |
+| 329 | Sophia Papapetru | 11 | 14 | X |  |  |  |  | 1 | Sophia Papapetru |
+| 330 | Thomas Massie | 11 | 15 | X |  |  |  |  | 1 | Thomas Massie |
+| 331 | Yitzhak Shamir | 11 | 15 | X |  |  |  |  | 1 | Yitzhak Shamir |
+| 332 | Stacey Abrams | 10 | 15 |  |  | X³ |  |  | 3 | Stacey Abrams |
+| 333 | Øyvind Eriksen | 10 | 15 |  |  | X³ |  |  | 3 | Eriksen |
+| 334 | Charles B. Rangel | 10 | 15 |  |  |  | X |  | 1 | Charles B. Rangel |
+| 335 | Eric S. Lander | 10 | 15 |  |  | X |  |  | 1 | Eric S. Lander |
+| 336 | George Conway | 10 | 15 | X |  |  |  |  | 1 | George Conway |
+| 337 | Hans Heinrich Thyssen-Bornemisza | 10 | - |  | X |  |  |  | 1 | Thyssen |
+| 338 | Jeff Zucker | 10 | 15 | X |  |  |  |  | 1 | Jeff Zucker |
+| 339 | John Kasich | 10 | 13 | X |  |  |  |  | 1 | John Kasich |
+| 340 | Klaus Schwab | 10 | - |  | X |  |  |  | 1 | Klaus Schwab |
+| 341 | Marius Fortelni | 10 | 11 | X |  |  |  |  | 1 | Marius Fortelni |
+| 342 | Omar Daza | 10 | 15 | X |  |  |  |  | 1 | Omar Daza |
+| 343 | Paul A. Volcker | 10 | 15 |  |  |  | X |  | 1 | Paul A. Volcker |
+| 344 | Pramila Jayapal | 10 | 12 | X |  |  |  |  | 1 | Pramila Jayapal |
+| 345 | Robert Bruce Zoellick | 10 | - |  | X |  |  |  | 1 | Robert Zoellick |
+| 346 | Vittorio – Crown of Italy Emanuele | 10 | - |  | X |  |  |  | 1 | Vittorio |
 
-### 8.3 Nomes com Hits 1–9 (480 nomes)
+### 8.3 Nomes com Hits 1–9 (532 nomes)
 
-Formato compacto. Legenda de listas: **D**=DOJ, **C**=C300, **B**=Bilderberg, **T**=Trilateral, **P**=Papal.
+| # | Nome | ES Hits | Listas | Termo |
+|---|------|---------|--------|-------|
+| 1 | Henry R. Kravis | 9 | BIL | Henry R. Kravis |
+| 2 | Alexander Rossmiller | 9 | DOJ | Alexander Rossmiller |
+| 3 | Anne – Royal | 9 | C300 | Princess Anne |
+| 4 | Carlos – of Parma | 9 | C300 | King Juan Carlos |
+| 5 | Chaim Weizman | 9 | C300 | Weizman |
+| 6 | Dambisa Moyo | 9 | BIL | Dambisa Moyo |
+| 7 | Didier Reynders | 9 | BIL | Didier Reynders |
+| 8 | Evelyn Robert De Rothschild | 9 | C300 | Evelyn de Rothschild |
+| 9 | Evelyn de Rothschild | 9 | PAP | Evelyn de Rothschild |
+| 10 | Juan – of Spain Carlos | 9 | C300 | King Juan Carlos |
+| 11 | Lazard Freres | 9 | C300 | Lazard Freres |
+| 12 | Linda Collins | 9 | DOJ | Linda Collins |
+| 13 | Lorenzo H. Zambrano | 9 | TC | Zambrano |
+| 14 | Neal S Wolin | 9 | C300 | Neal Wolin |
+| 15 | Robert F. Kennedy Jr | 9 | DOJ | Robert F. Kennedy Jr |
+| 16 | Sofia (Queen) of Spain | 9 | C300 | King Juan Carlos |
+| 17 | Stephen Green | 9 | C300 | Stephen Green |
+| 18 | Timothy C. Collins | 9 | TC | Timothy C. Collins |
+| 19 | William Sweeney Jr | 9 | DOJ | William Sweeney Jr |
+| 20 | Henry A. Kissinger | 8 | BIL, TC | Henry A. Kissinger |
+| 21 | Alastair Buchan | 8 | C300 | Buchan |
+| 22 | Barbara Streisand | 8 | DOJ | Barbara Streisand |
+| 23 | Dan Quayle | 8 | DOJ | Dan Quayle |
+| 24 | Debbie Stabenow | 8 | DOJ | Debbie Stabenow |
+| 25 | Evelyn Baring Cromer | 8 | C300 | Cromer |
+| 26 | Janet Napolitano | 8 | DOJ | Janet Napolitano |
+| 27 | John Barran | 8 | C300 | Barran |
+| 28 | Meghan Markle | 8 | DOJ | Meghan Markle |
+| 29 | Paolo Zampolli | 8 | DOJ | Paolo Zampolli |
+| 30 | Richard N. Haass | 8 | TC | Richard N. Haass |
+| 31 | Stephen E. Boyd | 8 | DOJ | Stephen E. Boyd |
+| 32 | Timothy Shea | 8 | DOJ | Timothy Shea |
+| 33 | John Micklethwait | 7 | BIL | John Micklethwait |
+| 34 | Satya Nadella | 7 | BIL | Satya Nadella |
+| 35 | Eric Crowther | 7 | C300 | Crowther |
+| 36 | Garry Kasparov | 7 | BIL | Garry Kasparov |
+| 37 | Geoffrey van Leeuwen | 7 | BIL | Leeuwen |
+| 38 | George Schultz | 7 | C300 | George Schultz |
+| 39 | Janet Reno | 7 | DOJ | Janet Reno |
+| 40 | John Walsh | 7 | C300 | John Walsh |
+| 41 | Josep Borrell | 7 | BIL | Josep Borrell |
+| 42 | Joseph Califano | 7 | C300 | Califano |
+| 43 | Kurt Campbell | 7 | TC | Kurt Campbell |
+| 44 | Lauren Book | 7 | DOJ | Lauren Book |
+| 45 | Mark Hosenball | 7 | DOJ | Mark Hosenball |
+| 46 | Meghan O'Sullivan | 7 | TC | Meghan O'Sullivan |
+| 47 | Savoia | 7 | PAP | Savoia |
+| 48 | Thomas Watson | 7 | C300 | Watson IBM |
+| 49 | William C Bullitt | 7 | C300 | Bullitt |
+| 50 | Albert Bourla | 6 | BIL | Albert Bourla |
+| 51 | Marcus Wallenberg | 6 | BIL | Marcus Wallenberg |
+| 52 | Mellody Hobson | 6 | BIL | Mellody Hobson |
+| 53 | Wopke Hoekstra | 6 | BIL | Hoekstra |
+| 54 | Anders Fogh Rasmussen | 6 | C300 | Anders Fogh Rasmussen |
+| 55 | Ashley Biden | 6 | DOJ | Ashley Biden |
+| 56 | Charlene Barshefsky | 6 | TC | Charlene Barshefsky |
+| 57 | Earl Warren | 6 | C300 | Earl Warren |
+| 58 | Francois Mitterrand | 6 | C300 | Francois Mitterrand |
+| 59 | Hank Johnson | 6 | DOJ | Hank Johnson |
+| 60 | Hassanal Bolkiah | 6 | C300 | Sultan of Brunei |
+| 61 | Hassanal Bolkiah Mu'izzaddin Waddaulah | 6 | C300 | Sultan of Brunei |
+| 62 | Inchcape | 6 | C300 | Inchcape |
+| 63 | Jeremy Hunt | 6 | BIL | Jeremy Hunt |
+| 64 | John Chipman | 6 | C300 | John Chipman |
+| 65 | John J. Hamre | 6 | TC | John J. Hamre |
+| 66 | Joseph S. Nye | 6 | TC | Joseph S. Nye |
+| 67 | Lael Brainard | 6 | TC | Lael Brainard |
+| 68 | Lara Pomerantz | 6 | DOJ | Lara Pomerantz |
+| 69 | Mark Thompson | 6 | C300 | Mark Thompson |
+| 70 | Mary Robinson | 6 | C300 | Mary Robinson |
+| 71 | Michael Klein | 6 | TC | Michael Klein |
+| 72 | Robert D. Blackwill | 6 | TC | Robert D. Blackwill |
+| 73 | Robert John Sawers | 6 | C300 | Sawers |
+| 74 | Robert O Anderson | 6 | C300 | Robert Anderson |
+| 75 | Sam Altman | 6 | BIL | Sam Altman |
+| 76 | Sebag or Bishop Hugh Montefiore | 6 | C300 | Sebag Montefiore |
+| 77 | Stephen Calk | 6 | DOJ | Stephen Calk |
+| 78 | Sylvia Mathews Burwell | 6 | TC | Sylvia Mathews Burwell |
+| 79 | Ted Lieu | 6 | DOJ | Ted Lieu |
+| 80 | Ted Turner | 6 | C300 | Ted Turner |
+| 81 | Tom Reynolds | 6 | DOJ | Tom Reynolds |
+| 82 | Vincent Babino | 6 | DOJ | Vincent Babino |
+| 83 | William A. Haseltine | 6 | TC | William A. Haseltine |
+| 84 | of Abergavenny | 6 | C300 | Abergavenny |
+| 85 | C. Fred Bergsten | 5 | C300, TC | C. Fred Bergsten |
+| 86 | Robert Lighthizer | 5 | BIL | Robert Lighthizer |
+| 87 | Tarun Chhabra | 5 | BIL | Chhabra |
+| 88 | Victor Halberstadt | 5 | BIL | Victor Halberstadt |
+| 89 | Andrew Bertie | 5 | C300 | Bertie |
+| 90 | Andrew Mountbatten-Windsor | 5 | DOJ | Andrew Mountbatten-Windsor |
+| 91 | Anthony Lake | 5 | C300 | Anthony Lake |
+| 92 | Antoine Gosset-Grainville | 5 | BIL | Gosset |
+| 93 | Bill Graham | 5 | TC | Bill Graham |
+| 94 | Caroline de Gruyter | 5 | BIL | Gruyter |
+| 95 | Dario Amodei | 5 | BIL | Dario Amodei |
+| 96 | David Davis | 5 | C300 | David Davis |
+| 97 | Dennis Blair | 5 | TC | Dennis Blair |
+| 98 | Ed Balls | 5 | C300 | Ed Balls |
+| 99 | Farnese | 5 | PAP | Farnese |
+| 100 | François Fillon | 5 | C300 | François Fillon |
+| 101 | Glenn Straub | 5 | DOJ | Glenn Straub |
+| 102 | Herman Van Rompuy | 5 | C300 | Herman Van Rompuy |
+| 103 | Horatio Kitchener | 5 | C300 | Kitchener |
+| 104 | Jason Smith | 5 | BIL | Jason Smith |
+| 105 | Jeremy Fleming | 5 | BIL | Jeremy Fleming |
+| 106 | Joseph Deiss | 5 | C300 | Joseph Deiss |
+| 107 | Katherina Reiche | 5 | BIL | Reiche |
+| 108 | Kyriakos Mitsotakis | 5 | BIL | Kyriakos Mitsotakis |
+| 109 | Lloyd George | 5 | C300 | Lloyd George |
+| 110 | Marco Buschmann | 5 | BIL | Buschmann |
+| 111 | Mehmet Oz | 5 | DOJ | Mehmet Oz |
+| 112 | Mette Frederiksen | 5 | BIL | Mette Frederiksen |
+| 113 | Nicholas N. Eberstadt | 5 | BIL | Nicholas Eberstadt |
+| 114 | Nuno Sebastião | 5 | BIL | Sebastião |
+| 115 | Robert M Hutchins | 5 | C300 | Robert Hutchins |
+| 116 | Samuel Paparo | 5 | BIL | Paparo |
+| 117 | Sarah Huckabee | 5 | DOJ | Sarah Huckabee |
+| 118 | Shelburne | 5 | C300 | Shelburne |
+| 119 | Timothy Routch | 5 | DOJ | Timothy Routch |
+| 120 | Tom Carper | 5 | DOJ | Tom Carper |
+| 121 | Walter Lippmann | 5 | C300 | Walter Lippmann |
+| 122 | William Mook | 5 | DOJ | William Mook |
+| 123 | Yoshua Bengio | 5 | BIL | Yoshua Bengio |
+| 124 | Anne Applebaum | 4 | BIL | Anne Applebaum |
+| 125 | Marie-Josée Kravis | 4 | BIL | Marie-Josée Kravis |
+| 126 | Chrystia Freeland | 4 | BIL | Chrystia Freeland |
+| 127 | Sigrid Kaag | 4 | BIL | Sigrid Kaag |
+| 128 | Adrienne Senatore | 4 | DOJ | Adrienne Senatore |
+| 129 | Alain De Gunzberg | 4 | C300 | Gunzberg |
+| 130 | Aldous Huxley | 4 | C300 | Aldous Huxley |
+| 131 | Alistair Darling | 4 | C300 | Alistair Darling |
+| 132 | Alyssa Milano | 4 | DOJ | Alyssa Milano |
+| 133 | Andrew Mellon | 4 | C300 | Andrew Mellon |
+| 134 | Axel Alfred Weber | 4 | C300 | Axel Weber |
+| 135 | Charles Michel | 4 | BIL | Charles Michel |
+| 136 | Chris Patten | 4 | C300 | Chris Patten |
+| 137 | David H. Petraeus | 4 | BIL | David H. Petraeus |
+| 138 | Donald E. Graham | 4 | TC | Donald E. Graham |
+| 139 | Dr. Alexander King | 4 | C300 | Alexander King |
+| 140 | Gaetani | 4 | PAP | Gaetani |
+| 141 | Gunhild Stordalen | 4 | DOJ | Stordalen |
+| 142 | Hans-Adam II – of Liechtenstein | 4 | C300 | Hans-Adam |
+| 143 | Harold Brown | 4 | TC | Harold Brown |
+| 144 | Jamil Anderlini | 4 | BIL | Jamil Anderlini |
+| 145 | Jocelyn Hambro | 4 | C300 | Hambro |
+| 146 | John Waldron | 4 | BIL | John Waldron |
+| 147 | Joseph E. Robert | 4 | TC | Joseph E. Robert |
+| 148 | José Ángel Gurría | 4 | C300 | Gurría |
+| 149 | Kenneth Clarke | 4 | C300 | Kenneth Clarke |
+| 150 | Kristin J. Forbes | 4 | TC | Kristin J. Forbes |
+| 151 | Kurt Cobain | 4 | DOJ | Kurt Cobain |
+| 152 | Lamberto Frescobaldi | 4 | C300 | Frescobaldi |
+| 153 | Mark Foley | 4 | DOJ | Mark Foley |
+| 154 | Mark Leonard | 4 | C300 | Mark Leonard |
+| 155 | Mark Turner | 4 | C300 | Mark Turner |
+| 156 | Martin Stuart "Marty" Feldstein | 4 | C300 | Martin Feldstein |
+| 157 | Maureen Comey | 4 | DOJ | Maureen Comey |
+| 158 | Michael C Bonello | 4 | C300 | Bonello |
+| 159 | Nancy Mace | 4 | DOJ | Nancy Mace |
+| 160 | Petter Stordalen | 4 | DOJ | Petter Stordalen |
+| 161 | Richard H. Phillips | 4 | BIL | Richard Phillips |
+| 162 | Ronald Cohen | 4 | C300 | Ronald Cohen |
+| 163 | Sophie Wilmès | 4 | BIL | Sophie Wilmès |
+| 164 | Susan Pope | 4 | DOJ | Susan Pope |
+| 165 | Tom Steyer | 4 | C300 | Tom Steyer |
+| 166 | Tony Podesta | 4 | DOJ | Tony Podesta |
+| 167 | William Johnston Keswick | 4 | C300 | Keswick |
+| 168 | Willy Brandt | 4 | C300 | Willy Brandt |
+| 169 | Zoe Lofgren | 4 | DOJ | Zoe Lofgren |
+| 170 | José Manuel Barroso | 3 | C300, BIL | José Manuel Barroso |
+| 171 | Henri de Castries | 3 | BIL | Henri de Castries |
+| 172 | Alexander Stubb | 3 | BIL | Alexander Stubb |
+| 173 | François-Philippe Champagne | 3 | BIL | François-Philippe Champagne |
+| 174 | Gerhard Zeiler | 3 | BIL | Zeiler |
+| 175 | Jen Easterly | 3 | BIL | Jen Easterly |
+| 176 | Mustafa Suleyman | 3 | BIL | Suleyman |
+| 177 | Alan Howard | 3 | C300 | Alan Howard |
+| 178 | Alan R. Batkin | 3 | TC | Alan R. Batkin |
+| 179 | Alfred P Sloan | 3 | C300 | Alfred P Sloan |
+| 180 | André Desmarais | 3 | TC | André Desmarais |
+| 181 | Averell Harriman | 3 | C300 | Averell Harriman |
+| 182 | Brian Mulroney | 3 | TC | Brian Mulroney |
+| 183 | Carl A Anderson | 3 | C300 | Carl Anderson |
+| 184 | Charles Wood | 3 | C300 | Charles Wood |
+| 185 | Christian Noyer | 3 | C300 | Christian Noyer |
+| 186 | Dan Goldman | 3 | DOJ | Dan Goldman |
+| 187 | Daniel Yergin | 3 | BIL | Daniel Yergin |
+| 188 | David Lammy | 3 | BIL | David Lammy |
+| 189 | David René James De Rothschild | 3 | C300 | David de Rothschild |
+| 190 | Edward (Prince) – of Kent | 3 | C300 | Duke of Kent |
+| 191 | Edward (The Prince) – Earl of Wessex | 3 | C300 | Duke of Kent |
+| 192 | Fatih Birol | 3 | BIL | Fatih Birol |
+| 193 | Francois Duchene | 3 | C300 | Duchene |
+| 194 | George Bush Jr | 3 | DOJ | George Bush Jr |
+| 195 | George McGhee | 3 | C300 | McGhee |
+| 196 | Gerald Hyde family alternate Villiers | 3 | C300 | Villiers |
+| 197 | H. Lawrence Culp | 3 | TC | H. Lawrence Culp |
+| 198 | Hartley Shawcross | 3 | C300 | Shawcross |
+| 199 | Howard Davies | 3 | C300 | Howard Davies |
+| 200 | Indra K. Nooyi | 3 | TC | Indra K. Nooyi |
+| 201 | JB Pritzker | 3 | DOJ | JB Pritzker |
+| 202 | John J McCloy | 3 | C300 | McCloy |
+| 203 | John Thain | 3 | TC | John Thain |
+| 204 | John W Davis | 3 | C300 | John W. Davis |
+| 205 | Joseph Martin Fischer | 3 | C300 | Joseph Fischer |
+| 206 | Joseph Safra | 3 | C300 | Joseph Safra |
+| 207 | Kadri Gürsel | 3 | BIL | Kadri Gürsel |
+| 208 | Karl Otto Pöhl | 3 | C300 | Karl Otto Pöhl |
+| 209 | Kevin Warsh | 3 | DOJ | Kevin Warsh |
+| 210 | Kjell Inge Rokke | 3 | DOJ | Kjell Inge Rokke |
+| 211 | Louis Mountbatten | 3 | C300 | Louis Mountbatten |
+| 212 | Lynn Davis | 3 | TC | Lynn Davis |
+| 213 | Madeleine K Albright | 3 | TC | Madeleine K Albright |
+| 214 | Michael (Prince) of Kent | 3 | C300 | Duke of Kent |
+| 215 | Michael Egauger | 3 | DOJ | Michael Egauger |
+| 216 | Michael Kratsios | 3 | BIL | Michael Kratsios |
+| 217 | Mikhail Fridman | 3 | C300 | Mikhail Fridman |
+| 218 | Nigel Higgins | 3 | TC | Nigel Higgins |
+| 219 | Nout Wellink | 3 | C300 | Nout Wellink |
+| 220 | Peter G Peterson | 3 | C300 | Peter G Peterson |
+| 221 | Robert S. McNamara | 3 | TC | Robert S. McNamara |
+| 222 | Shashank Joshi | 3 | BIL | Shashank Joshi |
+| 223 | Stefan Nils Magnus Ingves | 3 | C300 | Ingves |
+| 224 | Stephen Harper | 3 | C300 | Stephen Harper |
+| 225 | William Boyce Thompson | 3 | C300 | William Thompson |
+| 226 | William C Dudley | 3 | C300 | William Dudley |
+| 227 | William Henry III Gates | 3 | C300 | William Gates |
+| 228 | of Kent Edward | 3 | C300 | Duke of Kent |
+| 229 | John Sawers | 2 | BIL | John Sawers |
+| 230 | Mathias Döpfner | 2 | BIL | Mathias Döpfner |
+| 231 | Radoslaw Sikorski | 2 | BIL | Radoslaw Sikorski |
+| 232 | Daniel Ek | 2 | BIL | Daniel Ek |
+| 233 | Duarte Moreira | 2 | BIL | Moreira |
+| 234 | Karel Verhoeven | 2 | BIL | Verhoeven |
+| 235 | Maroš Šefčovič | 2 | BIL | Maroš Šefčovič |
+| 236 | Peter Sutherland | 2 | C300, TC | Peter Sutherland |
+| 237 | Thomas Wright | 2 | BIL | Thomas Wright |
+| 238 | Ainijrzej Olechowski | 2 | TC | Ainijrzej Olechowski |
+| 239 | Archduke of Austria Lorenz (Prince) of Belgium | 2 | C300 | King Albert |
+| 240 | Arlen Specter | 2 | C300 | Arlen Specter |
+| 241 | Arnold Kanter | 2 | TC | Arnold Kanter |
+| 242 | Arthur Balfour | 2 | C300 | Arthur Balfour |
+| 243 | Arthur Levitt | 2 | C300 | Arthur Levitt |
+| 244 | Ashley J. Tellis | 2 | BIL | Ashley J. Tellis |
+| 245 | Asquith | 2 | C300 | Asquith |
+| 246 | Aurelio Peccei | 2 | C300 | Peccei |
+| 247 | Balogh | 2 | C300 | Balogh |
+| 248 | Ben Shapiro | 2 | DOJ | Ben Shapiro |
+| 249 | Carla A. Hills | 2 | TC | Carla A. Hills |
+| 250 | Carlos Cuerpo | 2 | BIL | Cuerpo |
+| 251 | Carlos Heredia | 2 | TC | Carlos Heredia |
+| 252 | Caspar Weinberger | 2 | C300 | Caspar Weinberger |
+| 253 | Catherine Bertini | 2 | TC | Catherine Bertini |
+| 254 | Charles B. Heck | 2 | TC | Charles B. Heck |
+| 255 | Clark Clifford | 2 | C300 | Clark Clifford |
+| 256 | Coreen Mao | 2 | DOJ | Coreen Mao |
+| 257 | David Cooksey | 2 | C300 | Cooksey |
+| 258 | David G. Bradley | 2 | TC | David G. Bradley |
+| 259 | David L Boren | 2 | C300 | David Boren |
+| 260 | David M. Rubenstein | 2 | TC | David M. Rubenstein |
+| 261 | David Rothschild | 2 | PAP | David Rothschild |
+| 262 | David – 13th Earl of Airlie Ogilvy | 2 | C300 | Earl of Wessex |
+| 263 | Dionisio Garza Medina | 2 | TC | Dionisio Garza Medina |
+| 264 | Doug Bereuter | 2 | TC | Doug Bereuter |
+| 265 | Douglas Daft | 2 | TC | Douglas Daft |
+| 266 | Douglas Haig | 2 | C300 | Douglas Haig |
+| 267 | Elizabeth Economy | 2 | BIL | Elizabeth Economy |
+| 268 | F. Gerald Corrigan | 2 | TC | F. Gerald Corrigan |
+| 269 | Frits Bolkestein | 2 | C300 | Frits Bolkestein |
+| 270 | G. Richard Thoman | 2 | TC | G. Richard Thoman |
+| 271 | George J. Tenet | 2 | TC | George J. Tenet |
+| 272 | Georges Berthoin | 2 | TC | Georges Berthoin |
+| 273 | Gerald Bull | 2 | DOJ | Gerald Bull |
+| 274 | Gerald L. Curtis | 2 | TC | Gerald L. Curtis |
+| 275 | Giulio Andreotti | 2 | C300 | Giulio Andreotti |
+| 276 | Gretchen Shappert | 2 | DOJ | Gretchen Shappert |
+| 277 | Han Sung-Joo | 2 | TC | Han Sung-Joo |
+| 278 | Harold Beeley | 2 | C300 | Beeley |
+| 279 | Heinz Fischer | 2 | C300 | Heinz Fischer |
+| 280 | Herve De Carmoy | 2 | TC | Herve De Carmoy |
+| 281 | House of Orange Constanti | 2 | C300 | Constanti |
+| 282 | Ignazio Cassis | 2 | BIL | Ignazio Cassis |
+| 283 | James B. Steinberg | 2 | TC | James B. Steinberg |
+| 284 | James Giffen | 2 | C300 | Giffen |
+| 285 | James L. Balsillie | 2 | TC | James L. Balsillie |
+| 286 | James T. Hackett | 2 | TC | James T. Hackett |
+| 287 | Jan Smuts | 2 | C300 | Jan Smuts |
+| 288 | Jeffrey W. Greenberg | 2 | TC | Jeffrey W. Greenberg |
+| 289 | Jeremy Lefroy | 2 | DOJ | Jeremy Lefroy |
+| 290 | Jessica Lonergan | 2 | DOJ | Jessica Lonergan |
+| 291 | Jessica P. Einhorn | 2 | TC | Jessica P. Einhorn |
+| 292 | John Kendall Rowlands | 2 | DOJ | John Kendall Rowlands |
+| 293 | John M. Deutch | 2 | TC | John M. Deutch |
+| 294 | John Parker | 2 | C300 | John Parker |
+| 295 | John Russell | 2 | C300 | John Russell |
+| 296 | John W Bennet | 2 | C300 | John Bennet |
+| 297 | Karen Elliott House | 2 | TC | Karen Elliott House |
+| 298 | Kenneth M. Duberstein | 2 | TC | Kenneth M. Duberstein |
+| 299 | Kwan Cheng, Wang | 2 | C300 | Wang Cheng |
+| 300 | Laura Birger | 2 | DOJ | Laura Birger |
+| 301 | Lee Cullum | 2 | TC | Lee Cullum |
+| 302 | Lee Hsien Loong | 2 | C300 | Lee Hsien Loong |
+| 303 | Lorenzo Bini Smaghi | 2 | BIL | Lorenzo Smaghi |
+| 304 | Louis C. Camilleri | 2 | TC | Louis C. Camilleri |
+| 305 | Madeleine von Holzen | 2 | BIL | Holzen |
+| 306 | Marcus Ambrose Paul Agius | 2 | C300 | Marcus Agius |
+| 307 | Martin S. Feldstein | 2 | TC | Martin S. Feldstein |
+| 308 | Martti Oiva Kalevi Ahtisaari | 2 | C300 | Martti Ahtisaari |
+| 309 | McGeorge Bundy | 2 | C300 | McGeorge Bundy |
+| 310 | Michael B.G. Froman | 2 | TC | Michael B.G. Froman |
+| 311 | Michael J. Critelli | 2 | TC | Michael J. Critelli |
+| 312 | Mikhail Prokhorov | 2 | C300 | Mikhail Prokhorov |
+| 313 | Miriam Adelson | 2 | DOJ | Miriam Adelson |
+| 314 | Norbert Röttgen | 2 | BIL | Norbert Röttgen |
+| 315 | Orin Hatch | 2 | DOJ | Orin Hatch |
+| 316 | Otto Graf Lambsdorf | 2 | TC | Otto Graf Lambsdorf |
+| 317 | Pascal Lamy | 2 | C300 | Pascal Lamy |
+| 318 | Paul Revay | 2 | TC | Paul Revay |
+| 319 | Paul Tucker | 2 | C300 | Paul Tucker |
+| 320 | Peter C. Godsoe | 2 | TC | Peter C. Godsoe |
+| 321 | Peter Vickers Hall | 2 | C300 | Peter Hall |
+| 322 | R Dent | 2 | C300 | R Dent |
+| 323 | R Temple | 2 | C300 | R Temple |
+| 324 | Rawleigh Warner | 2 | C300 | Rawleigh Warner |
+| 325 | Raymond Chrétien | 2 | TC | Raymond Chrétien |
+| 326 | Richard A. Gephardt | 2 | TC | Richard A. Gephardt |
+| 327 | Richard L. Armitage | 2 | TC | Richard L. Armitage |
+| 328 | Richard N. Cooper | 2 | TC | Richard N. Cooper |
+| 329 | Robert Eckert | 2 | TC | Robert Eckert |
+| 330 | Roger C. Altman | 2 | BIL | Roger Altman |
+| 331 | Roger W. Ferguson | 2 | TC | Roger W. Ferguson |
+| 332 | Rothmere | 2 | C300 | Rothmere |
+| 333 | Sean Buckley | 2 | DOJ | Sean Buckley |
+| 334 | Sebnem Kalemli-Özcan | 2 | BIL | Sebnem Kalemli-Özcan |
+| 335 | Shijuro Ogata | 2 | TC | Shijuro Ogata |
+| 336 | Shriti Vadera | 2 | BIL | Shriti Vadera |
+| 337 | Simon Reuben | 2 | C300 | Simon Reuben |
+| 338 | Stanley Ho | 2 | DOJ | Stanley Ho |
+| 339 | Stephen S Roach | 2 | C300 | Stephen Roach |
+| 340 | Stephen W. Bosworth | 2 | TC | Stephen W. Bosworth |
+| 341 | Steven E. Koonin | 2 | TC | Steven E. Koonin |
+| 342 | Tadashi Yamamoto | 2 | TC | Tadashi Yamamoto |
+| 343 | Thomas Buberl | 2 | BIL | Thomas Buberl |
+| 344 | Thomas S. Foley | 2 | TC | Thomas S. Foley |
+| 345 | Tom Tugendhat | 2 | BIL | Tom Tugendhat |
+| 346 | V. F Chang | 2 | C300 | V. Chang |
+| 347 | Victor Urquidi | 2 | C300 | Urquidi |
+| 348 | Wendy K Dobson | 2 | TC | Wendy K Dobson |
+| 349 | William Castell | 2 | C300 | Castell |
+| 350 | William T. Coleman | 2 | TC | William T. Coleman |
+| 351 | William Yandel Elliott | 2 | C300 | William Elliott |
+| 352 | Winston Lord | 2 | TC | Winston Lord |
+| 353 | Yotaro Kobayashi | 2 | TC | Yotaro Kobayashi |
+| 354 | Patricia Barbizet | 1 | BIL, TC | Patricia Barbizet |
+| 355 | Thomas Leysen | 1 | BIL, TC | Thomas Leysen |
+| 356 | Alex Karp | 1 | BIL | Alex Karp |
+| 357 | André Kudelski | 1 | BIL | André Kudelski |
+| 358 | Connie Hedegaard | 1 | BIL | Connie Hedegaard |
+| 359 | Dmytro Kuleba | 1 | BIL | Dmytro Kuleba |
+| 360 | Erkki Liikanen | 1 | BIL | Erkki Liikanen |
+| 361 | Marco Alverà | 1 | BIL | Marco Alverà |
+| 362 | Stephen Kotkin | 1 | BIL | Stephen Kotkin |
+| 363 | Édouard Philippe | 1 | BIL | Édouard Philippe |
+| 364 | Ana P. Botín | 1 | BIL | Ana P. Botín |
+| 365 | Christopher Cavoli | 1 | BIL | Cavoli |
+| 366 | Jane Fraser | 1 | BIL | Jane Fraser |
+| 367 | José Manuel Albares | 1 | BIL | José Manuel Albares |
+| 368 | Magdalena Andersson | 1 | BIL | Magdalena Andersson |
+| 369 | Mehmet Şimşek | 1 | BIL | Şimşek |
+| 370 | Murray Auchincloss | 1 | BIL | Auchincloss |
+| 371 | Nadia Calviño | 1 | BIL | Calviño |
+| 372 | Nadia Schadlow | 1 | BIL | Nadia Schadlow |
+| 373 | Sanna Marin | 1 | BIL | Sanna Marin |
+| 374 | Wojciech Kostrzewa | 1 | BIL | Kostrzewa |
+| 375 | Adewale Adeyemo | 1 | BIL | Adewale Adeyemo |
+| 376 | Alex Soros | 1 | DOJ | Alex Soros |
+| 377 | Allan E. Gotlieb | 1 | TC | Allan E. Gotlieb |
+| 378 | Allan Gotlieb | 1 | C300 | Gotlieb |
+| 379 | Andreesen Horowitz | 1 | DOJ | Andreesen Horowitz |
+| 380 | Ann Linde | 1 | BIL | Ann Linde |
+| 381 | Anna Fontcuberta i Morral | 1 | BIL | Morral |
+| 382 | Anne Heraty | 1 | BIL | Heraty |
+| 383 | Anson Chan | 1 | C300 | Anson Chan |
+| 384 | Antonio Madero | 1 | TC | Antonio Madero |
+| 385 | Arpad Kovacs | 1 | TC | Arpad Kovacs |
+| 386 | Arthur A. DeFehr | 1 | TC | Arthur A. DeFehr |
+| 387 | Arthur Edward Rory Guinness | 1 | DOJ | Arthur Edward Rory Guinness |
+| 388 | Arthur F. Ryan | 1 | TC | Arthur F. Ryan |
+| 389 | Arvind Subramanian | 1 | BIL | Arvind Subramanian |
+| 390 | Barbara Ward Jackson | 1 | C300 | Barbara Ward |
+| 391 | Barberini | 1 | PAP | Barberini |
+| 392 | Beatrice Weder di Mauro | 1 | BIL | Beatrice Weder di Mauro |
+| 393 | Camilla – Duchess of Cornwall | 1 | C300 | Duchess of Cornwall |
+| 394 | Cecil John Rhodes | 1 | C300 | Cecil Rhodes |
+| 395 | Charles A Anderson | 1 | C300 | Charles Anderson |
+| 396 | Charles R. Kaye | 1 | TC | Charles R. Kaye |
+| 397 | Charles Rose | 1 | TC | Charles Rose |
+| 398 | Chigi | 1 | PAP | Chigi |
+| 399 | Conni Jonsson | 1 | BIL | Conni Jonsson |
+| 400 | Coudenhove-Kalergi | 1 | C300 | Coudenhove |
+| 401 | Cynthia Carroll | 1 | C300 | Cynthia Carroll |
+| 402 | Daniel Akerson | 1 | C300 | Akerson |
+| 403 | David Bialkin | 1 | C300 | Bialkin |
+| 404 | David Geoffrey Manning | 1 | C300 | David Manning |
+| 405 | David J. O'Reilly | 1 | TC | David J. O'Reilly |
+| 406 | David Steel | 1 | C300 | David Steel |
+| 407 | Dermot Gleeson | 1 | TC | Dermot Gleeson |
+| 408 | Deryck C. Maughan | 1 | TC | Deryck C. Maughan |
+| 409 | Diego Pestana | 1 | DOJ | Diego Pestana |
+| 410 | Dinakar Singh | 1 | TC | Dinakar Singh |
+| 411 | E. Peter Lougheed | 1 | TC | Lougheed |
+| 412 | Earnest, and successor, Harry Oppenheimer | 1 | C300 | and Earnest |
+| 413 | Edward Grey | 1 | C300 | Edward Grey |
+| 414 | Elisabeth Guigou | 1 | TC | Elisabeth Guigou |
+| 415 | Enrico Letta | 1 | BIL | Enrico Letta |
+| 416 | Enrique Krauze | 1 | TC | Enrique Krauze |
+| 417 | Ernesto Zedillo | 1 | TC | Ernesto Zedillo |
+| 418 | Ernst Israel Japhet | 1 | C300 | Japhet |
+| 419 | Etienne D'Avignon | 1 | C300 | D'Avignon |
+| 420 | Eugene Rostow | 1 | C300 | Eugene Rostow |
+| 421 | Fernando Henrique Cardoso | 1 | C300 | Fernando Henrique Cardoso |
+| 422 | Francesco Barberini | 1 | PAP | Barberini |
+| 423 | Fred Langhammer | 1 | TC | Fred Langhammer |
+| 424 | G Lawrence | 1 | C300 | G Lawrence |
+| 425 | Gary D Cohn | 1 | C300 | Gary D Cohn |
+| 426 | Gerald M. Levin | 1 | TC | Gerald M. Levin |
+| 427 | Giovanni Agnelli | 1 | C300 | Giovanni Agnelli |
+| 428 | Gueseppi Mazzini | 1 | C300 | Mazzini |
+| 429 | H. Blanco Mendoza | 1 | TC | H. Blanco Mendoza |
+| 430 | H. G Wells | 1 | C300 | H. G Wells |
+| 431 | Halford Mackinder | 1 | C300 | Mackinder |
+| 432 | Hans Reisenhuber (returning) | 1 | TC | Hans Reisenhuber (returning) |
+| 433 | Harlan Cleveland | 1 | C300 | Harlan Cleveland |
+| 434 | Harold MacMillan | 1 | C300 | Harold MacMillan |
+| 435 | Hartley Richardson | 1 | TC | Hartley Richardson |
+| 436 | Heather Munroe-Blum | 1 | TC | Heather Munroe-Blum |
+| 437 | Henri Deterding | 1 | C300 | Deterding |
+| 438 | House of Hohenzollern | 1 | C300 | Hohenzollern |
+| 439 | Jack Clark | 1 | BIL | Jack Clark |
+| 440 | Jacob Wallenberg | 1 | BIL | Jacob Wallenberg |
+| 441 | Jaime Caruana | 1 | C300 | Jaime Caruana |
+| 442 | Jaime Serra | 1 | TC | Jaime Serra |
+| 443 | James Kimsey | 1 | TC | James Kimsey |
+| 444 | James Meyer – Sassoon Sassoon | 1 | C300 | James Meyer |
+| 445 | Jardine Matheson | 1 | C300 | Jardine Matheson |
+| 446 | Jared Moskowitz | 1 | DOJ | Jared Moskowitz |
+| 447 | Javier Echevarría Rodríguez | 1 | C300 | Javier Rodríguez |
+| 448 | Jay Mazur | 1 | TC | Jay Mazur |
+| 449 | Jeroen van der Veer | 1 | TC | Jeroen van der Veer |
+| 450 | Jerzy Kozminski | 1 | TC | Jerzy Kozminski |
+| 451 | Jessica Stern | 1 | TC | Jessica Stern |
+| 452 | Jim Leach | 1 | TC | Jim Leach |
+| 453 | Jing Tsu | 1 | BIL | Jing Tsu |
+| 454 | Joe Ralston | 1 | TC | Joe Ralston |
+| 455 | John A. MacNaughton | 1 | TC | John A. MacNaughton |
+| 456 | John Eisenberg | 1 | DOJ | John Eisenberg |
+| 457 | John J. Sweeney | 1 | TC | John J. Sweeney |
+| 458 | John Manley | 1 | TC | John Manley |
+| 459 | John Naisbitt | 1 | C300 | John Naisbitt |
+| 460 | John Phelan | 1 | DOJ | John Phelan |
+| 461 | Josef Ackermann | 1 | C300 | Josef Ackermann |
+| 462 | Joseph Alois Ratzinger | 1 | C300 | Joseph Ratzinger |
+| 463 | Joseph E Stiglitz | 1 | C300 | Joseph E Stiglitz |
+| 464 | Julia Klöckner | 1 | BIL | Julia Klöckner |
+| 465 | Jussi Herlin | 1 | BIL | Herlin |
+| 466 | Kaja Kallas | 1 | BIL | Kallas |
+| 467 | Karl Korsch | 1 | C300 | Korsch |
+| 468 | Kaspar Villiger | 1 | C300 | Villiger |
+| 469 | Kate Crawford | 1 | BIL | Kate Crawford |
+| 470 | Kenneth M Jacobs | 1 | C300 | Kenneth Jacobs |
+| 471 | Leonard Leo | 1 | DOJ | Leonard Leo |
+| 472 | Leopold David De Rothschild | 1 | C300 | Leopold de Rothschild |
+| 473 | Lev Leviev | 1 | C300 | Leviev |
+| 474 | Luis Rubio | 1 | TC | Luis Rubio |
+| 475 | Mack McLarty | 1 | C300 | Mack McLarty |
+| 476 | Malcolm Leslie Rifkind | 1 | C300 | Malcolm Rifkind |
+| 477 | Manfred Bischoff | 1 | TC | Manfred Bischoff |
+| 478 | Marc H. Morial | 1 | TC | Marc H. Morial |
+| 479 | Marjorie Scardino | 1 | C300 | Scardino |
+| 480 | Marjorie Taylor Green | 1 | DOJ | Marjorie Taylor Green |
+| 481 | Mark J. Carney | 1 | BIL | Mark J. Carney |
+| 482 | Martha C. Piper | 1 | TC | Martha C. Piper |
+| 483 | Mary Gay Scanlon | 1 | DOJ | Mary Gay Scanlon |
+| 484 | Maurice Strong | 1 | C300 | Maurice Strong |
+| 485 | Max Kohnstamm | 1 | C300 | Kohnstamm |
+| 486 | Michael J. O'Neil | 1 | TC | Michael J. O'Neil |
+| 487 | Murat Özyeğin | 1 | BIL | Özyeğin |
+| 488 | NEW TRILATERAL MEMBERS ATTENDING FROM EUROPE | 1 | TC | NEW TRILATERAL MEMBERS ATTENDING FROM EUROPE |
+| 489 | Nathan Rothschild | 1 | PAP | Nathan Rothschild |
+| 490 | Niall FitzGerald | 1 | C300 | Niall FitzGerald |
+| 491 | Nicholas of Bethal Nicols | 1 | C300 | Nicols |
+| 492 | Nick Anstee | 1 | C300 | Anstee |
+| 493 | Nicky Oppenheimer | 1 | C300 | Nicky Oppenheimer |
+| 494 | Palmerston | 1 | C300 | Palmerston |
+| 495 | Pamela Rendi-Wagner | 1 | BIL | Pamela Rendi-Wagner |
+| 496 | Patrice Caine | 1 | BIL | Patrice Caine |
+| 497 | Paul Warnke | 1 | C300 | Warnke |
+| 498 | Peter C. Dobell | 1 | TC | Peter C. Dobell |
+| 499 | Phil Donahue | 1 | DOJ | Phil Donahue |
+| 500 | Philip Roy Hampton | 1 | C300 | Philip Hampton |
+| 501 | Pierre Salinger | 1 | DOJ | Pierre Salinger |
+| 502 | Pietro Modiano | 1 | TC | Pietro Modiano |
+| 503 | Rahm Emmanuel | 1 | DOJ | Rahm Emmanuel |
+| 504 | Rebeccah Heinrichs | 1 | BIL | Rebeccah Heinrichs |
+| 505 | Recanati | 1 | C300 | Recanati |
+| 506 | Richard Chartres | 1 | C300 | Richard Chartres |
+| 507 | Richard F. Haskayne | 1 | TC | Richard F. Haskayne |
+| 508 | Richard Lambert | 1 | C300 | Richard Lambert |
+| 509 | Richard N. Perle | 1 | TC | Richard N. Perle |
+| 510 | Richard Plepler | 1 | TC | Richard Plepler |
+| 511 | Richard W. Fisher | 1 | TC | Richard W. Fisher |
+| 512 | Richard Walker | 1 | DOJ | Richard Walker |
+| 513 | Robert Hart | 1 | C300 | Robert Hart |
+| 514 | Robert Lane | 1 | TC | Robert Lane |
+| 515 | Robert Sproull | 1 | C300 | Sproull |
+| 516 | Roy MacLaren | 1 | TC | Roy MacLaren |
+| 517 | Sarah Wu | 1 | C300 | Sarah Wu |
+| 518 | Soli Özel | 1 | BIL | Soli Özel |
+| 519 | Stanley Woodward | 1 | DOJ | Stanley Woodward |
+| 520 | Stephen A Schwarzman | 1 | C300 | Stephen A Schwarzman |
+| 521 | Strathmore | 1 | C300 | Strathmore |
+| 522 | The of Gloucester | 1 | C300 | The Gloucester |
+| 523 | Thomas R. Pickering | 1 | TC | Thomas R. Pickering |
+| 524 | Uri Dadush | 1 | C300 | Uri Dadush |
+| 525 | Wael Sawan | 1 | BIL | Wael Sawan |
+| 526 | Walter Besant | 1 | C300 | Besant |
+| 527 | Willem-Alexander – of Orange | 1 | C300 | Willem-Alexander |
+| 528 | William H. Webster | 1 | TC | William H. Webster |
+| 529 | William Joseph McDonough | 1 | C300 | William McDonough |
+| 530 | William S Paley | 1 | C300 | William Paley |
+| 531 | William Simon | 1 | C300 | William Simon |
+| 532 | Yves Mersch | 1 | C300 | Yves Mersch |
 
-| # | Nome | Hits | Listas | Termo |
-|---|------|------|--------|-------|
-| 1 | Henry R. Kravis | 9 | Bx3 | Henry R. Kravis |
-| 2 | Friedrich Merz | 9 | B/T | Merz |
-| 3 | Alexander Rossmiller | 9 | D | Alexander Rossmiller |
-| 4 | Anne – Royal | 9 | C | Princess Anne |
-| 5 | Carlos – of Parma | 9 | C | King Juan Carlos |
-| 6 | Chaim Weizman | 9 | C | Weizman |
-| 7 | Dambisa Moyo | 9 | B | Dambisa Moyo |
-| 8 | Didier Reynders | 9 | B | Didier Reynders |
-| 9 | Evelyn de Rothschild | 9 | P | Evelyn de Rothschild |
-| 10 | Juan – of Spain Carlos | 9 | C | King Juan Carlos |
-| 11 | Linda Collins | 9 | D | Linda Collins |
-| 12 | Lorenzo H. Zambrano | 9 | T | Zambrano |
-| 13 | Neal S Wolin | 9 | C | Neal Wolin |
-| 14 | Robert F. Kennedy Jr | 9 | D | Robert F. Kennedy Jr |
-| 15 | Sofia (Queen) of Spain | 9 | C | King Juan Carlos |
-| 16 | Stephen Green | 9 | C | Stephen Green |
-| 17 | Timothy C. Collins | 9 | T | Timothy C. Collins |
-| 18 | William Sweeney Jr | 9 | D | William Sweeney Jr |
-| 19 | Henry A. Kissinger | 8 | B/T | Henry A. Kissinger |
-| 20 | Alastair Buchan | 8 | C | Buchan |
-| 21 | Barbara Streisand | 8 | D | Barbara Streisand |
-| 22 | Dan Quayle | 8 | D | Dan Quayle |
-| 23 | Debbie Stabenow | 8 | D | Debbie Stabenow |
-| 24 | Evelyn Baring Cromer | 8 | C | Cromer |
-| 25 | François Fillon | 8 | C | Fillon |
-| 26 | Germann Erben | 8 | D | Erben |
-| 27 | Ilham Kadri | 8 | B | Kadri |
-| 28 | Janet Napolitano | 8 | D | Janet Napolitano |
-| 29 | John Barran | 8 | C | Barran |
-| 30 | Josef Ackermann | 8 | C | Ackermann |
-| 31 | Meghan Markle | 8 | D | Meghan Markle |
-| 32 | Paolo Zampolli | 8 | D | Paolo Zampolli |
-| 33 | Richard N. Haass | 8 | T | Richard N. Haass |
-| 34 | Stephen E. Boyd | 8 | D | Stephen E. Boyd |
-| 35 | Timothy Shea | 8 | D | Timothy Shea |
-| 36 | John Micklethwait | 7 | Bx3 | John Micklethwait |
-| 37 | Satya Nadella | 7 | Bx2 | Satya Nadella |
-| 38 | Eric Crowther | 7 | C | Crowther |
-| 39 | Eugene Rostow | 7 | C | Rostow |
-| 40 | Garry Kasparov | 7 | B | Garry Kasparov |
-| 41 | Geoffrey van Leeuwen | 7 | B | Leeuwen |
-| 42 | Janet Reno | 7 | D | Janet Reno |
-| 43 | Josep Borrell | 7 | B | Josep Borrell |
-| 44 | Joseph Califano | 7 | C | Califano |
-| 45 | Kurt Campbell | 7 | T | Kurt Campbell |
-| 46 | Lauren Book | 7 | D | Lauren Book |
-| 47 | Mark Hosenball | 7 | D | Mark Hosenball |
-| 48 | Meghan O'Sullivan | 7 | T | Meghan O'Sullivan |
-| 49 | Savoia | 7 | P | Savoia |
-| 50 | Thomas Watson | 7 | C | Watson IBM |
-| 51 | Volpi | 7 | C | Volpi |
-| 52 | William C Bullitt | 7 | C | Bullitt |
-| 53 | Albert Bourla | 6 | Bx3 | Albert Bourla |
-| 54 | Marcus Wallenberg | 6 | Bx3 | Marcus Wallenberg |
-| 55 | Mellody Hobson | 6 | Bx2 | Mellody Hobson |
-| 56 | Wopke Hoekstra | 6 | Bx2 | Hoekstra |
-| 57 | Ashley Biden | 6 | D | Ashley Biden |
-| 58 | Charlene Barshefsky | 6 | T | Charlene Barshefsky |
-| 59 | Earl Warren | 6 | C | Earl Warren |
-| 60 | Francois Mitterrand | 6 | C | Francois Mitterrand |
-| 61 | Hank Johnson | 6 | D | Hank Johnson |
-| 62 | Hassanal Bolkiah | 6 | C | Sultan of Brunei |
-| 63 | Hassanal Bolkiah Mu'izzaddin Waddaulah | 6 | C | Sultan of Brunei |
-| 64 | Inchcape | 6 | C | Inchcape |
-| 65 | Jeremy Hunt | 6 | B | Jeremy Hunt |
-| 66 | John J. Hamre | 6 | T | John J. Hamre |
-| 67 | Joseph Deiss | 6 | C | Deiss |
-| 68 | Joseph S. Nye | 6 | T | Joseph S. Nye |
-| 69 | Lael Brainard | 6 | T | Lael Brainard |
-| 70 | Lara Pomerantz | 6 | D | Lara Pomerantz |
-| 71 | Lee Hsien Loong | 6 | C | Loong |
-| 72 | Michael Klein | 6 | T | Michael Klein |
-| 73 | Nout Wellink | 6 | C | Wellink |
-| 74 | Peter Kenen | 6 | C | Kenen |
-| 75 | Robert D. Blackwill | 6 | T | Robert D. Blackwill |
-| 76 | Robert John Sawers | 6 | C | Sawers |
-| 77 | Sam Altman | 6 | B | Sam Altman |
-| 78 | Stephen Calk | 6 | D | Stephen Calk |
-| 79 | Sylvia Mathews Burwell | 6 | T | Sylvia Mathews Burwell |
-| 80 | Ted Lieu | 6 | D | Ted Lieu |
-| 81 | Tom Reynolds | 6 | D | Tom Reynolds |
-| 82 | Vincent Babino | 6 | D | Vincent Babino |
-| 83 | William A. Haseltine | 6 | T | William A. Haseltine |
-| 84 | of Abergavenny | 6 | C | Abergavenny |
-| 85 | C. Fred Bergsten | 5 | C/T | C. Fred Bergsten |
-| 86 | Robert Lighthizer | 5 | Bx2 | Robert Lighthizer |
-| 87 | Tarun Chhabra | 5 | Bx2 | Chhabra |
-| 88 | Victor Halberstadt | 5 | Bx2 | Victor Halberstadt |
-| 89 | Andrew Bertie | 5 | C | Bertie |
-| 90 | Andrew Mountbatten-Windsor | 5 | D | Andrew Mountbatten-Win... |
-| 91 | Anthony Lake | 5 | C | Anthony Lake |
-| 92 | Antoine Gosset-Grainville | 5 | B | Gosset-Grainville |
-| 93 | Bill Graham | 5 | T | Bill Graham |
-| 94 | Caroline de Gruyter | 5 | B | Gruyter |
-| 95 | Dario Amodei | 5 | B | Dario Amodei |
-| 96 | David Davis | 5 | C | David Davis |
-| 97 | Dennis Blair | 5 | T | Dennis Blair |
-| 98 | Ed Balls | 5 | C | Ed Balls |
-| 99 | Farnese | 5 | P | Farnese |
-| 100 | Glenn Straub | 5 | D | Glenn Straub |
-| 101 | Horatio Kitchener | 5 | C | Kitchener |
-| 102 | Jason Smith | 5 | B | Jason Smith |
-| 103 | Jeremy Fleming | 5 | B | Jeremy Fleming |
-| 104 | John Naisbitt | 5 | C | Naisbitt |
-| 105 | Katherina Reiche | 5 | B | Reiche |
-| 106 | Kyriakos Mitsotakis | 5 | B | Kyriakos Mitsotakis |
-| 107 | Lloyd George | 5 | C | Lloyd George |
-| 108 | Marco Buschmann | 5 | B | Buschmann |
-| 109 | Martti Oiva Kalevi Ahtisaari | 5 | C | Ahtisaari |
-| 110 | Mehmet Oz | 5 | D | Mehmet Oz |
-| 111 | Mette Frederiksen | 5 | B | Mette Frederiksen |
-| 112 | Nicholas N. Eberstadt | 5 | B | Eberstadt |
-| 113 | Nuno Sebastião | 5 | B | Sebastião |
-| 114 | Samuel Paparo | 5 | B | Paparo |
-| 115 | Sarah Huckabee | 5 | D | Sarah Huckabee |
-| 116 | Shelburne | 5 | C | Shelburne |
-| 117 | Timothy Routch | 5 | D | Timothy Routch |
-| 118 | Tom Carper | 5 | D | Tom Carper |
-| 119 | Walter Lippmann | 5 | C | Walter Lippmann |
-| 120 | William Mook | 5 | D | William Mook |
-| 121 | Yoshua Bengio | 5 | B | Yoshua Bengio |
-| 122 | Anne Applebaum | 4 | Bx3 | Anne Applebaum |
-| 123 | Marie-Josée Kravis | 4 | Bx3 | Marie-Josée Kravis |
-| 124 | Chrystia Freeland | 4 | Bx2 | Chrystia Freeland |
-| 125 | Sigrid Kaag | 4 | Bx2 | Sigrid Kaag |
-| 126 | Adrienne Senatore | 4 | D | Adrienne Senatore |
-| 127 | Aldous Huxley | 4 | C | Aldous Huxley |
-| 128 | Alyssa Milano | 4 | D | Alyssa Milano |
-| 129 | Axel Alfred Weber | 4 | C | Axel Weber |
-| 130 | Charles Michel | 4 | B | Charles Michel |
-| 131 | David H. Petraeus | 4 | B | David H. Petraeus |
-| 132 | Donald E. Graham | 4 | T | Donald E. Graham |
-| 133 | Dr. Alexander King | 4 | C | Alexander King |
-| 134 | Edward Bulwer-Lytton | 4 | C | Bulwer-Lytton |
-| 135 | Gaetani | 4 | P | Gaetani |
-| 136 | Gunhild Stordalen | 4 | D | Stordalen |
-| 137 | Harold Brown | 4 | T | Harold Brown |
-| 138 | Jamil Anderlini | 4 | B | Jamil Anderlini |
-| 139 | Jocelyn Hambro | 4 | C | Hambro |
-| 140 | John Waldron | 4 | B | John Waldron |
-| 141 | Joseph E. Robert | 4 | T | Joseph E. Robert |
-| 142 | José Ángel Gurría | 4 | C | Gurría |
-| 143 | Kenneth Clarke | 4 | C | Kenneth Clarke |
-| 144 | Kristin J. Forbes | 4 | T | Kristin J. Forbes |
-| 145 | Kurt Cobain | 4 | D | Kurt Cobain |
-| 146 | Lamberto Frescobaldi | 4 | C | Frescobaldi |
-| 147 | Mack McLarty | 4 | C | McLarty |
-| 148 | Mark Foley | 4 | D | Mark Foley |
-| 149 | Maureen Comey | 4 | D | Maureen Comey |
-| 150 | Michael C Bonello | 4 | C | Bonello |
-| 151 | Nancy Mace | 4 | D | Nancy Mace |
-| 152 | Olympia Snowe | 4 | C | Snowe |
-| 153 | Petter Stordalen | 4 | D | Petter Stordalen |
-| 154 | Ronald Cohen | 4 | C | Ronald Cohen |
-| 155 | Sophie Wilmès | 4 | B | Sophie Wilmès |
-| 156 | Susan Pope | 4 | D | Susan Pope |
-| 157 | Tom Steyer | 4 | C | Tom Steyer |
-| 158 | Tony Podesta | 4 | D | Tony Podesta |
-| 159 | William Johnston Keswick | 4 | C | Keswick |
-| 160 | William Johnston, or Keswick, H.N.L Keswick | 4 | C | Keswick |
-| 161 | Willy Brandt | 4 | C | Willy Brandt |
-| 162 | Zoe Lofgren | 4 | D | Zoe Lofgren |
-| 163 | José Manuel Barroso | 3 | C/Bx3 | José Manuel Barroso |
-| 164 | Henri de Castries | 3 | Bx3 | Henri de Castries |
-| 165 | Alexander Stubb | 3 | Bx2 | Alexander Stubb |
-| 166 | François-Philippe Champagne | 3 | Bx2 | François-Philippe Cham... |
-| 167 | Gerhard Zeiler | 3 | Bx2 | Zeiler |
-| 168 | Jen Easterly | 3 | Bx2 | Jen Easterly |
-| 169 | Mustafa Suleyman | 3 | Bx2 | Suleyman |
-| 170 | Alan Howard | 3 | C | Alan Howard |
-| 171 | Alan R. Batkin | 3 | T | Alan R. Batkin |
-| 172 | André Desmarais | 3 | T | André Desmarais |
-| 173 | Brian Mulroney | 3 | T | Brian Mulroney |
-| 174 | Carl A Anderson | 3 | C | Carl Anderson |
-| 175 | Charles Wood | 3 | C | Charles Wood |
-| 176 | Dan Goldman | 3 | D | Dan Goldman |
-| 177 | Daniel Yergin | 3 | B | Daniel Yergin |
-| 178 | David Lammy | 3 | B | David Lammy |
-| 179 | Dr. C Stals | 3 | C | Stals |
-| 180 | Edward (Prince) – of Kent | 3 | C | Duke of Kent |
-| 181 | Edward (The Prince) – Earl of Wessex | 3 | C | Duke of Kent |
-| 182 | Fatih Birol | 3 | B | Fatih Birol |
-| 183 | Francois Duchene | 3 | C | Duchene |
-| 184 | George Bush Jr | 3 | D | George Bush Jr |
-| 185 | George McGhee | 3 | C | McGhee |
-| 186 | Gerald Hyde family alternate Villiers | 3 | C | Villiers |
-| 187 | H. Lawrence Culp | 3 | T | H. Lawrence Culp |
-| 188 | Hartley Shawcross | 3 | C | Shawcross |
-| 189 | Indra K. Nooyi | 3 | T | Indra K. Nooyi |
-| 190 | J. J Jodry | 3 | C | Jodry |
-| 191 | JB Pritzker | 3 | D | JB Pritzker |
-| 192 | John J McCloy | 3 | C | McCloy |
-| 193 | John Thain | 3 | T | John Thain |
-| 194 | John W Davis | 3 | C | John W. Davis |
-| 195 | Joseph Safra | 3 | C | Joseph Safra |
-| 196 | Kadri Gürsel | 3 | B | Kadri Gürsel |
-| 197 | Keng Biao | 3 | C | Biao |
-| 198 | Kevin Warsh | 3 | D | Kevin Warsh |
-| 199 | Kjell Inge Rokke | 3 | D | Kjell Inge Rokke |
-| 200 | Lynn Davis | 3 | T | Lynn Davis |
-| 201 | Madeleine K Albright | 3 | T | Madeleine K Albright |
-| 202 | Michael (Prince) of Kent | 3 | C | Duke of Kent |
-| 203 | Michael Egauger | 3 | D | Michael Egauger |
-| 204 | Michael Kratsios | 3 | B | Michael Kratsios |
-| 205 | Mikhail Fridman | 3 | C | Mikhail Fridman |
-| 206 | Nigel Higgins | 3 | T | Nigel Higgins |
-| 207 | Robert S. McNamara | 3 | T | Robert S. McNamara |
-| 208 | Shashank Joshi | 3 | B | Shashank Joshi |
-| 209 | Stefan Nils Magnus Ingves | 3 | C | Ingves |
-| 210 | William C Dudley | 3 | C | William Dudley |
-| 211 | of Kent Edward | 3 | C | Duke of Kent |
-| 212 | John Sawers | 2 | Bx3 | John Sawers |
-| 213 | Mathias Döpfner | 2 | Bx3 | Mathias Döpfner |
-| 214 | Radoslaw Sikorski | 2 | Bx3 | Radoslaw Sikorski |
-| 215 | Daniel Ek | 2 | Bx2 | Daniel Ek |
-| 216 | Duarte Moreira | 2 | Bx2 | Moreira |
-| 217 | Karel Verhoeven | 2 | Bx2 | Verhoeven |
-| 218 | Maroš Šefčovič | 2 | Bx2 | Maroš Šefčovič |
-| 219 | Peter Sutherland | 2 | C/T | Peter Sutherland |
-| 220 | Thomas Wright | 2 | Bx2 | Thomas Wright |
-| 221 | Ainijrzej Olechowski | 2 | T | Ainijrzej Olechowski |
-| 222 | Ana Botín | 2 | B | Botín |
-| 223 | Archduke of Austria Lorenz (Prince) of Belgium | 2 | C | King Albert |
-| 224 | Arlen Specter | 2 | C | Arlen Specter |
-| 225 | Arnold Kanter | 2 | T | Arnold Kanter |
-| 226 | Arthur Levitt | 2 | C | Arthur Levitt |
-| 227 | Ashley J. Tellis | 2 | B | Ashley J. Tellis |
-| 228 | Asquith | 2 | C | Asquith |
-| 229 | Aurelio Peccei | 2 | C | Peccei |
-| 230 | Balogh | 2 | C | Balogh |
-| 231 | Ben Shapiro | 2 | D | Ben Shapiro |
-| 232 | Carla A. Hills | 2 | T | Carla A. Hills |
-| 233 | Carlos Cuerpo | 2 | B | Cuerpo |
-| 234 | Carlos Heredia | 2 | T | Carlos Heredia |
-| 235 | Catherine Bertini | 2 | T | Catherine Bertini |
-| 236 | Catto | 2 | C | Catto |
-| 237 | Charles B. Heck | 2 | T | Charles B. Heck |
-| 238 | Coreen Mao | 2 | D | Coreen Mao |
-| 239 | David Cooksey | 2 | C | Cooksey |
-| 240 | David G. Bradley | 2 | T | David G. Bradley |
-| 241 | David L Boren | 2 | C | David Boren |
-| 242 | David M. Rubenstein | 2 | T | David M. Rubenstein |
-| 243 | David Rothschild | 2 | P | David Rothschild |
-| 244 | David – 13th Earl of Airlie Ogilvy | 2 | C | Earl of Wessex |
-| 245 | Dionisio Garza Medina | 2 | T | Dionisio Garza Medina |
-| 246 | Donald R. Sobey | 2 | T | Sobey |
-| 247 | Doug Bereuter | 2 | T | Doug Bereuter |
-| 248 | Douglas Daft | 2 | T | Douglas Daft |
-| 249 | Douglas Haig | 2 | C | Douglas Haig |
-| 250 | Elizabeth Economy | 2 | B | Elizabeth Economy |
-| 251 | F. Gerald Corrigan | 2 | T | F. Gerald Corrigan |
-| 252 | Frits Bolkestein | 2 | C | Frits Bolkestein |
-| 253 | G. Richard Thoman | 2 | T | G. Richard Thoman |
-| 254 | George J. Tenet | 2 | T | George J. Tenet |
-| 255 | Georges Berthoin | 2 | T | Georges Berthoin |
-| 256 | Gerald Bull | 2 | D | Gerald Bull |
-| 257 | Gerald L. Curtis | 2 | T | Gerald L. Curtis |
-| 258 | Giulio Andreotti | 2 | C | Giulio Andreotti |
-| 259 | Gretchen Shappert | 2 | D | Gretchen Shappert |
-| 260 | Han Sung-Joo | 2 | T | Han Sung-Joo |
-| 261 | Harold Beeley | 2 | C | Beeley |
-| 262 | Heinz Fischer | 2 | C | Heinz Fischer |
-| 263 | Herve De Carmoy | 2 | T | Herve De Carmoy |
-| 264 | House of Hohenzollern | 2 | C | Constanti |
-| 265 | Ignazio Cassis | 2 | B | Ignazio Cassis |
-| 266 | Jaime Caruana | 2 | C | Caruana |
-| 267 | James B. Steinberg | 2 | T | James B. Steinberg |
-| 268 | James Giffen | 2 | C | Giffen |
-| 269 | James L. Balsillie | 2 | T | James L. Balsillie |
-| 270 | James T. Hackett | 2 | T | James T. Hackett |
-| 271 | Jeffrey W. Greenberg | 2 | T | Jeffrey W. Greenberg |
-| 272 | Jeremy Lefroy | 2 | D | Jeremy Lefroy |
-| 273 | Jessica Lonergan | 2 | D | Jessica Lonergan |
-| 274 | Jessica P. Einhorn | 2 | T | Jessica P. Einhorn |
-| 275 | John Kendall Rowlands | 2 | D | John Kendall Rowlands |
-| 276 | John M. Deutch | 2 | T | John M. Deutch |
-| 277 | John Russell | 2 | C | John Russell |
-| 278 | Joseph Alois Ratzinger | 2 | C | Ratzinger |
-| 279 | Karen Elliott House | 2 | T | Karen Elliott House |
-| 280 | Kenneth M. Duberstein | 2 | T | Kenneth M. Duberstein |
-| 281 | Laura Birger | 2 | D | Laura Birger |
-| 282 | Lee Cullum | 2 | T | Lee Cullum |
-| 283 | Lorenzo Bini Smaghi | 2 | B | Smaghi |
-| 284 | Louis C. Camilleri | 2 | T | Louis C. Camilleri |
-| 285 | Madeleine von Holzen | 2 | B | Holzen |
-| 286 | Marek Belka | 2 | C | Belka |
-| 287 | Martin S. Feldstein | 2 | T | Martin S. Feldstein |
-| 288 | McGeorge Bundy | 2 | C | McGeorge Bundy |
-| 289 | Michael B.G. Froman | 2 | T | Michael B.G. Froman |
-| 290 | Michael J. Critelli | 2 | T | Michael J. Critelli |
-| 291 | Miriam Adelson | 2 | D | Miriam Adelson |
-| 292 | Norbert Röttgen | 2 | B | Norbert Röttgen |
-| 293 | Orin Hatch | 2 | D | Orin Hatch |
-| 294 | Otto Graf Lambsdorf | 2 | T | Otto Graf Lambsdorf |
-| 295 | Paul Revay | 2 | T | Paul Revay |
-| 296 | Paul Tucker | 2 | C | Paul Tucker |
-| 297 | Peter C. Godsoe | 2 | T | Peter C. Godsoe |
-| 298 | R Dent | 2 | C | R Dent |
-| 299 | R Temple | 2 | C | R Temple |
-| 300 | Raymond Chrétien | 2 | T | Raymond Chrétien |
-| 301 | Richard A. Gephardt | 2 | T | Richard A. Gephardt |
-| 302 | Richard L. Armitage | 2 | T | Richard L. Armitage |
-| 303 | Richard N. Cooper | 2 | T | Richard N. Cooper |
-| 304 | Robert Eckert | 2 | T | Robert Eckert |
-| 305 | Roger W. Ferguson | 2 | T | Roger W. Ferguson |
-| 306 | Rothmere | 2 | C | Rothmere |
-| 307 | Sean Buckley | 2 | D | Sean Buckley |
-| 308 | Sebnem Kalemli-Özcan | 2 | B | Sebnem Kalemli-Özcan |
-| 309 | Shijuro Ogata | 2 | T | Shijuro Ogata |
-| 310 | Shriti Vadera | 2 | B | Shriti Vadera |
-| 311 | Simon Reuben | 2 | C | Simon Reuben |
-| 312 | Stanley Ho | 2 | D | Stanley Ho |
-| 313 | Stephen W. Bosworth | 2 | T | Stephen W. Bosworth |
-| 314 | Steven E. Koonin | 2 | T | Steven E. Koonin |
-| 315 | Tadashi Yamamoto | 2 | T | Tadashi Yamamoto |
-| 316 | Thomas Buberl | 2 | B | Thomas Buberl |
-| 317 | Thomas S. Foley | 2 | T | Thomas S. Foley |
-| 318 | Tom Tugendhat | 2 | B | Tom Tugendhat |
-| 319 | Victor Urquidi | 2 | C | Urquidi |
-| 320 | Wendy K Dobson | 2 | T | Wendy K Dobson |
-| 321 | William Castell | 2 | C | Castell |
-| 322 | William T. Coleman | 2 | T | William T. Coleman |
-| 323 | Winston Lord | 2 | T | Winston Lord |
-| 324 | Yotaro Kobayashi | 2 | T | Yotaro Kobayashi |
-| 325 | Yves Mersch | 2 | C | Mersch |
-| 326 | Patricia Barbizet | 1 | Bx3/T | Patricia Barbizet |
-| 327 | Thomas Leysen | 1 | Bx3/T | Thomas Leysen |
-| 328 | Alex Karp | 1 | Bx3 | Alex Karp |
-| 329 | André Kudelski | 1 | Bx3 | André Kudelski |
-| 330 | Connie Hedegaard | 1 | Bx3 | Connie Hedegaard |
-| 331 | Dmytro Kuleba | 1 | Bx3 | Dmytro Kuleba |
-| 332 | Erkki Liikanen | 1 | Bx3 | Erkki Liikanen |
-| 333 | Marco Alverà | 1 | Bx3 | Marco Alverà |
-| 334 | Stephen Kotkin | 1 | Bx3 | Stephen Kotkin |
-| 335 | Édouard Philippe | 1 | Bx3 | Édouard Philippe |
-| 336 | Ana P. Botín | 1 | Bx2 | Ana P. Botín |
-| 337 | Christopher Cavoli | 1 | Bx2 | Cavoli |
-| 338 | Jane Fraser | 1 | Bx2 | Jane Fraser |
-| 339 | José Manuel Albares | 1 | Bx2 | José Manuel Albares |
-| 340 | Magdalena Andersson | 1 | Bx2 | Magdalena Andersson |
-| 341 | Mehmet Şimşek | 1 | Bx2 | Şimşek |
-| 342 | Murray Auchincloss | 1 | Bx2 | Auchincloss |
-| 343 | Nadia Calviño | 1 | Bx2 | Calviño |
-| 344 | Nadia Schadlow | 1 | Bx2 | Nadia Schadlow |
-| 345 | Sanna Marin | 1 | Bx2 | Sanna Marin |
-| 346 | Wojciech Kostrzewa | 1 | Bx2 | Kostrzewa |
-| 347 | Adewale Adeyemo | 1 | B | Adewale Adeyemo |
-| 348 | Alex Soros | 1 | D | Alex Soros |
-| 349 | Allan E. Gotlieb | 1 | T | Allan E. Gotlieb |
-| 350 | Allan Gotlieb | 1 | C | Gotlieb |
-| 351 | Andreesen Horowitz | 1 | D | Andreesen Horowitz |
-| 352 | Ann Linde | 1 | B | Ann Linde |
-| 353 | Anna Fontcuberta i Morral | 1 | B | Morral |
-| 354 | Anne Heraty | 1 | B | Heraty |
-| 355 | Anson Chan | 1 | C | Anson Chan |
-| 356 | Antonio Madero | 1 | T | Antonio Madero |
-| 357 | Arpad Kovacs | 1 | T | Arpad Kovacs |
-| 358 | Arthur A. DeFehr | 1 | T | Arthur A. DeFehr |
-| 359 | Arthur Edward Rory Guinness | 1 | D | Arthur Edward Rory Gui... |
-| 360 | Arthur F. Ryan | 1 | T | Arthur F. Ryan |
-| 361 | Arvind Subramanian | 1 | B | Arvind Subramanian |
-| 362 | Barbara Ward Jackson | 1 | C | Barbara Ward |
-| 363 | Barberini | 1 | P | Barberini |
-| 364 | Beatrice Weder di Mauro | 1 | B | Beatrice Weder di Mauro |
-| 365 | Cecil John Rhodes | 1 | C | Cecil Rhodes |
-| 366 | Charles R. Kaye | 1 | T | Charles R. Kaye |
-| 367 | Charles Rose | 1 | T | Charles Rose |
-| 368 | Chigi | 1 | P | Chigi |
-| 369 | Conni Jonsson | 1 | B | Conni Jonsson |
-| 370 | Coudenhove-Kalergi | 1 | C | Coudenhove-Kalergi |
-| 371 | Cynthia Carroll | 1 | C | Cynthia Carroll |
-| 372 | Daniel Akerson | 1 | C | Akerson |
-| 373 | David Bialkin | 1 | C | Bialkin |
-| 374 | David J. O'Reilly | 1 | T | David J. O'Reilly |
-| 375 | David Steel | 1 | C | David Steel |
-| 376 | Dermot Gleeson | 1 | T | Dermot Gleeson |
-| 377 | Deryck C. Maughan | 1 | T | Deryck C. Maughan |
-| 378 | Diego Pestana | 1 | D | Diego Pestana |
-| 379 | Dinakar Singh | 1 | T | Dinakar Singh |
-| 380 | E. Peter Lougheed | 1 | T | Lougheed |
-| 381 | Edward Grey | 1 | C | Edward Grey |
-| 382 | Elisabeth Guigou | 1 | T | Elisabeth Guigou |
-| 383 | Enrico Letta | 1 | B | Enrico Letta |
-| 384 | Enrique Krauze | 1 | T | Enrique Krauze |
-| 385 | Ernesto Zedillo | 1 | T | Ernesto Zedillo |
-| 386 | Ernst Israel Japhet | 1 | C | Japhet |
-| 387 | Etienne D'Avignon | 1 | C | D'Avignon |
-| 388 | Fernando Henrique Cardoso | 1 | C | Fernando Henrique Cardoso |
-| 389 | Francesco Barberini | 1 | P | Barberini |
-| 390 | Fred Langhammer | 1 | T | Fred Langhammer |
-| 391 | G Lawrence | 1 | C | G Lawrence |
-| 392 | Gerald M. Levin | 1 | T | Gerald M. Levin |
-| 393 | Gilberto or alternate Carlo Benneton | 1 | C | Schmidheiny |
-| 394 | Giovanni Agnelli | 1 | C | Giovanni Agnelli |
-| 395 | Gueseppi Mazzini | 1 | C | Mazzini |
-| 396 | H. Blanco Mendoza | 1 | T | H. Blanco Mendoza |
-| 397 | H. G Wells | 1 | C | H. G Wells |
-| 398 | Halford Mackinder | 1 | C | Mackinder |
-| 399 | Hans Reisenhuber (returning) | 1 | T | Hans Reisenhuber (retu... |
-| 400 | Harlan Cleveland | 1 | C | Harlan Cleveland |
-| 401 | Hartley Richardson | 1 | T | Hartley Richardson |
-| 402 | Heather Munroe-Blum | 1 | T | Heather Munroe-Blum |
-| 403 | Henri Deterding | 1 | C | Deterding |
-| 404 | Jack Clark | 1 | B | Jack Clark |
-| 405 | Jacob Wallenberg | 1 | B | Jacob Wallenberg |
-| 406 | Jaime Serra | 1 | T | Jaime Serra |
-| 407 | James Kimsey | 1 | T | James Kimsey |
-| 408 | Jared Moskowitz | 1 | D | Jared Moskowitz |
-| 409 | Jay Mazur | 1 | T | Jay Mazur |
-| 410 | Jeroen van der Veer | 1 | T | Jeroen van der Veer |
-| 411 | Jerzy Kozminski | 1 | T | Jerzy Kozminski |
-| 412 | Jessica Stern | 1 | T | Jessica Stern |
-| 413 | Jim Leach | 1 | T | Jim Leach |
-| 414 | Jing Tsu | 1 | B | Jing Tsu |
-| 415 | Joe Ralston | 1 | T | Joe Ralston |
-| 416 | John A. MacNaughton | 1 | T | John A. MacNaughton |
-| 417 | John Eisenberg | 1 | D | John Eisenberg |
-| 418 | John J. Sweeney | 1 | T | John J. Sweeney |
-| 419 | John Manley | 1 | T | John Manley |
-| 420 | John Phelan | 1 | D | John Phelan |
-| 421 | Julia Klöckner | 1 | B | Julia Klöckner |
-| 422 | Jussi Herlin | 1 | B | Herlin |
-| 423 | Kaja Kallas | 1 | B | Kallas |
-| 424 | Karl Korsch | 1 | C | Korsch |
-| 425 | Kaspar Villiger | 1 | C | Villiger |
-| 426 | Kate Crawford | 1 | B | Kate Crawford |
-| 427 | Leonard Leo | 1 | D | Leonard Leo |
-| 428 | Lev Leviev | 1 | C | Leviev |
-| 429 | Luis Rubio | 1 | T | Luis Rubio |
-| 430 | Malcolm Leslie Rifkind | 1 | C | Malcolm Rifkind |
-| 431 | Manfred Bischoff | 1 | T | Manfred Bischoff |
-| 432 | Marc H. Morial | 1 | T | Marc H. Morial |
-| 433 | Mario Chigi | 1 | P | Chigi |
-| 434 | Marjorie Scardino | 1 | C | Scardino |
-| 435 | Marjorie Taylor Green | 1 | D | Marjorie Taylor Green |
-| 436 | Mark J. Carney | 1 | B | Mark J. Carney |
-| 437 | Martha C. Piper | 1 | T | Martha C. Piper |
-| 438 | Mary Gay Scanlon | 1 | D | Mary Gay Scanlon |
-| 439 | Maurice Strong | 1 | C | Maurice Strong |
-| 440 | Max Kohnstamm | 1 | C | Kohnstamm |
-| 441 | Michael J. O'Neil | 1 | T | Michael J. O'Neil |
-| 442 | Michele Della Vigna | 1 | B | Vigna |
-| 443 | Murat Özyeğin | 1 | B | Özyeğin |
-| 444 | NEW TRILATERAL MEMBERS ATTENDING FROM EUROPE | 1 | T | NEW TRILATERAL MEMBERS... |
-| 445 | Nathan Rothschild | 1 | P | Nathan Rothschild |
-| 446 | Nicholas Bethal | 1 | C | Nicols |
-| 447 | Nicholas of Bethal Nicols | 1 | C | Nicols |
-| 448 | Nick Anstee | 1 | C | Anstee |
-| 449 | Nicky Oppenheimer | 1 | C | Nicky Oppenheimer |
-| 450 | Palmerston | 1 | C | Palmerston |
-| 451 | Pamela Rendi-Wagner | 1 | B | Pamela Rendi-Wagner |
-| 452 | Patrice Caine | 1 | B | Patrice Caine |
-| 453 | Paul Warnke | 1 | C | Warnke |
-| 454 | Peter C. Dobell | 1 | T | Peter C. Dobell |
-| 455 | Phil Donahue | 1 | D | Phil Donahue |
-| 456 | Philip Roy Hampton | 1 | C | Philip Hampton |
-| 457 | Pierre Salinger | 1 | D | Pierre Salinger |
-| 458 | Pietro Modiano | 1 | T | Pietro Modiano |
-| 459 | Rahm Emmanuel | 1 | D | Rahm Emmanuel |
-| 460 | Rebeccah Heinrichs | 1 | B | Rebeccah Heinrichs |
-| 461 | Recanati | 1 | C | Recanati |
-| 462 | Richard F. Haskayne | 1 | T | Richard F. Haskayne |
-| 463 | Richard N. Perle | 1 | T | Richard N. Perle |
-| 464 | Richard Plepler | 1 | T | Richard Plepler |
-| 465 | Richard W. Fisher | 1 | T | Richard W. Fisher |
-| 466 | Richard Walker | 1 | D | Richard Walker |
-| 467 | Robert Hart | 1 | C | Robert Hart |
-| 468 | Robert Lane | 1 | T | Robert Lane |
-| 469 | Robert Sproull | 1 | C | Sproull |
-| 470 | Roy MacLaren | 1 | T | Roy MacLaren |
-| 471 | Soli Özel | 1 | B | Soli Özel |
-| 472 | Stanley Woodward | 1 | D | Stanley Woodward |
-| 473 | Stephan or alternate brothers Thomas, Alexander Schmidheiny | 1 | C | Schmidheiny |
-| 474 | Strathmore | 1 | C | Strathmore |
-| 475 | Thomas R. Pickering | 1 | T | Thomas R. Pickering |
-| 476 | Uri Dadush | 1 | C | Uri Dadush |
-| 477 | Wael Sawan | 1 | B | Wael Sawan |
-| 478 | Walter Besant | 1 | C | Besant |
-| 479 | William H. Webster | 1 | T | William H. Webster |
-| 480 | William Simon | 1 | C | William Simon |
+### 8.4 Nomes com 0 Hits — Resumo (350 nomes)
 
-### 8.4 Nomes com 0 Hits — Resumo (155 nomes)
+350 nomes pesquisados não retornaram nenhum resultado nos documentos Epstein. Distribuição por lista de origem:
 
-155 nomes pesquisados não retornaram nenhum resultado nos ~580.000 documentos. Distribuição por lista de origem:
+| Lista de Origem | Nomes com 0 Hits | % da Lista |
+|---|---|---|
+| DOJ | 11 | 3.6% |
+| Committee of 300 | 234 | 37.0% |
+| Bilderberg | 90 | 34.9% |
+| Trilateral Commission | 4 | 2.5% |
+| Papal Bloodlines | 14 | 37.8% |
 
-| Lista de Origem | Nomes com 0 Hits |
-|-----------------|------------------|
-| Committee of 300 (1991) | 49 |
-| Committee of 300 (2010) | 29 |
-| Bilderberg 2023 | 28 |
-| Bilderberg 2024 | 28 |
-| Bilderberg 2025 | 24 |
-| Papal Bloodlines | 13 |
-| Lista DOJ | 3 |
-
-**Total**: 155 nomes com 0 hits. A maioria pertence ao Committee of 300 (lista histórica de 1991, com muitos nomes de período anterior aos documentos Epstein) e ao Bilderberg (participantes recentes sem conexão documental). Apenas 3 nomes da lista DOJ têm 0 hits (Joshua Harrish, Nathan Milikowski, Janis Schenberg).
+**Nota**: A alta taxa de 0 hits no Committee of 300 (37.0%) reflete que esta lista contém muitos nomes históricos (aristocracia europeia, figuras do século XIX-XX) que não teriam razão para aparecer em documentos de Epstein do período 2000-2019. Já a lista DOJ, com apenas 3.6% de nomes sem hits, confirma que a maioria dos nomes DOJ tem presença documental real.
 
 ---
 
