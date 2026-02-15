@@ -576,10 +576,15 @@ Este dossiê analisa **50 nomes e famílias especiais**, organizados por papel n
 - Chomsky: **"Seems pretty clear. What is our next step?"** — sobre assunto não especificado
 - iMessage de setembro de 2018: "called me with Lula. From prison" — Epstein intermediou ligação entre Chomsky e Lula
 
-**O que se sabe publicamente**:
+**O que se sabe publicamente (atualizado fevereiro 2026)**:
 - Linguista do MIT, intelectual mais citado do mundo
-- Confirmou ter encontrado Epstein "várias vezes" e que "não é da conta de ninguém"
-- A conexão Chomsky-Lula-Epstein é extraordinária: o maior intelectual de esquerda do mundo conectado ao maior líder de esquerda da América Latina via um traficante sexual condenado
+- Encontrou Epstein **múltiplas vezes em 2015 e 2016** — após Epstein ser sex offender registado
+- Epstein recorreu a Chomsky para **conselhos sobre cobertura mediática** das alegações de tráfico sexual (fevereiro 2019)
+- **Valeria Chomsky** (segunda esposa) mantinha correspondência própria com Epstein, incluindo "email de aniversário" (janeiro 2017)
+- **Valeria negou** a história do telefonema com Lula, chamando-a de "infundada e mentirosa", explicando que visitantes da prisão entregam os telemóveis
+- Em 2026, Valeria admitiu que cometeram **"erros graves de julgamento"** e uma "grave mistake", dizendo que Epstein os "enganou"
+- Quando questionado pelo WSJ em 2023: **"First response is that it is none of your business. Or anyone's. Second is that I knew him and we met occasionally."**
+- A conexão Chomsky-Lula-Epstein permanece extraordinária independentemente da versão aceite
 
 ---
 
@@ -617,10 +622,14 @@ Este dossiê analisa **50 nomes e famílias especiais**, organizados por papel n
   - Allen: "Why?" · "That's specific. ;)" · "I've gotten older. ;)" · "Somethings r out of my control." (EFTA01214962)
 - Presente no jantar de 2014 com Kissinger, Schwarzman, Black, Barak, etc.
 
-**O que se sabe publicamente**:
-- Acusado por Dylan Farrow (filha adotiva) de abuso sexual em 1992
-- Casou-se com Soon-Yi Previn, filha adotiva de Mia Farrow
-- As iMessages pessoais com Epstein datam de 2015-2016
+**O que se sabe publicamente (atualizado fevereiro 2026)**:
+- **Soon-Yi Previn** (esposa de Allen) era a intermediária principal com Epstein, correspondendo-se frequentemente por email
+- Epstein ajudou a filha de Allen, **Bechet Allen**, a ser admitida no **Bard College** via conexão pessoal com o presidente Leon Botstein (2017)
+- Epstein organizou uma **visita à Casa Branca** para Allen e Previn via Kathy Ruemmler (maio 2015): "Could you show Soon Yi the White House"
+- Previn chamou o actor **Timothée Chalamet** de "prick" em emails a Epstein (2018), após Chalamet distanciar-se de Allen e doar o salário de "A Rainy Day in New York"
+- Previn criticou o **movimento #MeToo** em emails a Epstein pelo impacto na carreira de Allen
+- Allen descreveu Epstein como "charming and personable" e disse "He couldn't have been nicer"
+- Acusado por Dylan Farrow (filha adotiva) de abuso sexual em 1992 (caso separado, não relacionado a Epstein)
 
 ---
 
@@ -666,7 +675,12 @@ Este dossiê analisa **50 nomes e famílias especiais**, organizados por papel n
 **O que os documentos mostram**:
 - Lista de passageiros de voo com Clinton para África: "President Clinton, Doug Band... Kevin Spacey... Dan Rather" (EFTA00578629)
 
-**O que se sabe publicamente**: Spacey enfrenta múltiplas acusações de agressão sexual. Absolvido em tribunal criminal no UK (2023) mas com reputação destruída.
+**O que se sabe publicamente (atualizado fevereiro 2026)**:
+- O próprio Spacey admitiu que **"young girls"** estavam presentes no voo para África, dizendo que sentiu que Epstein "put the president at risk"
+- Fotografado com **Ghislaine Maxwell** na **sala do trono do Palácio de Buckingham**, alegadamente convidado por Prince Andrew
+- Em julho 2025: **"Release the Epstein files. All of them. For those of us with nothing to fear, the truth can't come soon enough."**
+- Negou ser amigo de Epstein: "I didn't know him, I didn't spend any time with him"
+- Spacey enfrenta acusações separadas de agressão sexual. Absolvido em tribunal criminal no UK (2023)
 
 ---
 
@@ -680,6 +694,13 @@ Este dossiê analisa **50 nomes e famílias especiais**, organizados por papel n
 **O que os documentos mostram**:
 - Lesley Groff a Epstein: "Please call Naomi Campbell" — em três emails separados (EFTA00836128, EFTA00330621, EFTA00698140, janeiro 2016)
 - Ligação com a rede de modelos de Jean-Luc Brunel
+- Campbell apareceu no site da **MC2 Models**, agência cofundada por Brunel com financiamento de Epstein
+
+**O que se sabe publicamente (atualizado fevereiro 2026)**:
+- Apareceu em **pelo menos 5 voos** nos registros de Epstein (Londres→NYC, Paris→NYC, viagem à África)
+- Virginia Giuffre declarou ter conhecido Campbell numa **festa de aniversário num iate** em St. Tropez, aparecendo em fotografias com Campbell e Maxwell
+- Segundo notas de entrevista policial, Campbell foi à **ilha particular de Epstein** com "Jean Luc" (Brunel) e "older people"
+- Campbell disse ter sido apresentada a Epstein no seu **31.º aniversário** pelo então namorado **Flavio Briatore** (2001)
 
 ---
 
